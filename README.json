@@ -14,7 +14,7 @@
             "last_commit": "2026-07-23T02:30:28Z",
             "owner": "dmtrKovalenko",
             "repo": "odiff",
-            "stars": 3155
+            "stars": 3156
           }
         },
         {
@@ -146,7 +146,7 @@
             "last_commit": "2026-07-10T16:45:33Z",
             "owner": "janestreet",
             "repo": "base",
-            "stars": 1079
+            "stars": 1080
           }
         },
         {
@@ -250,7 +250,7 @@
             "last_commit": "2026-07-10T16:39:14Z",
             "owner": "janestreet",
             "repo": "core_bench",
-            "stars": 56
+            "stars": 57
           }
         },
         {
@@ -286,10 +286,10 @@
           "repo_info": {
             "archived": false,
             "language": "Rust",
-            "last_commit": "2026-08-15T06:33:26Z",
+            "last_commit": "2026-08-16T07:17:58Z",
             "owner": "facebook",
             "repo": "flow",
-            "stars": 22277
+            "stars": 22276
           }
         },
         {
@@ -303,7 +303,7 @@
             "last_commit": "2026-08-12T11:20:16Z",
             "owner": "facebook",
             "repo": "infer",
-            "stars": 15675
+            "stars": 15676
           }
         },
         {
@@ -393,7 +393,7 @@
             "last_commit": "2026-05-07T15:28:41Z",
             "owner": "BinaryAnalysisPlatform",
             "repo": "bap",
-            "stars": 2248
+            "stars": 2249
           }
         },
         {
@@ -421,7 +421,7 @@
             "last_commit": "2026-07-24T11:15:02Z",
             "owner": "fkie-cad",
             "repo": "cwe_checker",
-            "stars": 1348
+            "stars": 1349
           }
         },
         {
@@ -435,7 +435,7 @@
             "last_commit": "2026-08-10T11:03:15Z",
             "owner": "OCamlPro",
             "repo": "owi",
-            "stars": 319
+            "stars": 320
           }
         },
         {
@@ -889,7 +889,7 @@
           "repo_info": {
             "archived": false,
             "language": "OCaml",
-            "last_commit": "2026-03-26T09:45:29Z",
+            "last_commit": "2026-08-16T08:37:12Z",
             "owner": "ocaml-community",
             "repo": "utop",
             "stars": 925
@@ -1069,7 +1069,7 @@
               "repo_info": {
                 "archived": false,
                 "language": "OCaml",
-                "last_commit": "2026-08-14T08:27:51Z",
+                "last_commit": "2026-08-16T10:03:14Z",
                 "owner": "ocaml",
                 "repo": "ocaml-lsp",
                 "stars": 909
@@ -1563,7 +1563,7 @@
           "repo_info": {
             "archived": false,
             "language": "OCaml",
-            "last_commit": "2026-08-03T08:40:11Z",
+            "last_commit": "2026-08-16T14:41:10Z",
             "owner": "rocq-prover",
             "repo": "rocq",
             "stars": 5553
@@ -1594,7 +1594,7 @@
             "last_commit": "2026-08-14T13:54:29Z",
             "owner": "savonet",
             "repo": "liquidsoap",
-            "stars": 1719
+            "stars": 1720
           }
         },
         {
@@ -1608,7 +1608,7 @@
             "last_commit": "2026-07-10T16:45:33Z",
             "owner": "janestreet",
             "repo": "base",
-            "stars": 1079
+            "stars": 1080
           }
         },
         {
@@ -1998,10 +1998,10 @@
               "repo_info": {
                 "archived": false,
                 "language": "OCaml",
-                "last_commit": "2026-08-15T14:58:15Z",
+                "last_commit": "2026-08-16T14:23:37Z",
                 "owner": "ocaml",
                 "repo": "dune",
-                "stars": 1908
+                "stars": 1909
               }
             },
             {
@@ -2215,10 +2215,10 @@
           "repo_info": {
             "archived": false,
             "language": "OCaml",
-            "last_commit": "2026-08-15T14:58:15Z",
+            "last_commit": "2026-08-16T14:23:37Z",
             "owner": "ocaml",
             "repo": "dune",
-            "stars": 1908
+            "stars": 1909
           }
         },
         {
@@ -3163,7 +3163,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-08-15T15:00:47.983Z",
+    "last_updated": "2026-08-16T15:00:40.357Z",
     "original_repository": "ocaml-community/awesome-ocaml",
     "original_repository_sha": "be4de2c236793ba4d6c6f841423279fc282d6d4e",
     "enhanced_repository": "enhansome/enhansome-ocaml",

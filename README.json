@@ -14,7 +14,7 @@
             "last_commit": "2026-07-23T02:30:28Z",
             "owner": "dmtrKovalenko",
             "repo": "odiff",
-            "stars": 3156
+            "stars": 3157
           }
         },
         {
@@ -132,7 +132,7 @@
             "last_commit": "2026-07-10T16:45:34Z",
             "owner": "janestreet",
             "repo": "core",
-            "stars": 1316
+            "stars": 1317
           }
         },
         {
@@ -286,10 +286,10 @@
           "repo_info": {
             "archived": false,
             "language": "Rust",
-            "last_commit": "2026-08-16T07:17:58Z",
+            "last_commit": "2026-08-17T04:32:10Z",
             "owner": "facebook",
             "repo": "flow",
-            "stars": 22276
+            "stars": 22275
           }
         },
         {
@@ -303,7 +303,7 @@
             "last_commit": "2026-08-12T11:20:16Z",
             "owner": "facebook",
             "repo": "infer",
-            "stars": 15676
+            "stars": 15674
           }
         },
         {
@@ -432,10 +432,10 @@
           "repo_info": {
             "archived": false,
             "language": "OCaml",
-            "last_commit": "2026-08-10T11:03:15Z",
+            "last_commit": "2026-08-17T10:10:31Z",
             "owner": "OCamlPro",
             "repo": "owi",
-            "stars": 320
+            "stars": 321
           }
         },
         {
@@ -446,7 +446,7 @@
           "repo_info": {
             "archived": false,
             "language": "OCaml",
-            "last_commit": "2026-08-13T16:53:06Z",
+            "last_commit": "2026-08-17T09:51:33Z",
             "owner": "formalsec",
             "repo": "smtml",
             "stars": 80
@@ -1055,7 +1055,7 @@
               "repo_info": {
                 "archived": false,
                 "language": "OCaml",
-                "last_commit": "2026-07-31T15:46:41Z",
+                "last_commit": "2026-08-17T07:43:57Z",
                 "owner": "ocaml",
                 "repo": "merlin",
                 "stars": 1700
@@ -1069,10 +1069,10 @@
               "repo_info": {
                 "archived": false,
                 "language": "OCaml",
-                "last_commit": "2026-08-16T10:03:14Z",
+                "last_commit": "2026-08-16T23:25:50Z",
                 "owner": "ocaml",
                 "repo": "ocaml-lsp",
-                "stars": 909
+                "stars": 910
               }
             },
             {
@@ -1487,7 +1487,7 @@
           "repo_info": {
             "archived": false,
             "language": "OCaml",
-            "last_commit": "2026-08-12T15:58:03Z",
+            "last_commit": "2026-08-17T05:24:02Z",
             "owner": "ocaml-community",
             "repo": "lambda-term",
             "stars": 231
@@ -1566,7 +1566,7 @@
             "last_commit": "2026-08-16T14:41:10Z",
             "owner": "rocq-prover",
             "repo": "rocq",
-            "stars": 5553
+            "stars": 5549
           }
         },
         {
@@ -1591,10 +1591,10 @@
           "repo_info": {
             "archived": false,
             "language": "OCaml",
-            "last_commit": "2026-08-14T13:54:29Z",
+            "last_commit": "2026-08-17T01:51:46Z",
             "owner": "savonet",
             "repo": "liquidsoap",
-            "stars": 1720
+            "stars": 1721
           }
         },
         {
@@ -1647,7 +1647,7 @@
           "repo_info": {
             "archived": false,
             "language": "OCaml",
-            "last_commit": "2026-08-14T07:56:31Z",
+            "last_commit": "2026-08-17T10:09:26Z",
             "owner": "xapi-project",
             "repo": "xen-api",
             "stars": 367
@@ -1998,7 +1998,7 @@
               "repo_info": {
                 "archived": false,
                 "language": "OCaml",
-                "last_commit": "2026-08-16T14:23:37Z",
+                "last_commit": "2026-08-17T13:38:56Z",
                 "owner": "ocaml",
                 "repo": "dune",
                 "stars": 1909
@@ -2215,7 +2215,7 @@
           "repo_info": {
             "archived": false,
             "language": "OCaml",
-            "last_commit": "2026-08-16T14:23:37Z",
+            "last_commit": "2026-08-17T13:38:56Z",
             "owner": "ocaml",
             "repo": "dune",
             "stars": 1909
@@ -3163,7 +3163,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-08-16T15:00:40.357Z",
+    "last_updated": "2026-08-17T15:04:41.128Z",
     "original_repository": "ocaml-community/awesome-ocaml",
     "original_repository_sha": "be4de2c236793ba4d6c6f841423279fc282d6d4e",
     "enhanced_repository": "enhansome/enhansome-ocaml",

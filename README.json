@@ -1,7 +1,7 @@
 {
   "items": [
     {
-      "description": "",
+      "description": null,
       "items": [
         {
           "node_type": "item",
@@ -10,11 +10,12 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "id": 310022924,
             "language": "Zig",
             "last_commit": "2026-07-23T02:30:28Z",
             "owner": "dmtrKovalenko",
             "repo": "odiff",
-            "stars": 3157
+            "stars": 3158
           }
         },
         {
@@ -24,6 +25,7 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "id": 10499209,
             "language": "OCaml",
             "last_commit": "2026-02-24T12:23:10Z",
             "owner": "backtracking",
@@ -38,6 +40,7 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "id": 34727873,
             "language": "OCaml",
             "last_commit": "2026-07-22T09:23:50Z",
             "owner": "mirage",
@@ -52,6 +55,7 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "id": 6418316,
             "language": "OCaml",
             "last_commit": "2026-07-05T20:33:38Z",
             "owner": "owainlewis",
@@ -66,6 +70,7 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "id": 161356337,
             "language": "HTML",
             "last_commit": "2024-02-26T07:35:15Z",
             "owner": "mirage",
@@ -80,6 +85,7 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "id": 8094303,
             "language": "OCaml",
             "last_commit": "2025-05-27T20:35:07Z",
             "owner": "backtracking",
@@ -94,6 +100,7 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "id": 236333307,
             "language": "OCaml",
             "last_commit": "2026-02-09T22:26:17Z",
             "owner": "komamitsu",
@@ -108,6 +115,7 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "id": 128388734,
             "language": "OCaml",
             "last_commit": "2024-11-26T16:05:59Z",
             "owner": "mirage",
@@ -119,7 +127,7 @@
       "title": "Algorithms and Data Structures"
     },
     {
-      "description": "",
+      "description": null,
       "items": [
         {
           "node_type": "item",
@@ -128,6 +136,7 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "id": 7896580,
             "language": "OCaml",
             "last_commit": "2026-07-10T16:45:34Z",
             "owner": "janestreet",
@@ -142,6 +151,7 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "id": 68384652,
             "language": "OCaml",
             "last_commit": "2026-07-10T16:45:33Z",
             "owner": "janestreet",
@@ -156,6 +166,7 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "id": 374929,
             "language": "OCaml",
             "last_commit": "2026-06-25T19:03:32Z",
             "owner": "ocaml-batteries-team",
@@ -170,8 +181,9 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "id": 8457448,
             "language": "OCaml",
-            "last_commit": "2026-06-14T02:55:07Z",
+            "last_commit": "2026-08-18T20:54:48Z",
             "owner": "c-cube",
             "repo": "ocaml-containers",
             "stars": 524
@@ -184,6 +196,7 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "id": 8093362,
             "language": "OCaml",
             "last_commit": "2026-06-09T06:06:37Z",
             "owner": "dbuenzli",
@@ -198,11 +211,12 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "id": 482448,
             "language": "OCaml",
             "last_commit": "2026-04-04T21:28:05Z",
             "owner": "mirage",
             "repo": "ocaml-rpc",
-            "stars": 105
+            "stars": 106
           }
         },
         {
@@ -212,6 +226,7 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "id": 2833626,
             "language": "OCaml",
             "last_commit": "2022-06-04T16:15:50Z",
             "owner": "ocaml-community",
@@ -226,6 +241,7 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "id": 100358580,
             "language": "OCaml",
             "last_commit": "2020-10-07T06:59:40Z",
             "owner": "UnixJunkie",
@@ -237,7 +253,7 @@
       "title": "Application Libraries"
     },
     {
-      "description": "",
+      "description": null,
       "items": [
         {
           "node_type": "item",
@@ -246,6 +262,7 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "id": 10200452,
             "language": "OCaml",
             "last_commit": "2026-07-10T16:39:14Z",
             "owner": "janestreet",
@@ -260,6 +277,7 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "id": 5859706,
             "language": "OCaml",
             "last_commit": "2025-01-31T01:34:55Z",
             "owner": "Chris00",
@@ -271,12 +289,7 @@
       "title": "Benchmarking"
     },
     {
-      "description": "- OCaml Programming: Correct + Efficient + Beautiful - List of 200 bite-sized videos recorded by Michael R. Clarkson. It can be watched independently of the textbook titled the same and listed above in the Books section.",
-      "items": [],
-      "title": "Videos"
-    },
-    {
-      "description": "",
+      "description": null,
       "items": [
         {
           "node_type": "item",
@@ -285,8 +298,9 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "id": 25880891,
             "language": "Rust",
-            "last_commit": "2026-08-18T09:07:01Z",
+            "last_commit": "2026-08-19T06:31:36Z",
             "owner": "facebook",
             "repo": "flow",
             "stars": 22276
@@ -299,11 +313,12 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "id": 29857799,
             "language": "OCaml",
-            "last_commit": "2026-08-12T11:20:16Z",
+            "last_commit": "2026-08-19T11:28:51Z",
             "owner": "facebook",
             "repo": "infer",
-            "stars": 15675
+            "stars": 15679
           }
         },
         {
@@ -313,6 +328,7 @@
           "children": [],
           "repo_info": {
             "archived": true,
+            "id": 49563168,
             "language": "OCaml",
             "last_commit": "2016-07-14T08:42:11Z",
             "owner": "microsoft",
@@ -327,6 +343,7 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "id": 14023027,
             "language": "OCaml",
             "last_commit": "2026-05-18T16:39:24Z",
             "owner": "formal-land",
@@ -341,6 +358,7 @@
           "children": [],
           "repo_info": {
             "archived": true,
+            "id": 221114887,
             "language": null,
             "last_commit": "2026-02-05T01:08:39Z",
             "owner": "semgrep",
@@ -355,6 +373,7 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "id": 253364944,
             "language": "OCaml",
             "last_commit": "2026-04-21T23:15:38Z",
             "owner": "upenn-cis1xx",
@@ -369,6 +388,7 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "id": 43815927,
             "language": null,
             "last_commit": "2021-10-15T15:25:34Z",
             "owner": "Antique-team",
@@ -380,7 +400,7 @@
       "title": "Code Analysis and Linters"
     },
     {
-      "description": "",
+      "description": null,
       "items": [
         {
           "node_type": "item",
@@ -389,6 +409,7 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "id": 25968851,
             "language": "OCaml",
             "last_commit": "2026-05-07T15:28:41Z",
             "owner": "BinaryAnalysisPlatform",
@@ -403,6 +424,7 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "id": 92752493,
             "language": "OCaml",
             "last_commit": "2025-02-25T16:54:39Z",
             "owner": "airbus-seclab",
@@ -417,6 +439,7 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "id": 152072866,
             "language": "Rust",
             "last_commit": "2026-08-18T10:59:28Z",
             "owner": "fkie-cad",
@@ -431,11 +454,12 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "id": 573640699,
             "language": "OCaml",
-            "last_commit": "2026-08-17T23:48:15Z",
+            "last_commit": "2026-08-19T12:39:50Z",
             "owner": "OCamlPro",
             "repo": "owi",
-            "stars": 322
+            "stars": 323
           }
         },
         {
@@ -445,6 +469,7 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "id": 618050885,
             "language": "OCaml",
             "last_commit": "2026-08-17T09:51:33Z",
             "owner": "formalsec",
@@ -456,7 +481,7 @@
       "title": "Program analysis"
     },
     {
-      "description": "",
+      "description": null,
       "items": [
         {
           "node_type": "group",
@@ -470,6 +495,7 @@
               "children": [],
               "repo_info": {
                 "archived": true,
+                "id": 22042992,
                 "language": "OCaml",
                 "last_commit": "2015-03-31T23:34:00Z",
                 "owner": "artagnon",
@@ -484,6 +510,7 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "id": 827420250,
                 "language": "OCaml",
                 "last_commit": "2025-12-05T18:28:24Z",
                 "owner": "hirrolot",
@@ -498,6 +525,7 @@
               "children": [],
               "repo_info": {
                 "archived": true,
+                "id": 16182020,
                 "language": "OCaml",
                 "last_commit": "2014-01-24T19:15:31Z",
                 "owner": "nrnrnr",
@@ -512,18 +540,13 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "id": 512075307,
                 "language": "OCaml",
                 "last_commit": "2026-06-14T00:36:00Z",
                 "owner": "benfaerber",
                 "repo": "liquid-ml",
                 "stars": 51
               }
-            },
-            {
-              "node_type": "item",
-              "title": "tis-interpreter",
-              "description": "An interpreter for finding subtle bugs in programs written in standard C",
-              "children": []
             }
           ]
         },
@@ -539,6 +562,7 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "id": 47039984,
                 "language": "OCaml",
                 "last_commit": "2024-09-12T21:27:32Z",
                 "owner": "inhabitedtype",
@@ -553,6 +577,7 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "id": 12734005,
                 "language": "OCaml",
                 "last_commit": "2026-04-15T19:33:08Z",
                 "owner": "ocaml-community",
@@ -567,6 +592,7 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "id": 29375876,
                 "language": "OCaml",
                 "last_commit": "2023-07-24T22:23:49Z",
                 "owner": "pyrocat101",
@@ -586,6 +612,7 @@
                   "children": [],
                   "repo_info": {
                     "archived": false,
+                    "id": 89413882,
                     "language": "OCaml",
                     "last_commit": "2024-05-06T17:26:24Z",
                     "owner": "smolkaj",
@@ -600,6 +627,7 @@
                   "children": [],
                   "repo_info": {
                     "archived": false,
+                    "id": 90158387,
                     "language": "OCaml",
                     "last_commit": "2026-06-22T02:13:02Z",
                     "owner": "Lelio-Brun",
@@ -615,7 +643,7 @@
       "title": "Compilers and Compiler Tools"
     },
     {
-      "description": "",
+      "description": null,
       "items": [
         {
           "node_type": "group",
@@ -629,6 +657,7 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "id": 21544705,
                 "language": "OCaml",
                 "last_commit": "2026-08-12T19:29:36Z",
                 "owner": "mmottl",
@@ -643,6 +672,7 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "id": 115010239,
                 "language": "OCaml",
                 "last_commit": "2022-10-26T21:16:00Z",
                 "owner": "arenadotio",
@@ -657,6 +687,7 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "id": 25047067,
                 "language": "OCaml",
                 "last_commit": "2025-05-21T14:16:39Z",
                 "owner": "0xffea",
@@ -671,8 +702,9 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "id": 63977370,
                 "language": "OCaml",
-                "last_commit": "2026-07-31T10:08:47Z",
+                "last_commit": "2026-08-19T09:09:34Z",
                 "owner": "ocaml-community",
                 "repo": "ocaml-mariadb",
                 "stars": 59
@@ -685,6 +717,7 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "id": 21475758,
                 "language": "OCaml",
                 "last_commit": "2022-04-12T21:02:43Z",
                 "owner": "slegrand45",
@@ -704,6 +737,7 @@
                   "children": [],
                   "repo_info": {
                     "archived": false,
+                    "id": 83909335,
                     "language": "OCaml",
                     "last_commit": "2020-09-04T17:57:06Z",
                     "owner": "tizoc",
@@ -727,6 +761,7 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "id": 9595928,
                 "language": "OCaml",
                 "last_commit": "2026-04-15T10:13:06Z",
                 "owner": "mirage",
@@ -741,6 +776,7 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "id": 14395544,
                 "language": "OCaml",
                 "last_commit": "2015-03-22T10:48:30Z",
                 "owner": "RunOrg",
@@ -755,6 +791,7 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "id": 137422368,
                 "language": "OCaml",
                 "last_commit": "2025-09-22T12:44:13Z",
                 "owner": "UnixJunkie",
@@ -776,6 +813,7 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "id": 17882175,
                 "language": "OCaml",
                 "last_commit": "2026-08-13T08:10:38Z",
                 "owner": "paurkedal",
@@ -790,6 +828,7 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "id": 228683199,
                 "language": "OCaml",
                 "last_commit": "2026-08-14T06:54:05Z",
                 "owner": "roddyyaga",
@@ -804,6 +843,7 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "id": 37933308,
                 "language": "OCaml",
                 "last_commit": "2022-12-23T08:22:14Z",
                 "owner": "andrenth",
@@ -818,6 +858,7 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "id": 370982,
                 "language": "OCaml",
                 "last_commit": "2018-11-15T22:38:54Z",
                 "owner": "mirage",
@@ -832,6 +873,7 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "id": 11769406,
                 "language": "OCaml",
                 "last_commit": "2019-11-18T10:55:54Z",
                 "owner": "ocsigen",
@@ -845,7 +887,7 @@
       "title": "Databases"
     },
     {
-      "description": "",
+      "description": null,
       "items": [
         {
           "node_type": "item",
@@ -854,6 +896,7 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "id": 30875558,
             "language": "OCaml",
             "last_commit": "2024-02-08T09:53:33Z",
             "owner": "ocaml-community",
@@ -868,6 +911,7 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "id": 12418575,
             "language": "OCaml",
             "last_commit": "2024-04-12T20:56:12Z",
             "owner": "hhugo",
@@ -879,7 +923,7 @@
       "title": "Datetime"
     },
     {
-      "description": "",
+      "description": null,
       "items": [
         {
           "node_type": "item",
@@ -888,8 +932,9 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "id": 6258994,
             "language": "OCaml",
-            "last_commit": "2026-08-16T08:37:12Z",
+            "last_commit": "2026-08-18T22:05:04Z",
             "owner": "ocaml-community",
             "repo": "utop",
             "stars": 925
@@ -902,11 +947,12 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "id": 106263946,
             "language": "OCaml",
             "last_commit": "2026-07-30T07:41:48Z",
             "owner": "ocaml-ppx",
             "repo": "ocamlformat",
-            "stars": 728
+            "stars": 729
           }
         },
         {
@@ -916,6 +962,7 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "id": 60344509,
             "language": "JavaScript",
             "last_commit": "2025-12-06T08:20:56Z",
             "owner": "ocaml-sf",
@@ -930,11 +977,12 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "id": 97241116,
             "language": "Jupyter Notebook",
             "last_commit": "2026-03-12T18:11:12Z",
             "owner": "akabe",
             "repo": "ocaml-jupyter",
-            "stars": 316
+            "stars": 317
           }
         },
         {
@@ -944,6 +992,7 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "id": 48396881,
             "language": "JavaScript",
             "last_commit": "2018-06-29T05:07:00Z",
             "owner": "ythecombinator",
@@ -958,6 +1007,7 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "id": 16386940,
             "language": "OCaml",
             "last_commit": "2014-05-07T13:12:36Z",
             "owner": "samoht",
@@ -972,6 +1022,7 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "id": 190013940,
             "language": "Emacs Lisp",
             "last_commit": "2021-10-14T22:45:00Z",
             "owner": "pfitaxel",
@@ -986,6 +1037,7 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "id": 931975881,
             "language": "OCaml",
             "last_commit": "2025-02-17T12:51:34Z",
             "owner": "khalidbelk",
@@ -1005,6 +1057,7 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "id": 9772827,
                 "language": "OCaml",
                 "last_commit": "2025-11-06T09:27:52Z",
                 "owner": "yallop",
@@ -1019,6 +1072,7 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "id": 14781138,
                 "language": "Shell",
                 "last_commit": "2017-10-03T12:02:23Z",
                 "owner": "johnwhitington",
@@ -1033,6 +1087,7 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "id": 1046535947,
                 "language": null,
                 "last_commit": "2025-08-29T09:03:14Z",
                 "owner": "thierry-martinez",
@@ -1054,6 +1109,7 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "id": 8048400,
                 "language": "OCaml",
                 "last_commit": "2026-08-18T06:46:44Z",
                 "owner": "ocaml",
@@ -1068,6 +1124,7 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "id": 227073289,
                 "language": "OCaml",
                 "last_commit": "2026-08-16T23:25:50Z",
                 "owner": "ocaml",
@@ -1082,6 +1139,7 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "id": 15582353,
                 "language": "Emacs Lisp",
                 "last_commit": "2026-06-26T10:13:46Z",
                 "owner": "ocaml",
@@ -1096,6 +1154,7 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "id": 150894748,
                 "language": "OCaml",
                 "last_commit": "2026-07-20T17:23:03Z",
                 "owner": "hackwaly",
@@ -1110,6 +1169,7 @@
               "children": [],
               "repo_info": {
                 "archived": true,
+                "id": 60503507,
                 "language": "TypeScript",
                 "last_commit": "2020-11-30T14:38:48Z",
                 "owner": "hackwaly",
@@ -1124,6 +1184,7 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "id": 125729020,
                 "language": "Emacs Lisp",
                 "last_commit": "2026-07-02T08:19:19Z",
                 "owner": "Khady",
@@ -1143,6 +1204,7 @@
                   "children": [],
                   "repo_info": {
                     "archived": false,
+                    "id": 20866298,
                     "language": "Python",
                     "last_commit": "2017-06-23T11:38:15Z",
                     "owner": "let-def",
@@ -1153,6 +1215,7 @@
               ],
               "repo_info": {
                 "archived": false,
+                "id": 14889453,
                 "language": null,
                 "last_commit": "2018-02-08T06:47:43Z",
                 "owner": "whitequark",
@@ -1167,6 +1230,7 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "id": 497592196,
                 "language": "Emacs Lisp",
                 "last_commit": "2023-08-02T09:17:29Z",
                 "owner": "ProofGeneral",
@@ -1186,6 +1250,7 @@
                   "children": [],
                   "repo_info": {
                     "archived": false,
+                    "id": 83828296,
                     "language": "OCaml",
                     "last_commit": "2025-01-16T16:09:59Z",
                     "owner": "reynir",
@@ -1207,6 +1272,7 @@
                   "children": [],
                   "repo_info": {
                     "archived": false,
+                    "id": 9702104,
                     "language": "Python",
                     "last_commit": "2018-03-23T12:41:38Z",
                     "owner": "let-def",
@@ -1230,6 +1296,7 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "id": 34832664,
                 "language": "OCaml",
                 "last_commit": "2025-10-12T16:06:49Z",
                 "owner": "aantron",
@@ -1243,7 +1310,7 @@
       "title": "Developer Tools"
     },
     {
-      "description": "",
+      "description": null,
       "items": [
         {
           "node_type": "item",
@@ -1252,6 +1319,7 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "id": 17273866,
             "language": "OCaml",
             "last_commit": "2026-08-15T00:15:02Z",
             "owner": "exercism",
@@ -1266,6 +1334,7 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "id": 16801079,
             "language": "OCaml",
             "last_commit": "2022-08-01T20:27:36Z",
             "owner": "MassD",
@@ -1277,7 +1346,7 @@
       "title": "Exercises and Short Examples"
     },
     {
-      "description": "",
+      "description": null,
       "items": [
         {
           "node_type": "item",
@@ -1286,6 +1355,7 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "id": 11424490,
             "language": "OCaml",
             "last_commit": "2026-07-16T11:15:27Z",
             "owner": "johnwhitington",
@@ -1300,6 +1370,7 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "id": 24262586,
             "language": "OCaml",
             "last_commit": "2024-01-26T17:52:34Z",
             "owner": "Leonidas-from-XIV",
@@ -1311,7 +1382,7 @@
       "title": "General"
     },
     {
-      "description": "",
+      "description": null,
       "items": [
         {
           "node_type": "group",
@@ -1325,6 +1396,7 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "id": 8911013,
                 "language": "OCaml",
                 "last_commit": "2026-08-13T22:07:14Z",
                 "owner": "dbuenzli",
@@ -1339,6 +1411,7 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "id": 12018610,
                 "language": "OCaml",
                 "last_commit": "2024-11-08T19:34:40Z",
                 "owner": "Chris00",
@@ -1360,6 +1433,7 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "id": 12505841,
                 "language": "OCaml",
                 "last_commit": "2022-06-30T22:55:22Z",
                 "owner": "fccm",
@@ -1373,7 +1447,7 @@
       "title": "Graphics"
     },
     {
-      "description": "",
+      "description": null,
       "items": [
         {
           "node_type": "item",
@@ -1382,6 +1456,7 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "id": 1965070,
             "language": "OCaml",
             "last_commit": "2024-04-01T23:51:42Z",
             "owner": "yoriyuki",
@@ -1396,6 +1471,7 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "id": 27762278,
             "language": "OCaml",
             "last_commit": "2019-05-09T21:39:31Z",
             "owner": "whitequark",
@@ -1410,6 +1486,7 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "id": 8216614,
             "language": "OCaml",
             "last_commit": "2025-07-29T05:57:30Z",
             "owner": "dbuenzli",
@@ -1424,6 +1501,7 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "id": 8216612,
             "language": "OCaml",
             "last_commit": "2026-08-13T21:51:43Z",
             "owner": "dbuenzli",
@@ -1438,6 +1516,7 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "id": 28413500,
             "language": "OCaml",
             "last_commit": "2026-08-13T21:51:46Z",
             "owner": "dbuenzli",
@@ -1452,6 +1531,7 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "id": 21310257,
             "language": "OCaml",
             "last_commit": "2026-08-13T21:51:40Z",
             "owner": "dbuenzli",
@@ -1466,6 +1546,7 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "id": 8216604,
             "language": "OCaml",
             "last_commit": "2026-08-13T21:51:37Z",
             "owner": "dbuenzli",
@@ -1477,7 +1558,7 @@
       "title": "Internationalization"
     },
     {
-      "description": "",
+      "description": null,
       "items": [
         {
           "node_type": "item",
@@ -1486,6 +1567,7 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "id": 6257116,
             "language": "OCaml",
             "last_commit": "2026-08-18T00:39:11Z",
             "owner": "ocaml-community",
@@ -1500,6 +1582,7 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "id": 1644688,
             "language": "OCaml",
             "last_commit": "2026-08-08T13:53:32Z",
             "owner": "Kakadu",
@@ -1514,6 +1597,7 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "id": 53555897,
             "language": "C",
             "last_commit": "2024-07-29T18:06:49Z",
             "owner": "ocaml-community",
@@ -1528,6 +1612,7 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "id": 952614058,
             "language": "OCaml",
             "last_commit": "2026-06-24T16:50:07Z",
             "owner": "ocaml-community",
@@ -1539,7 +1624,7 @@
       "title": "User Interface"
     },
     {
-      "description": "",
+      "description": null,
       "items": [
         {
           "node_type": "item",
@@ -1548,6 +1633,7 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "id": 163862700,
             "language": "Reason",
             "last_commit": "2022-08-17T20:11:55Z",
             "owner": "onivim",
@@ -1562,11 +1648,12 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "id": 1377159,
             "language": "OCaml",
-            "last_commit": "2026-08-18T15:01:06Z",
+            "last_commit": "2026-08-19T11:27:29Z",
             "owner": "rocq-prover",
             "repo": "rocq",
-            "stars": 5550
+            "stars": 5549
           }
         },
         {
@@ -1576,11 +1663,12 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "id": 395561,
             "language": "OCaml",
             "last_commit": "2026-07-28T11:01:30Z",
             "owner": "mirage",
             "repo": "mirage",
-            "stars": 2976
+            "stars": 2977
           }
         },
         {
@@ -1590,8 +1678,9 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "id": 3055052,
             "language": "OCaml",
-            "last_commit": "2026-08-18T13:39:54Z",
+            "last_commit": "2026-08-19T12:26:56Z",
             "owner": "savonet",
             "repo": "liquidsoap",
             "stars": 1719
@@ -1604,6 +1693,7 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "id": 68384652,
             "language": "OCaml",
             "last_commit": "2026-07-10T16:45:33Z",
             "owner": "janestreet",
@@ -1618,6 +1708,7 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "id": 3145660,
             "language": "C",
             "last_commit": "2026-08-14T12:36:43Z",
             "owner": "libguestfs",
@@ -1632,6 +1723,7 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "id": 2173597,
             "language": "OCaml",
             "last_commit": "2023-09-14T12:08:42Z",
             "owner": "cil-project",
@@ -1646,6 +1738,7 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "id": 960233,
             "language": "OCaml",
             "last_commit": "2026-08-18T11:31:42Z",
             "owner": "xapi-project",
@@ -1660,6 +1753,7 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "id": 1572966,
             "language": "OCaml",
             "last_commit": "2025-01-28T17:15:00Z",
             "owner": "ygrek",
@@ -1674,6 +1768,7 @@
           "children": [],
           "repo_info": {
             "archived": true,
+            "id": 221114887,
             "language": null,
             "last_commit": "2026-02-05T01:08:39Z",
             "owner": "semgrep",
@@ -1685,7 +1780,7 @@
       "title": "Large Source Code Examples"
     },
     {
-      "description": "",
+      "description": null,
       "items": [
         {
           "node_type": "item",
@@ -1694,6 +1789,7 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "id": 8945950,
             "language": "OCaml",
             "last_commit": "2023-09-14T00:26:03Z",
             "owner": "UnixJunkie",
@@ -1708,6 +1804,7 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "id": 4733399,
             "language": "OCaml",
             "last_commit": "2023-09-14T01:08:55Z",
             "owner": "codinuum",
@@ -1719,7 +1816,7 @@
       "title": "Logging"
     },
     {
-      "description": "",
+      "description": null,
       "items": [
         {
           "node_type": "item",
@@ -1728,6 +1825,7 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "id": 16086497,
             "language": "OCaml",
             "last_commit": "2023-07-19T09:21:36Z",
             "owner": "capnproto",
@@ -1742,6 +1840,7 @@
           "children": [],
           "repo_info": {
             "archived": true,
+            "id": 2635949,
             "language": "OCaml",
             "last_commit": "2024-05-19T07:43:12Z",
             "owner": "IssuuArchive",
@@ -1756,6 +1855,7 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "id": 25580909,
             "language": "OCaml",
             "last_commit": "2024-07-08T18:50:16Z",
             "owner": "didier-wenzek",
@@ -1770,6 +1870,7 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "id": 42546335,
             "language": "OCaml",
             "last_commit": "2026-06-13T10:06:22Z",
             "owner": "andersfugmann",
@@ -1784,6 +1885,7 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "id": 12545306,
             "language": "OCaml",
             "last_commit": "2020-10-28T15:31:02Z",
             "owner": "rgrinberg",
@@ -1798,6 +1900,7 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "id": 77541290,
             "language": "OCaml",
             "last_commit": "2026-03-08T10:12:12Z",
             "owner": "xavierleroy",
@@ -1812,6 +1915,7 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "id": 18148363,
             "language": "OCaml",
             "last_commit": "2020-11-25T21:48:17Z",
             "owner": "j0sh",
@@ -1823,7 +1927,7 @@
       "title": "Messaging"
     },
     {
-      "description": "",
+      "description": null,
       "items": [
         {
           "node_type": "item",
@@ -1832,6 +1936,7 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "id": 3141834,
             "language": "OCaml",
             "last_commit": "2026-07-30T12:16:38Z",
             "owner": "mirage",
@@ -1846,6 +1951,7 @@
           "children": [],
           "repo_info": {
             "archived": true,
+            "id": 41547794,
             "language": "OCaml",
             "last_commit": "2017-05-24T07:38:18Z",
             "owner": "haesbaert",
@@ -1860,6 +1966,7 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "id": 15397826,
             "language": "OCaml",
             "last_commit": "2014-08-30T13:28:39Z",
             "owner": "fluent",
@@ -1879,6 +1986,7 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "id": 322217,
                 "language": "OCaml",
                 "last_commit": "2026-08-12T13:34:38Z",
                 "owner": "mirage",
@@ -1893,6 +2001,7 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "id": 71267311,
                 "language": "OCaml",
                 "last_commit": "2024-05-27T12:28:21Z",
                 "owner": "inhabitedtype",
@@ -1907,6 +2016,7 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "id": 225135539,
                 "language": "OCaml",
                 "last_commit": "2026-07-25T19:58:04Z",
                 "owner": "anmonteiro",
@@ -1921,6 +2031,7 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "id": 7883010,
                 "language": "C",
                 "last_commit": "2026-05-28T09:07:44Z",
                 "owner": "ygrek",
@@ -1934,7 +2045,7 @@
       "title": "Networking"
     },
     {
-      "description": "",
+      "description": null,
       "items": [
         {
           "node_type": "group",
@@ -1948,6 +2059,7 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "id": 107100376,
                 "language": "Reason",
                 "last_commit": "2026-08-10T16:14:20Z",
                 "owner": "esy",
@@ -1962,6 +2074,7 @@
               "children": [],
               "repo_info": {
                 "archived": true,
+                "id": 449429925,
                 "language": "Shell",
                 "last_commit": "2025-08-05T18:04:11Z",
                 "owner": "diskuv",
@@ -1976,6 +2089,7 @@
               "children": [],
               "repo_info": {
                 "archived": true,
+                "id": 19118713,
                 "language": "OCaml",
                 "last_commit": "2014-12-15T13:31:28Z",
                 "owner": "sagotch",
@@ -1997,8 +2111,9 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "id": 72368050,
                 "language": "OCaml",
-                "last_commit": "2026-08-18T12:19:41Z",
+                "last_commit": "2026-08-19T05:54:40Z",
                 "owner": "ocaml",
                 "repo": "dune",
                 "stars": 1909
@@ -2011,6 +2126,7 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "id": 21530707,
                 "language": "OCaml",
                 "last_commit": "2025-07-21T01:08:42Z",
                 "owner": "mmottl",
@@ -2025,6 +2141,7 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "id": 18809626,
                 "language": "OCaml",
                 "last_commit": "2026-08-13T16:24:40Z",
                 "owner": "dbuenzli",
@@ -2039,6 +2156,7 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "id": 7813761,
                 "language": "OCaml",
                 "last_commit": "2026-07-31T22:29:49Z",
                 "owner": "ocaml-obuild",
@@ -2053,6 +2171,7 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "id": 69768452,
                 "language": "Starlark",
                 "last_commit": "2021-04-22T00:04:49Z",
                 "owner": "jin",
@@ -2072,6 +2191,7 @@
                   "children": [],
                   "repo_info": {
                     "archived": false,
+                    "id": 9193189,
                     "language": "OCaml",
                     "last_commit": "2017-10-28T22:28:54Z",
                     "owner": "ocaml",
@@ -2101,6 +2221,7 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "id": 16730829,
                 "language": "OCaml",
                 "last_commit": "2026-08-15T08:50:50Z",
                 "owner": "mathiasbourgoin",
@@ -2115,6 +2236,7 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "id": 94063950,
                 "language": "OCaml",
                 "last_commit": "2023-10-05T09:16:47Z",
                 "owner": "UnixJunkie",
@@ -2129,6 +2251,7 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "id": 24505112,
                 "language": "OCaml",
                 "last_commit": "2026-07-10T16:45:41Z",
                 "owner": "janestreet",
@@ -2143,6 +2266,7 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "id": 2700402,
                 "language": "OCaml",
                 "last_commit": "2013-08-28T22:27:40Z",
                 "owner": "MyLifeLabs",
@@ -2157,6 +2281,7 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "id": 7177304,
                 "language": "OCaml",
                 "last_commit": "2019-09-09T03:48:32Z",
                 "owner": "mlin",
@@ -2178,6 +2303,7 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "id": 276060993,
                 "language": "OCaml",
                 "last_commit": "2024-03-12T03:54:04Z",
                 "owner": "ocaml-multicore",
@@ -2192,6 +2318,7 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "id": 446508932,
                 "language": null,
                 "last_commit": "2023-08-30T05:11:58Z",
                 "owner": "ocaml-multicore",
@@ -2205,7 +2332,7 @@
       "title": "Parallelism"
     },
     {
-      "description": "",
+      "description": null,
       "items": [
         {
           "node_type": "item",
@@ -2214,8 +2341,9 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "id": 72368050,
             "language": "OCaml",
-            "last_commit": "2026-08-18T12:19:41Z",
+            "last_commit": "2026-08-19T05:54:40Z",
             "owner": "ocaml",
             "repo": "dune",
             "stars": 1909
@@ -2228,6 +2356,7 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "id": 21903854,
             "language": "OCaml",
             "last_commit": "2026-07-26T17:31:55Z",
             "owner": "ocaml-ppx",
@@ -2242,6 +2371,7 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "id": 145726943,
             "language": "Reason",
             "last_commit": "2024-05-07T08:00:58Z",
             "owner": "reasonml",
@@ -2256,6 +2386,7 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "id": 241222367,
             "language": "OCaml",
             "last_commit": "2022-11-16T22:24:39Z",
             "owner": "ocamllibs",
@@ -2270,6 +2401,7 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "id": 144024712,
             "language": "OCaml",
             "last_commit": "2020-11-02T09:27:57Z",
             "owner": "LexiFi",
@@ -2284,6 +2416,7 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "id": 611803,
             "language": "OCaml",
             "last_commit": "2016-08-02T20:10:45Z",
             "owner": "krohrer",
@@ -2298,6 +2431,7 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "id": 28005624,
             "language": "OCaml",
             "last_commit": "2022-06-07T13:09:00Z",
             "owner": "mjambon",
@@ -2312,6 +2446,7 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "id": 196109000,
             "language": "OCaml",
             "last_commit": "2020-07-06T23:29:38Z",
             "owner": "progman1",
@@ -2326,6 +2461,7 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "id": 10241468,
             "language": "OCaml",
             "last_commit": "2026-07-10T16:45:42Z",
             "owner": "janestreet",
@@ -2340,6 +2476,7 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "id": 438766753,
             "language": "OCaml",
             "last_commit": "2022-04-01T12:49:14Z",
             "owner": "let-def",
@@ -2354,6 +2491,7 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "id": 255131883,
             "language": "OCaml",
             "last_commit": "2020-04-14T16:46:56Z",
             "owner": "pqwy",
@@ -2368,6 +2506,7 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "id": 70702847,
             "language": "OCaml",
             "last_commit": "2017-02-17T05:55:23Z",
             "owner": "tsubame-sp",
@@ -2379,7 +2518,7 @@
       "title": "Printers helpers"
     },
     {
-      "description": "",
+      "description": null,
       "items": [
         {
           "node_type": "item",
@@ -2388,6 +2527,7 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "id": 225292536,
             "language": "OCaml",
             "last_commit": "2024-10-07T15:13:09Z",
             "owner": "tmattio",
@@ -2402,6 +2542,7 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "id": 290726709,
             "language": "OCaml",
             "last_commit": "2025-10-27T21:08:56Z",
             "owner": "OCamlPro",
@@ -2416,6 +2557,7 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "id": 265175796,
             "language": "OCaml",
             "last_commit": "2026-07-02T14:15:03Z",
             "owner": "Khady",
@@ -2427,744 +2569,925 @@
       "title": "Project Starter Templates"
     },
     {
-      "description": "",
+      "description": null,
       "items": [
         {
           "node_type": "item",
-          "title": "Re",
-          "description": "a pure OCaml regular expressions library with combinators, supporting several formats (glob, posix, str, etc.).",
+          "title": "owl",
+          "description": "OCaml numerical library: dense and sparse matrix, linear algebra, regressions, maths and stats functions.",
           "children": [],
           "repo_info": {
             "archived": false,
+            "id": 61579222,
             "language": "OCaml",
-            "last_commit": "2026-08-11T21:04:10Z",
-            "owner": "ocaml",
-            "repo": "ocaml-re",
-            "stars": 259
+            "last_commit": "2026-08-05T09:10:17Z",
+            "owner": "owlbarn",
+            "repo": "owl",
+            "stars": 1350
           }
         },
         {
           "node_type": "item",
-          "title": "Tyre",
-          "description": "Tyre is a set of combinators to build type-safe regular expressions, allowing automatic extraction and modification of matched groups.",
+          "title": "tensorflow-ocaml",
+          "description": "OCaml bindings for TensorFlow.",
           "children": [],
           "repo_info": {
             "archived": false,
+            "id": 54334585,
             "language": "OCaml",
-            "last_commit": "2025-12-08T14:59:07Z",
-            "owner": "Drup",
-            "repo": "tyre",
-            "stars": 183
+            "last_commit": "2019-07-06T20:37:30Z",
+            "owner": "LaurentMazare",
+            "repo": "tensorflow-ocaml",
+            "stars": 287
           }
         },
         {
           "node_type": "item",
-          "title": "ocaml-pcre",
-          "description": "bindings to the PCRE library (perl-compatible regular expressions)",
+          "title": "biocaml",
+          "description": "OCaml Bioinformatics Library http://biocaml.org.",
           "children": [],
           "repo_info": {
             "archived": false,
+            "id": 574749,
             "language": "OCaml",
-            "last_commit": "2026-08-11T21:30:01Z",
-            "owner": "mmottl",
-            "repo": "pcre-ocaml",
-            "stars": 36
+            "last_commit": "2025-11-26T23:10:38Z",
+            "owner": "biocaml",
+            "repo": "biocaml",
+            "stars": 125
           }
         },
         {
           "node_type": "item",
-          "title": "Humane-re",
-          "description": "Humane-re attempts to provide an easy interface for 90% of your regex needs. Courtesy of ocaml-re.",
+          "title": "oml",
+          "description": "OCaml library for general numerical work.",
           "children": [],
           "repo_info": {
             "archived": false,
+            "id": 32105210,
             "language": "OCaml",
-            "last_commit": "2019-09-17T11:48:12Z",
-            "owner": "rgrinberg",
-            "repo": "humane-re",
-            "stars": 26
-          }
-        }
-      ],
-      "title": "Regular Expressions"
-    },
-    {
-      "description": "",
-      "items": [
-        {
-          "node_type": "item",
-          "title": "ocaml-tls",
-          "description": "TLS in pure OCaml.",
-          "children": [],
-          "repo_info": {
-            "archived": false,
-            "language": "OCaml",
-            "last_commit": "2026-07-28T07:31:30Z",
-            "owner": "mirleft",
-            "repo": "ocaml-tls",
-            "stars": 322
+            "last_commit": "2018-02-01T20:13:56Z",
+            "owner": "rleonid",
+            "repo": "oml",
+            "stars": 120
           }
         },
         {
           "node_type": "item",
-          "title": "nocrypto",
-          "description": "A small cryptographic library behind the ocaml-tls project. It is built to be straightforward to use, adhere to functional programming principles, and able to run in a Xen-based unikernel.",
+          "title": "slap",
+          "description": "A linear algebra library in OCaml with type-based static size checking for matrix operations.",
           "children": [],
           "repo_info": {
             "archived": false,
+            "id": 15520593,
             "language": "OCaml",
-            "last_commit": "2020-04-17T14:17:03Z",
-            "owner": "mirleft",
-            "repo": "ocaml-nocrypto",
-            "stars": 112
+            "last_commit": "2020-07-10T03:20:43Z",
+            "owner": "akabe",
+            "repo": "slap",
+            "stars": 91
           }
         },
         {
           "node_type": "item",
-          "title": "cryptokit",
-          "description": "The Cryptokit library for OCaml provides a variety of cryptographic primitives that can be used to implement cryptographic protocols in security-sensitive applications.",
+          "title": "bistro",
+          "description": "OCaml library for building bioinformatics pipelines.",
           "children": [],
           "repo_info": {
             "archived": false,
+            "id": 16048467,
+            "language": "OCaml",
+            "last_commit": "2026-05-18T19:54:27Z",
+            "owner": "pveber",
+            "repo": "bistro",
+            "stars": 49
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "ocephes",
+          "description": "Bindings to frequently used special functions library.",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "id": 39713863,
             "language": "C",
-            "last_commit": "2026-01-01T15:13:18Z",
-            "owner": "xavierleroy",
-            "repo": "cryptokit",
-            "stars": 111
+            "last_commit": "2016-06-09T18:10:49Z",
+            "owner": "rleonid",
+            "repo": "ocephes",
+            "stars": 12
           }
         },
         {
           "node_type": "item",
-          "title": "Digestif",
-          "description": "Hash algorithms (like SHA* or BLAKE2*) in OCaml and C.",
+          "title": "onumerical",
+          "description": "Numerical library for OCaml.",
           "children": [],
           "repo_info": {
             "archived": false,
+            "id": 18291324,
             "language": "OCaml",
-            "last_commit": "2026-07-15T10:34:37Z",
-            "owner": "mirage",
-            "repo": "digestif",
-            "stars": 95
+            "last_commit": "2014-04-04T12:42:13Z",
+            "owner": "cheshire",
+            "repo": "onumerical",
+            "stars": 8
           }
         },
         {
-          "node_type": "item",
-          "title": "nocoiner",
-          "description": "A Commitment scheme library for Multi-party computations such as online auctions and gambling.",
-          "children": [],
-          "repo_info": {
-            "archived": false,
-            "language": "OCaml",
-            "last_commit": "2023-04-12T06:14:50Z",
-            "owner": "marcoonroad",
-            "repo": "nocoiner",
-            "stars": 11
-          }
-        }
-      ],
-      "title": "Security and Cryptography"
-    },
-    {
-      "description": "",
-      "items": [
-        {
-          "node_type": "item",
-          "title": "yojson",
-          "description": "An optimized parsing and printing library for the JSON format.",
-          "children": [],
-          "repo_info": {
-            "archived": false,
-            "language": "OCaml",
-            "last_commit": "2025-08-01T08:21:47Z",
-            "owner": "ocaml-community",
-            "repo": "yojson",
-            "stars": 369
-          }
-        },
-        {
-          "node_type": "item",
-          "title": "atdgen",
-          "description": "A serialization compiler for multiple languages (OCaml, Java, Python, Scala, Typescript) with a Binou or JSON format",
-          "children": [],
-          "repo_info": {
-            "archived": false,
-            "language": "OCaml",
-            "last_commit": "2026-08-05T05:53:10Z",
-            "owner": "ahrefs",
-            "repo": "atd",
-            "stars": 353
-          }
-        },
-        {
-          "node_type": "item",
-          "title": "sexplib",
-          "description": "A S-expression parser and printer",
-          "children": [],
-          "repo_info": {
-            "archived": false,
-            "language": "OCaml",
-            "last_commit": "2026-07-10T16:45:42Z",
-            "owner": "janestreet",
-            "repo": "sexplib",
-            "stars": 182
-          }
-        },
-        {
-          "node_type": "item",
-          "title": "biniou",
-          "description": "Extensible binary data format, like JSON but faster.",
-          "children": [],
-          "repo_info": {
-            "archived": false,
-            "language": "OCaml",
-            "last_commit": "2022-06-17T18:03:10Z",
-            "owner": "ocaml-community",
-            "repo": "biniou",
-            "stars": 43
-          }
-        },
-        {
-          "node_type": "item",
-          "title": "cbor",
-          "description": "OCaml native CBOR decoder/encoder.",
-          "children": [],
-          "repo_info": {
-            "archived": false,
-            "language": "OCaml",
-            "last_commit": "2022-02-07T15:34:27Z",
-            "owner": "ygrek",
-            "repo": "ocaml-cbor",
-            "stars": 26
-          }
-        },
-        {
-          "node_type": "item",
-          "title": "bencode",
-          "description": "Bencode (.torrent file format) reader/writer.",
-          "children": [],
-          "repo_info": {
-            "archived": false,
-            "language": "OCaml",
-            "last_commit": "2024-04-24T19:29:09Z",
-            "owner": "rgrinberg",
-            "repo": "bencode",
-            "stars": 24
-          }
-        }
-      ],
-      "title": "Serialization"
-    },
-    {
-      "description": "",
-      "items": [
-        {
-          "node_type": "item",
-          "title": "Mirage OS",
-          "description": "Mirage is a programming framework for constructing secure, high-performance network applications across a variety of cloud computing and mobile platforms.",
-          "children": [],
-          "repo_info": {
-            "archived": false,
-            "language": "OCaml",
-            "last_commit": "2026-07-28T11:01:30Z",
-            "owner": "mirage",
-            "repo": "mirage",
-            "stars": 2976
-          }
-        },
-        {
-          "node_type": "item",
-          "title": "ocaml-git",
-          "description": "Pure OCaml low-level git bindings.",
-          "children": [],
-          "repo_info": {
-            "archived": false,
-            "language": "OCaml",
-            "last_commit": "2025-05-14T20:58:25Z",
-            "owner": "mirage",
-            "repo": "ocaml-git",
-            "stars": 368
-          }
-        },
-        {
-          "node_type": "item",
-          "title": "ocaml-vchan",
-          "description": "Pure OCaml implementation of the \"vchan\" shared-memory communication protocol.",
-          "children": [],
-          "repo_info": {
-            "archived": false,
-            "language": "OCaml",
-            "last_commit": "2025-03-06T10:11:19Z",
-            "owner": "mirage",
-            "repo": "ocaml-vchan",
-            "stars": 45
-          }
-        },
-        {
-          "node_type": "item",
-          "title": "ocaml-fat",
-          "description": "Read and write FAT-format filesystems from OCaml.",
-          "children": [],
-          "repo_info": {
-            "archived": false,
-            "language": "OCaml",
-            "last_commit": "2025-05-31T08:22:17Z",
-            "owner": "mirage",
-            "repo": "ocaml-fat",
-            "stars": 25
-          }
-        },
-        {
-          "node_type": "group",
-          "title": "Embedded systems",
-          "description": null,
           "children": [
             {
               "node_type": "item",
-              "title": "OMicroB",
-              "description": "A virtual machine designed to run OCaml bytecode on AVR (Arduino for instance) micro-controlers.",
+              "title": "Re",
+              "description": "a pure OCaml regular expressions library with combinators, supporting several formats (glob, posix, str, etc.).",
               "children": [],
               "repo_info": {
                 "archived": false,
+                "id": 3107468,
                 "language": "OCaml",
-                "last_commit": "2026-06-02T09:22:21Z",
-                "owner": "stevenvar",
-                "repo": "OMicroB",
-                "stars": 155
+                "last_commit": "2026-08-11T21:04:10Z",
+                "owner": "ocaml",
+                "repo": "ocaml-re",
+                "stars": 259
               }
             },
             {
               "node_type": "item",
-              "title": "ocaml-esp32",
-              "description": "A compiler for ESP32 SoC.",
-              "children": [],
-              "repo_info": {
-                "archived": true,
-                "language": "OCaml",
-                "last_commit": "2020-11-12T15:00:11Z",
-                "owner": "sadiqj",
-                "repo": "ocaml-esp32",
-                "stars": 19
-              }
-            }
-          ]
-        }
-      ],
-      "title": "System Programming"
-    },
-    {
-      "description": "",
-      "items": [
-        {
-          "node_type": "item",
-          "title": "Alcotest",
-          "description": "A lightweight and colourful test framework.",
-          "children": [],
-          "repo_info": {
-            "archived": false,
-            "language": "OCaml",
-            "last_commit": "2026-07-20T08:15:33Z",
-            "owner": "mirage",
-            "repo": "alcotest",
-            "stars": 516
-          }
-        },
-        {
-          "node_type": "item",
-          "title": "QCheck",
-          "description": "QCheck is a property testing library inspired from Haskell's QuickCheck",
-          "children": [],
-          "repo_info": {
-            "archived": false,
-            "language": "OCaml",
-            "last_commit": "2026-06-29T11:23:32Z",
-            "owner": "c-cube",
-            "repo": "qcheck",
-            "stars": 408
-          }
-        },
-        {
-          "node_type": "item",
-          "title": "expect-test",
-          "description": "A framework for writing tests in OCaml, similar to Cram, developed by JaneStreet.",
-          "children": [],
-          "repo_info": {
-            "archived": false,
-            "language": "OCaml",
-            "last_commit": "2026-07-10T16:45:40Z",
-            "owner": "janestreet",
-            "repo": "ppx_expect",
-            "stars": 193
-          }
-        },
-        {
-          "node_type": "item",
-          "title": "iTeML",
-          "description": "(formerly known as qtest) — supports inline pragma's to generate tests.",
-          "children": [],
-          "repo_info": {
-            "archived": false,
-            "language": "OCaml",
-            "last_commit": "2021-04-05T18:38:01Z",
-            "owner": "vincent-hugot",
-            "repo": "qtest",
-            "stars": 68
-          }
-        },
-        {
-          "node_type": "item",
-          "title": "TestSimple",
-          "description": "A lightweight unit testing framework compatible with the Test Anything Protocol.",
-          "children": [],
-          "repo_info": {
-            "archived": false,
-            "language": "OCaml",
-            "last_commit": "2015-02-28T18:49:46Z",
-            "owner": "hcarty",
-            "repo": "ocaml-testsimple",
-            "stars": 13
-          }
-        }
-      ],
-      "title": "Testing"
-    },
-    {
-      "description": "",
-      "items": [
-        {
-          "node_type": "item",
-          "title": "ocaml-cuid",
-          "description": "Collision-resistant IDs for server scalability & database performance.",
-          "children": [],
-          "repo_info": {
-            "archived": false,
-            "language": "OCaml",
-            "last_commit": "2022-05-07T20:47:05Z",
-            "owner": "marcoonroad",
-            "repo": "ocaml-cuid",
-            "stars": 18
-          }
-        },
-        {
-          "node_type": "item",
-          "title": "Validate",
-          "description": "PPX deriver designed to streamline the process of validating records.",
-          "children": [],
-          "repo_info": {
-            "archived": false,
-            "language": "OCaml",
-            "last_commit": "2024-02-02T14:46:44Z",
-            "owner": "Axot017",
-            "repo": "validate",
-            "stars": 18
-          }
-        },
-        {
-          "node_type": "item",
-          "title": "sqids-ocaml",
-          "description": "Official OCaml port of Sqids. Generate short unique IDs from numbers.",
-          "children": [],
-          "repo_info": {
-            "archived": false,
-            "language": "OCaml",
-            "last_commit": "2024-02-10T18:05:54Z",
-            "owner": "sqids",
-            "repo": "sqids-ocaml",
-            "stars": 13
-          }
-        }
-      ],
-      "title": "Utilities"
-    },
-    {
-      "description": "",
-      "items": [
-        {
-          "node_type": "group",
-          "title": "Frameworks:",
-          "description": null,
-          "children": [
-            {
-              "node_type": "item",
-              "title": "Opium",
-              "description": "Sinatra like web toolkit for OCaml.",
+              "title": "Tyre",
+              "description": "Tyre is a set of combinators to build type-safe regular expressions, allowing automatic extraction and modification of matched groups.",
               "children": [],
               "repo_info": {
                 "archived": false,
+                "id": 59339594,
                 "language": "OCaml",
-                "last_commit": "2026-01-06T09:49:14Z",
-                "owner": "rgrinberg",
-                "repo": "opium",
-                "stars": 785
-              }
-            },
-            {
-              "node_type": "item",
-              "title": "incr_dom",
-              "description": "A library for building dynamic webapps, using Js_of_ocaml",
-              "children": [],
-              "repo_info": {
-                "archived": false,
-                "language": "OCaml",
-                "last_commit": "2026-07-10T16:45:37Z",
-                "owner": "janestreet",
-                "repo": "incr_dom",
-                "stars": 401
-              }
-            },
-            {
-              "node_type": "item",
-              "title": "webmachine",
-              "description": "A REST toolkit for OCaml. OCaml webmachine is a layer on top of cohttp that implements a state-machine-based HTTP request processor. It's particularly well-suited for writing RESTful APIs. As the name suggests, this is an OCaml port of the webmachine project.",
-              "children": [],
-              "repo_info": {
-                "archived": false,
-                "language": "OCaml",
-                "last_commit": "2021-10-19T11:54:49Z",
-                "owner": "inhabitedtype",
-                "repo": "ocaml-webmachine",
-                "stars": 223
-              }
-            },
-            {
-              "node_type": "item",
-              "title": "ocaml-vdom",
-              "description": "Elm architecture and (V)DOM for OCaml",
-              "children": [],
-              "repo_info": {
-                "archived": false,
-                "language": "OCaml",
-                "last_commit": "2025-02-06T16:30:42Z",
-                "owner": "LexiFi",
-                "repo": "ocaml-vdom",
-                "stars": 210
-              }
-            }
-          ]
-        },
-        {
-          "node_type": "group",
-          "title": "Tools:",
-          "description": null,
-          "children": [
-            {
-              "node_type": "item",
-              "title": "Lambda Soup",
-              "description": "Functional HTML scraping and manipulation with CSS selectors, à la Python's Beautiful Soup.",
-              "children": [],
-              "repo_info": {
-                "archived": false,
-                "language": "OCaml",
-                "last_commit": "2024-11-18T19:27:20Z",
-                "owner": "aantron",
-                "repo": "lambdasoup",
-                "stars": 410
-              }
-            },
-            {
-              "node_type": "item",
-              "title": "gen_js_api",
-              "description": "gen_js_api aims at simplifying the creation of OCaml bindings for Javascript libraries.",
-              "children": [],
-              "repo_info": {
-                "archived": false,
-                "language": "OCaml",
-                "last_commit": "2026-07-15T16:29:43Z",
-                "owner": "LexiFi",
-                "repo": "gen_js_api",
+                "last_commit": "2025-12-08T14:59:07Z",
+                "owner": "Drup",
+                "repo": "tyre",
                 "stars": 183
               }
             },
             {
               "node_type": "item",
-              "title": "Markup.ml",
-              "description": "Error-recovering streaming HTML5 and XML parsers, serializers.",
+              "title": "ocaml-pcre",
+              "description": "bindings to the PCRE library (perl-compatible regular expressions)",
               "children": [],
               "repo_info": {
                 "archived": false,
+                "id": 21541584,
                 "language": "OCaml",
-                "last_commit": "2024-10-06T19:37:45Z",
-                "owner": "aantron",
-                "repo": "markup.ml",
-                "stars": 150
+                "last_commit": "2026-08-11T21:30:01Z",
+                "owner": "mmottl",
+                "repo": "pcre-ocaml",
+                "stars": 36
               }
             },
             {
               "node_type": "item",
-              "title": "routes",
-              "description": "Typed routes for OCaml/ReasonML web applications.",
+              "title": "Humane-re",
+              "description": "Humane-re attempts to provide an easy interface for 90% of your regex needs. Courtesy of ocaml-re.",
               "children": [],
               "repo_info": {
                 "archived": false,
+                "id": 19350730,
                 "language": "OCaml",
-                "last_commit": "2026-06-20T18:16:19Z",
-                "owner": "anuragsoni",
-                "repo": "routes",
-                "stars": 150
+                "last_commit": "2019-09-17T11:48:12Z",
+                "owner": "rgrinberg",
+                "repo": "humane-re",
+                "stars": 26
+              }
+            }
+          ],
+          "description": null,
+          "node_type": "group",
+          "title": "Regular Expressions"
+        },
+        {
+          "children": [
+            {
+              "node_type": "item",
+              "title": "ocaml-tls",
+              "description": "TLS in pure OCaml.",
+              "children": [],
+              "repo_info": {
+                "archived": false,
+                "id": 16819866,
+                "language": "OCaml",
+                "last_commit": "2026-07-28T07:31:30Z",
+                "owner": "mirleft",
+                "repo": "ocaml-tls",
+                "stars": 322
               }
             },
             {
               "node_type": "item",
-              "title": "jingoo",
-              "description": "OCaml template engine almost compatible with jinja2.",
+              "title": "nocrypto",
+              "description": "A small cryptographic library behind the ocaml-tls project. It is built to be straightforward to use, adhere to functional programming principles, and able to run in a Xen-based unikernel.",
               "children": [],
               "repo_info": {
                 "archived": false,
+                "id": 17111142,
                 "language": "OCaml",
-                "last_commit": "2026-07-24T05:34:46Z",
-                "owner": "tategakibunko",
-                "repo": "jingoo",
-                "stars": 142
-              }
-            },
-            {
-              "node_type": "item",
-              "title": "COW",
-              "description": "Caml on the Web (COW) is a set of parsers and syntax extensions to let you manipulate HTML, CSS, XML, JSON and Markdown directly from OCaml code.",
-              "children": [],
-              "repo_info": {
-                "archived": false,
-                "language": "OCaml",
-                "last_commit": "2023-12-07T19:45:03Z",
-                "owner": "mirage",
-                "repo": "ocaml-cow",
+                "last_commit": "2020-04-17T14:17:03Z",
+                "owner": "mirleft",
+                "repo": "ocaml-nocrypto",
                 "stars": 112
               }
             },
             {
               "node_type": "item",
-              "title": "ocaml-uri",
-              "description": "RFC3986 URI parsing library.",
+              "title": "cryptokit",
+              "description": "The Cryptokit library for OCaml provides a variety of cryptographic primitives that can be used to implement cryptographic protocols in security-sensitive applications.",
               "children": [],
               "repo_info": {
                 "archived": false,
+                "id": 77521632,
+                "language": "C",
+                "last_commit": "2026-01-01T15:13:18Z",
+                "owner": "xavierleroy",
+                "repo": "cryptokit",
+                "stars": 111
+              }
+            },
+            {
+              "node_type": "item",
+              "title": "Digestif",
+              "description": "Hash algorithms (like SHA* or BLAKE2*) in OCaml and C.",
+              "children": [],
+              "repo_info": {
+                "archived": false,
+                "id": 33586940,
                 "language": "OCaml",
-                "last_commit": "2025-11-24T11:47:15Z",
+                "last_commit": "2026-07-15T10:34:37Z",
                 "owner": "mirage",
-                "repo": "ocaml-uri",
-                "stars": 99
+                "repo": "digestif",
+                "stars": 95
               }
             },
             {
               "node_type": "item",
-              "title": "ocaml-mustache",
-              "description": "mustache.js logic-less templates in OCaml.",
+              "title": "nocoiner",
+              "description": "A Commitment scheme library for Multi-party computations such as online auctions and gambling.",
               "children": [],
               "repo_info": {
                 "archived": false,
+                "id": 185094736,
                 "language": "OCaml",
-                "last_commit": "2024-05-31T12:47:36Z",
+                "last_commit": "2023-04-12T06:14:50Z",
+                "owner": "marcoonroad",
+                "repo": "nocoiner",
+                "stars": 11
+              }
+            }
+          ],
+          "description": "Note: The differences between and cryptographic libraries are described in the following blog post: OCaml-TLS: building the nocrypto library core.",
+          "node_type": "group",
+          "title": "Security and Cryptography"
+        },
+        {
+          "children": [
+            {
+              "node_type": "item",
+              "title": "yojson",
+              "description": "An optimized parsing and printing library for the JSON format.",
+              "children": [],
+              "repo_info": {
+                "archived": false,
+                "id": 2833613,
+                "language": "OCaml",
+                "last_commit": "2025-08-01T08:21:47Z",
+                "owner": "ocaml-community",
+                "repo": "yojson",
+                "stars": 369
+              }
+            },
+            {
+              "node_type": "item",
+              "title": "atdgen",
+              "description": "A serialization compiler for multiple languages (OCaml, Java, Python, Scala, Typescript) with a Binou or JSON format",
+              "children": [],
+              "repo_info": {
+                "archived": false,
+                "id": 8681682,
+                "language": "OCaml",
+                "last_commit": "2026-08-05T05:53:10Z",
+                "owner": "ahrefs",
+                "repo": "atd",
+                "stars": 353
+              }
+            },
+            {
+              "node_type": "item",
+              "title": "sexplib",
+              "description": "A S-expression parser and printer",
+              "children": [],
+              "repo_info": {
+                "archived": false,
+                "id": 7896695,
+                "language": "OCaml",
+                "last_commit": "2026-07-10T16:45:42Z",
+                "owner": "janestreet",
+                "repo": "sexplib",
+                "stars": 182
+              }
+            },
+            {
+              "node_type": "item",
+              "title": "biniou",
+              "description": "Extensible binary data format, like JSON but faster.",
+              "children": [],
+              "repo_info": {
+                "archived": false,
+                "id": 2833644,
+                "language": "OCaml",
+                "last_commit": "2022-06-17T18:03:10Z",
+                "owner": "ocaml-community",
+                "repo": "biniou",
+                "stars": 43
+              }
+            },
+            {
+              "node_type": "item",
+              "title": "cbor",
+              "description": "OCaml native CBOR decoder/encoder.",
+              "children": [],
+              "repo_info": {
+                "archived": false,
+                "id": 20638816,
+                "language": "OCaml",
+                "last_commit": "2022-02-07T15:34:27Z",
+                "owner": "ygrek",
+                "repo": "ocaml-cbor",
+                "stars": 26
+              }
+            },
+            {
+              "node_type": "item",
+              "title": "bencode",
+              "description": "Bencode (.torrent file format) reader/writer.",
+              "children": [],
+              "repo_info": {
+                "archived": false,
+                "id": 12881384,
+                "language": "OCaml",
+                "last_commit": "2024-04-24T19:29:09Z",
                 "owner": "rgrinberg",
-                "repo": "ocaml-mustache",
-                "stars": 87
+                "repo": "bencode",
+                "stars": 24
+              }
+            }
+          ],
+          "description": null,
+          "node_type": "group",
+          "title": "Serialization"
+        },
+        {
+          "children": [
+            {
+              "node_type": "item",
+              "title": "Mirage OS",
+              "description": "Mirage is a programming framework for constructing secure, high-performance network applications across a variety of cloud computing and mobile platforms.",
+              "children": [],
+              "repo_info": {
+                "archived": false,
+                "id": 395561,
+                "language": "OCaml",
+                "last_commit": "2026-07-28T11:01:30Z",
+                "owner": "mirage",
+                "repo": "mirage",
+                "stars": 2977
               }
             },
             {
               "node_type": "item",
-              "title": "dispatch",
-              "description": "Path-based dispatching for client- and server-side applications.",
+              "title": "ocaml-git",
+              "description": "Pure OCaml low-level git bindings.",
               "children": [],
               "repo_info": {
                 "archived": false,
+                "id": 8733116,
                 "language": "OCaml",
-                "last_commit": "2022-09-26T08:56:20Z",
-                "owner": "inhabitedtype",
-                "repo": "ocaml-dispatch",
+                "last_commit": "2025-05-14T20:58:25Z",
+                "owner": "mirage",
+                "repo": "ocaml-git",
+                "stars": 369
+              }
+            },
+            {
+              "node_type": "item",
+              "title": "ocaml-vchan",
+              "description": "Pure OCaml implementation of the \"vchan\" shared-memory communication protocol.",
+              "children": [],
+              "repo_info": {
+                "archived": false,
+                "id": 12323953,
+                "language": "OCaml",
+                "last_commit": "2025-03-06T10:11:19Z",
+                "owner": "mirage",
+                "repo": "ocaml-vchan",
                 "stars": 45
               }
             },
             {
               "node_type": "item",
-              "title": "Goji",
-              "description": "An OCaml bindings generator for JavaScript libraries.",
+              "title": "ocaml-fat",
+              "description": "Read and write FAT-format filesystems from OCaml.",
               "children": [],
               "repo_info": {
                 "archived": false,
+                "id": 2289556,
                 "language": "OCaml",
-                "last_commit": "2014-07-26T11:07:04Z",
-                "owner": "klakplok",
-                "repo": "goji",
-                "stars": 44
-              }
-            },
-            {
-              "node_type": "item",
-              "title": "Syndic",
-              "description": "RSS and Atom feed parsing",
-              "children": [],
-              "repo_info": {
-                "archived": false,
-                "language": "OCaml",
-                "last_commit": "2026-03-06T13:28:33Z",
-                "owner": "Cumulus",
-                "repo": "Syndic",
-                "stars": 38
-              }
-            },
-            {
-              "node_type": "item",
-              "title": "atdjs",
-              "description": "atd code generator (serialization) for OCaml/js_of_ocaml.",
-              "children": [],
-              "repo_info": {
-                "archived": true,
-                "language": "OCaml",
-                "last_commit": "2013-09-25T22:37:04Z",
-                "owner": "barko",
-                "repo": "atdjs",
-                "stars": 9
+                "last_commit": "2025-05-31T08:22:17Z",
+                "owner": "mirage",
+                "repo": "ocaml-fat",
+                "stars": 25
               }
             },
             {
               "node_type": "group",
-              "title": "js_of_ocaml",
-              "description": "Js_of_ocaml is a compiler of OCaml bytecode to Javascript. It makes it possible to run Ocaml programs in a Web browser.",
+              "title": "Embedded systems",
+              "description": null,
               "children": [
                 {
                   "node_type": "item",
-                  "title": "commonjs_of_ocaml",
-                  "description": "Easily import and export CommonJS modules from a js_of_ocaml project.",
+                  "title": "OMicroB",
+                  "description": "A virtual machine designed to run OCaml bytecode on AVR (Arduino for instance) micro-controlers.",
                   "children": [],
                   "repo_info": {
                     "archived": false,
+                    "id": 87936727,
                     "language": "OCaml",
-                    "last_commit": "2016-05-19T08:03:51Z",
-                    "owner": "AngryLawyer",
-                    "repo": "commonjs_of_ocaml",
-                    "stars": 12
+                    "last_commit": "2026-06-02T09:22:21Z",
+                    "owner": "stevenvar",
+                    "repo": "OMicroB",
+                    "stars": 155
+                  }
+                },
+                {
+                  "node_type": "item",
+                  "title": "ocaml-esp32",
+                  "description": "A compiler for ESP32 SoC.",
+                  "children": [],
+                  "repo_info": {
+                    "archived": true,
+                    "id": 116479380,
+                    "language": "OCaml",
+                    "last_commit": "2020-11-12T15:00:11Z",
+                    "owner": "sadiqj",
+                    "repo": "ocaml-esp32",
+                    "stars": 19
                   }
                 }
               ]
             }
-          ]
+          ],
+          "description": null,
+          "node_type": "group",
+          "title": "System Programming"
         },
         {
-          "node_type": "group",
-          "title": "Open Source Projects:",
-          "description": null,
           "children": [
             {
               "node_type": "item",
-              "title": "Cumulus",
-              "description": "Hacker news like website with the OCaml framework Ocsigen",
+              "title": "Alcotest",
+              "description": "A lightweight and colourful test framework.",
               "children": [],
               "repo_info": {
                 "archived": false,
+                "id": 15141922,
                 "language": "OCaml",
-                "last_commit": "2015-05-04T03:26:38Z",
-                "owner": "Cumulus",
-                "repo": "Cumulus",
-                "stars": 53
+                "last_commit": "2026-07-20T08:15:33Z",
+                "owner": "mirage",
+                "repo": "alcotest",
+                "stars": 516
+              }
+            },
+            {
+              "node_type": "item",
+              "title": "QCheck",
+              "description": "QCheck is a property testing library inspired from Haskell's QuickCheck",
+              "children": [],
+              "repo_info": {
+                "archived": false,
+                "id": 13369447,
+                "language": "OCaml",
+                "last_commit": "2026-06-29T11:23:32Z",
+                "owner": "c-cube",
+                "repo": "qcheck",
+                "stars": 408
+              }
+            },
+            {
+              "node_type": "item",
+              "title": "expect-test",
+              "description": "A framework for writing tests in OCaml, similar to Cram, developed by JaneStreet.",
+              "children": [],
+              "repo_info": {
+                "archived": false,
+                "id": 49583340,
+                "language": "OCaml",
+                "last_commit": "2026-07-10T16:45:40Z",
+                "owner": "janestreet",
+                "repo": "ppx_expect",
+                "stars": 193
+              }
+            },
+            {
+              "node_type": "item",
+              "title": "iTeML",
+              "description": "(formerly known as qtest) — supports inline pragma's to generate tests.",
+              "children": [],
+              "repo_info": {
+                "archived": false,
+                "id": 6320503,
+                "language": "OCaml",
+                "last_commit": "2021-04-05T18:38:01Z",
+                "owner": "vincent-hugot",
+                "repo": "qtest",
+                "stars": 68
+              }
+            },
+            {
+              "node_type": "item",
+              "title": "TestSimple",
+              "description": "A lightweight unit testing framework compatible with the Test Anything Protocol.",
+              "children": [],
+              "repo_info": {
+                "archived": false,
+                "id": 5407735,
+                "language": "OCaml",
+                "last_commit": "2015-02-28T18:49:46Z",
+                "owner": "hcarty",
+                "repo": "ocaml-testsimple",
+                "stars": 13
               }
             }
-          ]
+          ],
+          "description": null,
+          "node_type": "group",
+          "title": "Testing"
+        },
+        {
+          "children": [
+            {
+              "node_type": "item",
+              "title": "ocaml-cuid",
+              "description": "Collision-resistant IDs for server scalability & database performance.",
+              "children": [],
+              "repo_info": {
+                "archived": false,
+                "id": 128158382,
+                "language": "OCaml",
+                "last_commit": "2022-05-07T20:47:05Z",
+                "owner": "marcoonroad",
+                "repo": "ocaml-cuid",
+                "stars": 18
+              }
+            },
+            {
+              "node_type": "item",
+              "title": "Validate",
+              "description": "PPX deriver designed to streamline the process of validating records.",
+              "children": [],
+              "repo_info": {
+                "archived": false,
+                "id": 736616356,
+                "language": "OCaml",
+                "last_commit": "2024-02-02T14:46:44Z",
+                "owner": "Axot017",
+                "repo": "validate",
+                "stars": 18
+              }
+            },
+            {
+              "node_type": "item",
+              "title": "sqids-ocaml",
+              "description": "Official OCaml port of Sqids. Generate short unique IDs from numbers.",
+              "children": [],
+              "repo_info": {
+                "archived": false,
+                "id": 658043176,
+                "language": "OCaml",
+                "last_commit": "2024-02-10T18:05:54Z",
+                "owner": "sqids",
+                "repo": "sqids-ocaml",
+                "stars": 13
+              }
+            }
+          ],
+          "description": null,
+          "node_type": "group",
+          "title": "Utilities"
+        },
+        {
+          "children": [
+            {
+              "node_type": "group",
+              "title": "Frameworks:",
+              "description": null,
+              "children": [
+                {
+                  "node_type": "item",
+                  "title": "Opium",
+                  "description": "Sinatra like web toolkit for OCaml.",
+                  "children": [],
+                  "repo_info": {
+                    "archived": false,
+                    "id": 15154549,
+                    "language": "OCaml",
+                    "last_commit": "2026-01-06T09:49:14Z",
+                    "owner": "rgrinberg",
+                    "repo": "opium",
+                    "stars": 785
+                  }
+                },
+                {
+                  "node_type": "item",
+                  "title": "incr_dom",
+                  "description": "A library for building dynamic webapps, using Js_of_ocaml",
+                  "children": [],
+                  "repo_info": {
+                    "archived": false,
+                    "id": 62637241,
+                    "language": "OCaml",
+                    "last_commit": "2026-07-10T16:45:37Z",
+                    "owner": "janestreet",
+                    "repo": "incr_dom",
+                    "stars": 401
+                  }
+                },
+                {
+                  "node_type": "item",
+                  "title": "webmachine",
+                  "description": "A REST toolkit for OCaml. OCaml webmachine is a layer on top of cohttp that implements a state-machine-based HTTP request processor. It's particularly well-suited for writing RESTful APIs. As the name suggests, this is an OCaml port of the webmachine project.",
+                  "children": [],
+                  "repo_info": {
+                    "archived": false,
+                    "id": 31881976,
+                    "language": "OCaml",
+                    "last_commit": "2021-10-19T11:54:49Z",
+                    "owner": "inhabitedtype",
+                    "repo": "ocaml-webmachine",
+                    "stars": 223
+                  }
+                },
+                {
+                  "node_type": "item",
+                  "title": "ocaml-vdom",
+                  "description": "Elm architecture and (V)DOM for OCaml",
+                  "children": [],
+                  "repo_info": {
+                    "archived": false,
+                    "id": 74473513,
+                    "language": "OCaml",
+                    "last_commit": "2025-02-06T16:30:42Z",
+                    "owner": "LexiFi",
+                    "repo": "ocaml-vdom",
+                    "stars": 211
+                  }
+                }
+              ]
+            },
+            {
+              "node_type": "group",
+              "title": "Tools:",
+              "description": null,
+              "children": [
+                {
+                  "node_type": "item",
+                  "title": "Lambda Soup",
+                  "description": "Functional HTML scraping and manipulation with CSS selectors, à la Python's Beautiful Soup.",
+                  "children": [],
+                  "repo_info": {
+                    "archived": false,
+                    "id": 46012901,
+                    "language": "OCaml",
+                    "last_commit": "2024-11-18T19:27:20Z",
+                    "owner": "aantron",
+                    "repo": "lambdasoup",
+                    "stars": 410
+                  }
+                },
+                {
+                  "node_type": "item",
+                  "title": "gen_js_api",
+                  "description": "gen_js_api aims at simplifying the creation of OCaml bindings for Javascript libraries.",
+                  "children": [],
+                  "repo_info": {
+                    "archived": false,
+                    "id": 32999436,
+                    "language": "OCaml",
+                    "last_commit": "2026-07-15T16:29:43Z",
+                    "owner": "LexiFi",
+                    "repo": "gen_js_api",
+                    "stars": 183
+                  }
+                },
+                {
+                  "node_type": "item",
+                  "title": "Markup.ml",
+                  "description": "Error-recovering streaming HTML5 and XML parsers, serializers.",
+                  "children": [],
+                  "repo_info": {
+                    "archived": false,
+                    "id": 49437817,
+                    "language": "OCaml",
+                    "last_commit": "2024-10-06T19:37:45Z",
+                    "owner": "aantron",
+                    "repo": "markup.ml",
+                    "stars": 150
+                  }
+                },
+                {
+                  "node_type": "item",
+                  "title": "routes",
+                  "description": "Typed routes for OCaml/ReasonML web applications.",
+                  "children": [],
+                  "repo_info": {
+                    "archived": false,
+                    "id": 178964795,
+                    "language": "OCaml",
+                    "last_commit": "2026-06-20T18:16:19Z",
+                    "owner": "anuragsoni",
+                    "repo": "routes",
+                    "stars": 150
+                  }
+                },
+                {
+                  "node_type": "item",
+                  "title": "jingoo",
+                  "description": "OCaml template engine almost compatible with jinja2.",
+                  "children": [],
+                  "repo_info": {
+                    "archived": false,
+                    "id": 3476397,
+                    "language": "OCaml",
+                    "last_commit": "2026-07-24T05:34:46Z",
+                    "owner": "tategakibunko",
+                    "repo": "jingoo",
+                    "stars": 142
+                  }
+                },
+                {
+                  "node_type": "item",
+                  "title": "COW",
+                  "description": "Caml on the Web (COW) is a set of parsers and syntax extensions to let you manipulate HTML, CSS, XML, JSON and Markdown directly from OCaml code.",
+                  "children": [],
+                  "repo_info": {
+                    "archived": false,
+                    "id": 4752708,
+                    "language": "OCaml",
+                    "last_commit": "2023-12-07T19:45:03Z",
+                    "owner": "mirage",
+                    "repo": "ocaml-cow",
+                    "stars": 112
+                  }
+                },
+                {
+                  "node_type": "item",
+                  "title": "ocaml-uri",
+                  "description": "RFC3986 URI parsing library.",
+                  "children": [],
+                  "repo_info": {
+                    "archived": false,
+                    "id": 3122744,
+                    "language": "OCaml",
+                    "last_commit": "2025-11-24T11:47:15Z",
+                    "owner": "mirage",
+                    "repo": "ocaml-uri",
+                    "stars": 99
+                  }
+                },
+                {
+                  "node_type": "item",
+                  "title": "ocaml-mustache",
+                  "description": "mustache.js logic-less templates in OCaml.",
+                  "children": [],
+                  "repo_info": {
+                    "archived": false,
+                    "id": 16162283,
+                    "language": "OCaml",
+                    "last_commit": "2024-05-31T12:47:36Z",
+                    "owner": "rgrinberg",
+                    "repo": "ocaml-mustache",
+                    "stars": 87
+                  }
+                },
+                {
+                  "node_type": "item",
+                  "title": "dispatch",
+                  "description": "Path-based dispatching for client- and server-side applications.",
+                  "children": [],
+                  "repo_info": {
+                    "archived": false,
+                    "id": 44256882,
+                    "language": "OCaml",
+                    "last_commit": "2022-09-26T08:56:20Z",
+                    "owner": "inhabitedtype",
+                    "repo": "ocaml-dispatch",
+                    "stars": 45
+                  }
+                },
+                {
+                  "node_type": "item",
+                  "title": "Goji",
+                  "description": "An OCaml bindings generator for JavaScript libraries.",
+                  "children": [],
+                  "repo_info": {
+                    "archived": false,
+                    "id": 12206098,
+                    "language": "OCaml",
+                    "last_commit": "2014-07-26T11:07:04Z",
+                    "owner": "klakplok",
+                    "repo": "goji",
+                    "stars": 44
+                  }
+                },
+                {
+                  "node_type": "item",
+                  "title": "Syndic",
+                  "description": "RSS and Atom feed parsing",
+                  "children": [],
+                  "repo_info": {
+                    "archived": false,
+                    "id": 16716098,
+                    "language": "OCaml",
+                    "last_commit": "2026-03-06T13:28:33Z",
+                    "owner": "Cumulus",
+                    "repo": "Syndic",
+                    "stars": 38
+                  }
+                },
+                {
+                  "node_type": "item",
+                  "title": "atdjs",
+                  "description": "atd code generator (serialization) for OCaml/js_of_ocaml.",
+                  "children": [],
+                  "repo_info": {
+                    "archived": true,
+                    "id": 1293625,
+                    "language": "OCaml",
+                    "last_commit": "2013-09-25T22:37:04Z",
+                    "owner": "barko",
+                    "repo": "atdjs",
+                    "stars": 9
+                  }
+                },
+                {
+                  "node_type": "group",
+                  "title": "js_of_ocaml",
+                  "description": "Js_of_ocaml is a compiler of OCaml bytecode to Javascript. It makes it possible to run Ocaml programs in a Web browser.",
+                  "children": [
+                    {
+                      "node_type": "item",
+                      "title": "commonjs_of_ocaml",
+                      "description": "Easily import and export CommonJS modules from a js_of_ocaml project.",
+                      "children": [],
+                      "repo_info": {
+                        "archived": false,
+                        "id": 57296212,
+                        "language": "OCaml",
+                        "last_commit": "2016-05-19T08:03:51Z",
+                        "owner": "AngryLawyer",
+                        "repo": "commonjs_of_ocaml",
+                        "stars": 12
+                      }
+                    }
+                  ]
+                }
+              ]
+            },
+            {
+              "node_type": "group",
+              "title": "Open Source Projects:",
+              "description": null,
+              "children": [
+                {
+                  "node_type": "item",
+                  "title": "Cumulus",
+                  "description": "Hacker news like website with the OCaml framework Ocsigen",
+                  "children": [],
+                  "repo_info": {
+                    "archived": false,
+                    "id": 13805049,
+                    "language": "OCaml",
+                    "last_commit": "2015-05-04T03:26:38Z",
+                    "owner": "Cumulus",
+                    "repo": "Cumulus",
+                    "stars": 53
+                  }
+                }
+              ]
+            }
+          ],
+          "description": "Inspired by awesome projects line. Discover more awesomeness :sparkles:.",
+          "node_type": "group",
+          "title": "Web Development"
         }
       ],
-      "title": "Web Development"
+      "title": "Science and Technical Computing"
     }
   ],
   "metadata": {
-    "last_updated": "2026-08-18T15:14:16.461Z",
+    "last_updated": "2026-08-19T12:43:27.848Z",
     "original_repository": "ocaml-community/awesome-ocaml",
+    "original_repository_id": 22212866,
     "original_repository_sha": "be4de2c236793ba4d6c6f841423279fc282d6d4e",
     "enhanced_repository": "enhansome/enhansome-ocaml",
     "enhanced_repository_description": null,

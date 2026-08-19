@@ -1650,7 +1650,7 @@
             "archived": false,
             "id": 1377159,
             "language": "OCaml",
-            "last_commit": "2026-08-19T11:27:29Z",
+            "last_commit": "2026-08-19T14:31:54Z",
             "owner": "rocq-prover",
             "repo": "rocq",
             "stars": 5549
@@ -1680,7 +1680,7 @@
             "archived": false,
             "id": 3055052,
             "language": "OCaml",
-            "last_commit": "2026-08-19T12:26:56Z",
+            "last_commit": "2026-08-19T14:45:27Z",
             "owner": "savonet",
             "repo": "liquidsoap",
             "stars": 1719
@@ -1740,7 +1740,7 @@
             "archived": false,
             "id": 960233,
             "language": "OCaml",
-            "last_commit": "2026-08-18T11:31:42Z",
+            "last_commit": "2026-08-19T15:02:06Z",
             "owner": "xapi-project",
             "repo": "xen-api",
             "stars": 367
@@ -1758,7 +1758,7 @@
             "last_commit": "2025-01-28T17:15:00Z",
             "owner": "ygrek",
             "repo": "mldonkey",
-            "stars": 344
+            "stars": 345
           }
         },
         {
@@ -3485,7 +3485,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-08-19T12:43:27.848Z",
+    "last_updated": "2026-08-19T15:13:52.148Z",
     "original_repository": "ocaml-community/awesome-ocaml",
     "original_repository_id": 22212866,
     "original_repository_sha": "be4de2c236793ba4d6c6f841423279fc282d6d4e",

@@ -15,7 +15,7 @@
             "last_commit": "2026-08-21T14:50:07Z",
             "owner": "dmtrKovalenko",
             "repo": "odiff",
-            "stars": 3163
+            "stars": 3165
           }
         },
         {
@@ -156,7 +156,7 @@
             "last_commit": "2026-07-10T16:45:33Z",
             "owner": "janestreet",
             "repo": "base",
-            "stars": 1080
+            "stars": 1081
           }
         },
         {
@@ -183,7 +183,7 @@
             "archived": false,
             "id": 8457448,
             "language": "OCaml",
-            "last_commit": "2026-08-21T13:50:05Z",
+            "last_commit": "2026-08-21T17:22:10Z",
             "owner": "c-cube",
             "repo": "ocaml-containers",
             "stars": 524
@@ -300,7 +300,7 @@
             "archived": false,
             "id": 25880891,
             "language": "Rust",
-            "last_commit": "2026-08-21T11:08:35Z",
+            "last_commit": "2026-08-22T02:59:01Z",
             "owner": "facebook",
             "repo": "flow",
             "stars": 22277
@@ -318,7 +318,7 @@
             "last_commit": "2026-08-21T12:01:45Z",
             "owner": "facebook",
             "repo": "infer",
-            "stars": 15684
+            "stars": 15685
           }
         },
         {
@@ -414,7 +414,7 @@
             "last_commit": "2026-05-07T15:28:41Z",
             "owner": "BinaryAnalysisPlatform",
             "repo": "bap",
-            "stars": 2249
+            "stars": 2250
           }
         },
         {
@@ -429,7 +429,7 @@
             "last_commit": "2025-02-25T16:54:39Z",
             "owner": "airbus-seclab",
             "repo": "bincat",
-            "stars": 1870
+            "stars": 1872
           }
         },
         {
@@ -530,7 +530,7 @@
                 "last_commit": "2014-01-24T19:15:31Z",
                 "owner": "nrnrnr",
                 "repo": "qc--",
-                "stars": 169
+                "stars": 168
               }
             },
             {
@@ -818,7 +818,7 @@
                 "last_commit": "2026-08-13T08:10:38Z",
                 "owner": "paurkedal",
                 "repo": "ocaml-caqti",
-                "stars": 355
+                "stars": 354
               }
             },
             {
@@ -952,7 +952,7 @@
             "last_commit": "2026-07-30T07:41:48Z",
             "owner": "ocaml-ppx",
             "repo": "ocamlformat",
-            "stars": 730
+            "stars": 729
           }
         },
         {
@@ -1114,7 +1114,7 @@
                 "last_commit": "2026-08-18T06:46:44Z",
                 "owner": "ocaml",
                 "repo": "merlin",
-                "stars": 1700
+                "stars": 1702
               }
             },
             {
@@ -1129,7 +1129,7 @@
                 "last_commit": "2026-08-16T23:25:50Z",
                 "owner": "ocaml",
                 "repo": "ocaml-lsp",
-                "stars": 910
+                "stars": 909
               }
             },
             {
@@ -1638,7 +1638,7 @@
             "last_commit": "2022-08-17T20:11:55Z",
             "owner": "onivim",
             "repo": "oni2",
-            "stars": 7842
+            "stars": 7843
           }
         },
         {
@@ -1650,10 +1650,10 @@
             "archived": false,
             "id": 1377159,
             "language": "OCaml",
-            "last_commit": "2026-08-21T11:26:38Z",
+            "last_commit": "2026-08-22T11:23:17Z",
             "owner": "rocq-prover",
             "repo": "rocq",
-            "stars": 5550
+            "stars": 5551
           }
         },
         {
@@ -1680,7 +1680,7 @@
             "archived": false,
             "id": 3055052,
             "language": "OCaml",
-            "last_commit": "2026-08-21T15:08:09Z",
+            "last_commit": "2026-08-22T14:21:58Z",
             "owner": "savonet",
             "repo": "liquidsoap",
             "stars": 1719
@@ -1698,7 +1698,7 @@
             "last_commit": "2026-07-10T16:45:33Z",
             "owner": "janestreet",
             "repo": "base",
-            "stars": 1080
+            "stars": 1081
           }
         },
         {
@@ -2113,10 +2113,10 @@
                 "archived": false,
                 "id": 72368050,
                 "language": "OCaml",
-                "last_commit": "2026-08-21T11:15:42Z",
+                "last_commit": "2026-08-22T14:52:32Z",
                 "owner": "ocaml",
                 "repo": "dune",
-                "stars": 1909
+                "stars": 1908
               }
             },
             {
@@ -2323,7 +2323,7 @@
                 "last_commit": "2023-08-30T05:11:58Z",
                 "owner": "ocaml-multicore",
                 "repo": "awesome-multicore-ocaml",
-                "stars": 161
+                "stars": 160
               }
             }
           ]
@@ -2343,10 +2343,10 @@
             "archived": false,
             "id": 72368050,
             "language": "OCaml",
-            "last_commit": "2026-08-21T11:15:42Z",
+            "last_commit": "2026-08-22T14:52:32Z",
             "owner": "ocaml",
             "repo": "dune",
-            "stars": 1909
+            "stars": 1908
           }
         },
         {
@@ -2361,7 +2361,7 @@
             "last_commit": "2026-07-26T17:31:55Z",
             "owner": "ocaml-ppx",
             "repo": "ppx_deriving",
-            "stars": 522
+            "stars": 521
           }
         },
         {
@@ -2854,7 +2854,7 @@
                 "last_commit": "2025-08-01T08:21:47Z",
                 "owner": "ocaml-community",
                 "repo": "yojson",
-                "stars": 367
+                "stars": 366
               }
             },
             {
@@ -3055,7 +3055,7 @@
                 "last_commit": "2026-07-20T08:15:33Z",
                 "owner": "mirage",
                 "repo": "alcotest",
-                "stars": 515
+                "stars": 514
               }
             },
             {
@@ -3070,7 +3070,7 @@
                 "last_commit": "2026-06-29T11:23:32Z",
                 "owner": "c-cube",
                 "repo": "qcheck",
-                "stars": 407
+                "stars": 406
               }
             },
             {
@@ -3209,7 +3209,7 @@
                     "last_commit": "2026-07-10T16:45:37Z",
                     "owner": "janestreet",
                     "repo": "incr_dom",
-                    "stars": 399
+                    "stars": 400
                   }
                 },
                 {
@@ -3485,7 +3485,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-08-21T15:16:23.461Z",
+    "last_updated": "2026-08-22T15:00:33.872Z",
     "original_repository": "ocaml-community/awesome-ocaml",
     "original_repository_id": 22212866,
     "original_repository_sha": "be4de2c236793ba4d6c6f841423279fc282d6d4e",

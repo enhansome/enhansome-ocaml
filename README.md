@@ -126,7 +126,7 @@ Your favorite package is not listed? Fork and [create a Pull Request](https://gi
 
 ## Code Analysis and Linters
 
-* [flow](https://github.com/facebook/flow) ⭐ 22,277 | 🐛 526 | 🌐 Rust | 📅 2026-08-22 - flow is a static type checker for JavaScript.
+* [flow](https://github.com/facebook/flow) ⭐ 22,277 | 🐛 524 | 🌐 Rust | 📅 2026-08-24 - flow is a static type checker for JavaScript.
 * [Infer](https://github.com/facebook/infer) ⭐ 15,686 | 🐛 298 | 🌐 OCaml | 📅 2026-08-21 - Infer is a static analyzer for Java, C and Objective-C
 * [SLAyer](https://github.com/Microsoft/SLAyer) ⚠️ Archived - SLAyer is an automatic formal verification tool that uses separation logic to verify memory safety of C programs.
 * [coq-of-ocaml](https://github.com/formal-land/coq-of-ocaml) ⭐ 274 | 🐛 17 | 🌐 OCaml | 📅 2026-05-18 - Translator from OCaml to Coq to formally verify OCaml code.
@@ -218,7 +218,7 @@ With the introduction of [Effect Handlers](https://ocaml.org/manual/effects.html
   * [SQLite3](https://github.com/mmottl/sqlite3-ocaml) ⭐ 131 | 🐛 2 | 🌐 OCaml | 📅 2026-08-12 — OCaml bindings to the SQLite3 database.
   * [pgx](https://github.com/arenadotio/pgx) ⭐ 129 | 🐛 19 | 🌐 OCaml | 📅 2022-10-26 – A pure OCaml PostgreSQL client library.
   * [ocaml-redis](https://github.com/0xffea/ocaml-redis) ⭐ 85 | 🐛 5 | 🌐 OCaml | 📅 2025-05-21 – Redis bindings for OCaml.
-  * [mariadb](https://github.com/ocaml-community/ocaml-mariadb) ⭐ 58 | 🐛 4 | 🌐 OCaml | 📅 2026-08-19 - Bindings to MariaDB/MySQL, supporting the nonblocking API
+  * [mariadb](https://github.com/ocaml-community/ocaml-mariadb) ⭐ 58 | 🐛 2 | 🌐 OCaml | 📅 2026-08-24 - Bindings to MariaDB/MySQL, supporting the nonblocking API
   * [mysql\_protocol](https://github.com/slegrand45/mysql_protocol) ⭐ 14 | 🐛 0 | 🌐 OCaml | 📅 2022-04-12 – Implementation of MySQL Protocol with the Bitstring library.
   * [Dbm](https://forge.ocamlcore.org/projects/camldbm/) — A binding to the NDBM/GDBM Unix "databases".
   * [Mongo.ml](https://massd.github.io/mongo/) – An OCaml driver for Mongodb
@@ -287,10 +287,10 @@ With the introduction of [Effect Handlers](https://ocaml.org/manual/effects.html
 
 * **Editor Integration**:
   * [merlin](https://github.com/ocaml/merlin) ⭐ 1,703 | 🐛 280 | 🌐 OCaml | 📅 2026-08-18 – Context sensitive completion for OCaml in Vim and Emacs.
-  * [ocaml-lsp](https://github.com/ocaml/ocaml-lsp) ⭐ 909 | 🐛 144 | 🌐 OCaml | 📅 2026-08-23 - An LSP language server for OCaml that integrates with any editor that understands LSP like [VSCode](https://github.com/microsoft/vscode) ⭐ 189,367 | 🐛 20,051 | 🌐 TypeScript | 📅 2026-08-24, Vim and Emacs.
+  * [ocaml-lsp](https://github.com/ocaml/ocaml-lsp) ⭐ 909 | 🐛 144 | 🌐 OCaml | 📅 2026-08-23 - An LSP language server for OCaml that integrates with any editor that understands LSP like [VSCode](https://github.com/microsoft/vscode) ⭐ 189,369 | 🐛 20,063 | 🌐 TypeScript | 📅 2026-08-24, Vim and Emacs.
   * [tuareg](https://github.com/ocaml/tuareg) ⭐ 396 | 🐛 41 | 🌐 Emacs Lisp | 📅 2026-06-26 - OCaml mode for Emacs that can run the toplevel and the debugger within Emacs.
-  * [OCaml Debugger](https://github.com/hackwaly/ocamlearlybird) ⭐ 234 | 🐛 26 | 🌐 OCaml | 📅 2026-07-20 – extension that provides OCaml Debugger for [VSCode](https://github.com/microsoft/vscode) ⭐ 189,367 | 🐛 20,051 | 🌐 TypeScript | 📅 2026-08-24
-  * [vscode-ocaml](https://github.com/hackwaly/vscode-ocaml) ⚠️ Archived – extension that provides OCaml language support for [VSCode](https://github.com/microsoft/vscode) ⭐ 189,367 | 🐛 20,051 | 🌐 TypeScript | 📅 2026-08-24
+  * [OCaml Debugger](https://github.com/hackwaly/ocamlearlybird) ⭐ 234 | 🐛 26 | 🌐 OCaml | 📅 2026-07-20 – extension that provides OCaml Debugger for [VSCode](https://github.com/microsoft/vscode) ⭐ 189,369 | 🐛 20,063 | 🌐 TypeScript | 📅 2026-08-24
+  * [vscode-ocaml](https://github.com/hackwaly/vscode-ocaml) ⚠️ Archived – extension that provides OCaml language support for [VSCode](https://github.com/microsoft/vscode) ⭐ 189,369 | 🐛 20,063 | 🌐 TypeScript | 📅 2026-08-24
   * [merlin-eldoc](https://github.com/Khady/merlin-eldoc) ⭐ 46 | 🐛 6 | 🌐 Emacs Lisp | 📅 2026-07-02 – Emacs package to provide merlin's features through eldoc.
   * [Sublime better ocaml](https://github.com/whitequark/sublime-better-ocaml) ⭐ 23 | 🐛 2 | 📅 2018-02-08 – Better OCaml mode for Sublime Text.
     * [Sublime text package](https://github.com/def-lkb/sublime-text-merlin) ⭐ 12 | 🐛 0 | 🌐 Python | 📅 2017-06-23
@@ -380,7 +380,7 @@ With the introduction of [Effect Handlers](https://ocaml.org/manual/effects.html
 ## Large Source Code Examples
 
 * [Oni2](https://github.com/onivim/oni2) ⭐ 7,842 | 🐛 547 | 🌐 Reason | 📅 2022-08-17 - Native, lightweight modal code editor.
-* [coq](https://github.com/coq/coq) ⭐ 5,555 | 🐛 2,562 | 🌐 OCaml | 📅 2026-08-24 - formal proof management system
+* [coq](https://github.com/coq/coq) ⭐ 5,555 | 🐛 2,563 | 🌐 OCaml | 📅 2026-08-24 - formal proof management system
 * [mirage](https://github.com/mirage/mirage) ⭐ 2,980 | 🐛 62 | 🌐 OCaml | 📅 2026-07-28 -  library operating system that constructs unikernels for secure, high-performance network applications across a variety of cloud computing and mobile platforms
 * [Liquidsoap](https://github.com/savonet/liquidsoap) ⭐ 1,720 | 🐛 271 | 🌐 OCaml | 📅 2026-08-24 - a swiss-army knife for multimedia streaming, notably used for netradios and webtvs
 * [Base](https://github.com/janestreet/base) ⭐ 1,082 | 🐛 8 | 🌐 OCaml | 📅 2026-07-10 - Standard library for OCaml
@@ -481,7 +481,7 @@ With the introduction of [Effect Handlers](https://ocaml.org/manual/effects.html
   * [OCaml for Windows](https://fdopen.github.io/opam-repository-mingw) - opam repository and experimental build for Windows (deprecated since 2021).
 
 * **Build Tools**:
-  * [dune](https://github.com/ocaml/dune) ⭐ 1,910 | 🐛 1,054 | 🌐 OCaml | 📅 2026-08-24 – A composable and opinionated build system for OCaml (former jbuilder)
+  * [dune](https://github.com/ocaml/dune) ⭐ 1,910 | 🐛 1,053 | 🌐 OCaml | 📅 2026-08-24 – A composable and opinionated build system for OCaml (former jbuilder)
   * [ocaml-makefile](https://github.com/mmottl/ocaml-makefile) ⭐ 80 | 🐛 0 | 🌐 OCaml | 📅 2025-07-21 — Easy to use Makefile for small to medium-sized OCaml-projects.
   * [topkg](https://github.com/dbuenzli/topkg) ⭐ 70 | 🐛 0 | 🌐 OCaml | 📅 2026-08-13 — OPAM-aware packaging system using ocamlbuild.
   * [obuild](https://github.com/ocaml-obuild/obuild) ⭐ 56 | 🐛 36 | 🌐 OCaml | 📅 2026-08-21 – Simple package build system for ocaml.
@@ -512,7 +512,7 @@ With the introduction of [Effect Handlers](https://ocaml.org/manual/effects.html
 
 ## Printers helpers
 
-* [**dyn** ](https://github.com/ocaml/dune/blob/4b95cd3d1b3a62e69a9a9db2bc4af2f9fd2e56d8/otherlibs/dyn/dyn.mli) ⭐ 1,910 | 🐛 1,054 | 🌐 OCaml | 📅 2026-08-24 in Dune. It appears to also be fully manual.
+* [**dyn** ](https://github.com/ocaml/dune/blob/4b95cd3d1b3a62e69a9a9db2bc4af2f9fd2e56d8/otherlibs/dyn/dyn.mli) ⭐ 1,910 | 🐛 1,053 | 🌐 OCaml | 📅 2026-08-24 in Dune. It appears to also be fully manual.
 * [**ppx\_deriving** ](https://github.com/ocaml-ppx/ppx_deriving#usage) ⭐ 521 | 🐛 39 | 🌐 OCaml | 📅 2026-07-26’s `[@@deriving show]`.
 * Reason's native [**Console.log**](https://github.com/reasonml/reason-native/tree/master/src/console#consoleloganything) ⭐ 457 | 🐛 50 | 🌐 Reason | 📅 2024-05-07
 * [**refl** ](https://github.com/thierry-martinez/refl#basic-usage) ⭐ 52 | 🐛 0 | 🌐 OCaml | 📅 2022-11-16, a ppx\_deriving-like.

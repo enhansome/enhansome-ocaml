@@ -15,7 +15,7 @@
             "last_commit": "2026-08-21T14:50:07Z",
             "owner": "dmtrKovalenko",
             "repo": "odiff",
-            "stars": 3168
+            "stars": 3169
           }
         },
         {
@@ -303,7 +303,7 @@
             "last_commit": "2026-08-22T19:25:51Z",
             "owner": "facebook",
             "repo": "flow",
-            "stars": 22278
+            "stars": 22277
           }
         },
         {
@@ -414,7 +414,7 @@
             "last_commit": "2026-05-07T15:28:41Z",
             "owner": "BinaryAnalysisPlatform",
             "repo": "bap",
-            "stars": 2250
+            "stars": 2252
           }
         },
         {
@@ -444,7 +444,7 @@
             "last_commit": "2026-08-20T09:29:19Z",
             "owner": "fkie-cad",
             "repo": "cwe_checker",
-            "stars": 1350
+            "stars": 1351
           }
         },
         {
@@ -456,7 +456,7 @@
             "archived": false,
             "id": 573640699,
             "language": "OCaml",
-            "last_commit": "2026-08-20T13:53:40Z",
+            "last_commit": "2026-08-24T10:14:28Z",
             "owner": "OCamlPro",
             "repo": "owi",
             "stars": 322
@@ -471,7 +471,7 @@
             "archived": false,
             "id": 618050885,
             "language": "OCaml",
-            "last_commit": "2026-08-17T09:51:33Z",
+            "last_commit": "2026-08-24T13:20:44Z",
             "owner": "formalsec",
             "repo": "smtml",
             "stars": 80
@@ -937,7 +937,7 @@
             "last_commit": "2026-08-18T22:05:04Z",
             "owner": "ocaml-community",
             "repo": "utop",
-            "stars": 925
+            "stars": 926
           }
         },
         {
@@ -1126,7 +1126,7 @@
                 "archived": false,
                 "id": 227073289,
                 "language": "OCaml",
-                "last_commit": "2026-08-23T00:04:58Z",
+                "last_commit": "2026-08-23T21:58:59Z",
                 "owner": "ocaml",
                 "repo": "ocaml-lsp",
                 "stars": 909
@@ -1650,10 +1650,10 @@
             "archived": false,
             "id": 1377159,
             "language": "OCaml",
-            "last_commit": "2026-08-22T11:23:17Z",
+            "last_commit": "2026-08-24T13:07:57Z",
             "owner": "rocq-prover",
             "repo": "rocq",
-            "stars": 5551
+            "stars": 5555
           }
         },
         {
@@ -1668,7 +1668,7 @@
             "last_commit": "2026-07-28T11:01:30Z",
             "owner": "mirage",
             "repo": "mirage",
-            "stars": 2978
+            "stars": 2980
           }
         },
         {
@@ -1680,7 +1680,7 @@
             "archived": false,
             "id": 3055052,
             "language": "OCaml",
-            "last_commit": "2026-08-22T14:21:58Z",
+            "last_commit": "2026-08-24T14:00:31Z",
             "owner": "savonet",
             "repo": "liquidsoap",
             "stars": 1720
@@ -1740,7 +1740,7 @@
             "archived": false,
             "id": 960233,
             "language": "OCaml",
-            "last_commit": "2026-08-21T02:09:19Z",
+            "last_commit": "2026-08-24T10:45:53Z",
             "owner": "xapi-project",
             "repo": "xen-api",
             "stars": 367
@@ -1758,7 +1758,7 @@
             "last_commit": "2025-01-28T17:15:00Z",
             "owner": "ygrek",
             "repo": "mldonkey",
-            "stars": 344
+            "stars": 345
           }
         },
         {
@@ -1930,6 +1930,128 @@
       "description": null,
       "items": [
         {
+          "node_type": "group",
+          "title": "Syntax Extensions:",
+          "description": null,
+          "children": [
+            {
+              "node_type": "item",
+              "title": "ppx_deriving_yojson",
+              "description": "A Yojson codec generator for OCaml.",
+              "children": [],
+              "repo_info": {
+                "archived": false,
+                "id": 23726587,
+                "language": "OCaml",
+                "last_commit": "2025-08-11T16:19:38Z",
+                "owner": "ocaml-ppx",
+                "repo": "ppx_deriving_yojson",
+                "stars": 169
+              }
+            },
+            {
+              "node_type": "item",
+              "title": "ppx_import",
+              "description": "Import is a syntax extension that allows to pull in types or signatures from other compiled interface files.",
+              "children": [],
+              "repo_info": {
+                "archived": false,
+                "id": 22515786,
+                "language": "OCaml",
+                "last_commit": "2025-10-13T17:14:00Z",
+                "owner": "ocaml-ppx",
+                "repo": "ppx_import",
+                "stars": 92
+              }
+            },
+            {
+              "node_type": "item",
+              "title": "ppx_string_interpolate",
+              "description": "A simple ppx filter to support string interpolation like .",
+              "children": [],
+              "repo_info": {
+                "archived": false,
+                "id": 25660865,
+                "language": "OCaml",
+                "last_commit": "2020-05-21T16:51:40Z",
+                "owner": "sheijk",
+                "repo": "ppx_string_interpolate",
+                "stars": 21
+              }
+            },
+            {
+              "node_type": "item",
+              "title": "ppx_monad",
+              "description": "Monad syntax extension for OCaml.",
+              "children": [],
+              "repo_info": {
+                "archived": false,
+                "id": 65336711,
+                "language": "OCaml",
+                "last_commit": "2017-03-07T18:04:22Z",
+                "owner": "rizo",
+                "repo": "ppx_monad",
+                "stars": 7
+              }
+            }
+          ]
+        }
+      ],
+      "title": "Metaprogramming"
+    },
+    {
+      "description": null,
+      "items": [
+        {
+          "node_type": "item",
+          "title": "prometheus",
+          "description": "OCaml client library for Prometheus monitoring.",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "id": 80849098,
+            "language": "OCaml",
+            "last_commit": "2026-08-22T11:56:32Z",
+            "owner": "mirage",
+            "repo": "prometheus",
+            "stars": 53
+          }
+        }
+      ],
+      "title": "Metrics"
+    },
+    {
+      "description": null,
+      "items": [
+        {
+          "node_type": "group",
+          "title": "Bindings:",
+          "description": null,
+          "children": [
+            {
+              "node_type": "item",
+              "title": "Cordova plugins",
+              "description": "List of bindings to Cordova plugins. Get access to native device components like accelerometer, SMS, geolocation, etc in OCaml.",
+              "children": [],
+              "repo_info": {
+                "archived": false,
+                "id": 51992791,
+                "language": null,
+                "last_commit": "2026-04-22T13:08:19Z",
+                "owner": "dannywillems",
+                "repo": "ocaml-cordova-plugin-list",
+                "stars": 27
+              }
+            }
+          ]
+        }
+      ],
+      "title": "Mobile Applications"
+    },
+    {
+      "description": null,
+      "items": [
+        {
           "node_type": "item",
           "title": "ocaml-dns",
           "description": "A pure OCaml implementation of the DNS protocol.",
@@ -1991,7 +2113,7 @@
                 "last_commit": "2026-08-20T17:15:32Z",
                 "owner": "mirage",
                 "repo": "ocaml-cohttp",
-                "stars": 775
+                "stars": 776
               }
             },
             {
@@ -2113,10 +2235,10 @@
                 "archived": false,
                 "id": 72368050,
                 "language": "OCaml",
-                "last_commit": "2026-08-23T13:43:20Z",
+                "last_commit": "2026-08-24T12:25:34Z",
                 "owner": "ocaml",
                 "repo": "dune",
-                "stars": 1909
+                "stars": 1910
               }
             },
             {
@@ -2343,10 +2465,10 @@
             "archived": false,
             "id": 72368050,
             "language": "OCaml",
-            "last_commit": "2026-08-23T13:43:20Z",
+            "last_commit": "2026-08-24T12:25:34Z",
             "owner": "ocaml",
             "repo": "dune",
-            "stars": 1909
+            "stars": 1910
           }
         },
         {
@@ -2884,7 +3006,7 @@
                 "last_commit": "2026-07-10T16:45:42Z",
                 "owner": "janestreet",
                 "repo": "sexplib",
-                "stars": 180
+                "stars": 181
               }
             },
             {
@@ -2951,7 +3073,7 @@
                 "last_commit": "2026-07-28T11:01:30Z",
                 "owner": "mirage",
                 "repo": "mirage",
-                "stars": 2978
+                "stars": 2980
               }
             },
             {
@@ -3485,7 +3607,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-08-23T15:01:29.892Z",
+    "last_updated": "2026-08-24T14:04:41.468Z",
     "original_repository": "ocaml-community/awesome-ocaml",
     "original_repository_id": 22212866,
     "original_repository_sha": "be4de2c236793ba4d6c6f841423279fc282d6d4e",

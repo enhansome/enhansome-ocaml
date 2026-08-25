@@ -15,7 +15,7 @@
             "last_commit": "2026-08-24T16:04:17Z",
             "owner": "dmtrKovalenko",
             "repo": "odiff",
-            "stars": 3170
+            "stars": 3172
           }
         },
         {
@@ -315,10 +315,10 @@
             "archived": false,
             "id": 29857799,
             "language": "OCaml",
-            "last_commit": "2026-08-24T17:51:05Z",
+            "last_commit": "2026-08-25T12:22:25Z",
             "owner": "facebook",
             "repo": "infer",
-            "stars": 15687
+            "stars": 15688
           }
         },
         {
@@ -471,7 +471,7 @@
             "archived": false,
             "id": 618050885,
             "language": "OCaml",
-            "last_commit": "2026-08-24T13:20:44Z",
+            "last_commit": "2026-08-25T14:52:55Z",
             "owner": "formalsec",
             "repo": "smtml",
             "stars": 80
@@ -597,7 +597,7 @@
                 "last_commit": "2023-07-24T22:23:49Z",
                 "owner": "pyrocat101",
                 "repo": "opal",
-                "stars": 156
+                "stars": 155
               }
             },
             {
@@ -662,7 +662,7 @@
                 "last_commit": "2026-08-12T19:29:36Z",
                 "owner": "mmottl",
                 "repo": "sqlite3-ocaml",
-                "stars": 131
+                "stars": 132
               }
             },
             {
@@ -704,7 +704,7 @@
                 "archived": false,
                 "id": 63977370,
                 "language": "OCaml",
-                "last_commit": "2026-08-24T14:38:09Z",
+                "last_commit": "2026-08-25T13:26:12Z",
                 "owner": "ocaml-community",
                 "repo": "ocaml-mariadb",
                 "stars": 58
@@ -815,7 +815,7 @@
                 "archived": false,
                 "id": 17882175,
                 "language": "OCaml",
-                "last_commit": "2026-08-13T08:10:38Z",
+                "last_commit": "2026-08-25T08:20:09Z",
                 "owner": "paurkedal",
                 "repo": "ocaml-caqti",
                 "stars": 354
@@ -1680,7 +1680,7 @@
             "archived": false,
             "id": 3055052,
             "language": "OCaml",
-            "last_commit": "2026-08-25T05:39:27Z",
+            "last_commit": "2026-08-25T14:24:42Z",
             "owner": "savonet",
             "repo": "liquidsoap",
             "stars": 1720
@@ -1710,7 +1710,7 @@
             "archived": false,
             "id": 3145660,
             "language": "C",
-            "last_commit": "2026-08-14T12:36:43Z",
+            "last_commit": "2026-08-25T10:41:39Z",
             "owner": "libguestfs",
             "repo": "libguestfs",
             "stars": 743
@@ -2235,7 +2235,7 @@
                 "archived": false,
                 "id": 72368050,
                 "language": "OCaml",
-                "last_commit": "2026-08-25T05:10:47Z",
+                "last_commit": "2026-08-25T15:20:18Z",
                 "owner": "ocaml",
                 "repo": "dune",
                 "stars": 1910
@@ -2465,7 +2465,7 @@
             "archived": false,
             "id": 72368050,
             "language": "OCaml",
-            "last_commit": "2026-08-25T05:10:47Z",
+            "last_commit": "2026-08-25T15:20:18Z",
             "owner": "ocaml",
             "repo": "dune",
             "stars": 1910
@@ -3607,7 +3607,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-08-25T05:55:02.064Z",
+    "last_updated": "2026-08-25T15:28:24.554Z",
     "original_repository": "ocaml-community/awesome-ocaml",
     "original_repository_id": 22212866,
     "original_repository_sha": "be4de2c236793ba4d6c6f841423279fc282d6d4e",

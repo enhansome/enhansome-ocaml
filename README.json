@@ -12,10 +12,10 @@
             "archived": false,
             "id": 310022924,
             "language": "Zig",
-            "last_commit": "2026-08-21T14:50:07Z",
+            "last_commit": "2026-08-24T16:04:17Z",
             "owner": "dmtrKovalenko",
             "repo": "odiff",
-            "stars": 3169
+            "stars": 3170
           }
         },
         {
@@ -141,7 +141,7 @@
             "last_commit": "2026-07-10T16:45:34Z",
             "owner": "janestreet",
             "repo": "core",
-            "stars": 1317
+            "stars": 1316
           }
         },
         {
@@ -183,7 +183,7 @@
             "archived": false,
             "id": 8457448,
             "language": "OCaml",
-            "last_commit": "2026-08-21T17:22:10Z",
+            "last_commit": "2026-08-24T15:39:45Z",
             "owner": "c-cube",
             "repo": "ocaml-containers",
             "stars": 524
@@ -300,7 +300,7 @@
             "archived": false,
             "id": 25880891,
             "language": "Rust",
-            "last_commit": "2026-08-24T15:22:43Z",
+            "last_commit": "2026-08-24T22:29:05Z",
             "owner": "facebook",
             "repo": "flow",
             "stars": 22277
@@ -315,10 +315,10 @@
             "archived": false,
             "id": 29857799,
             "language": "OCaml",
-            "last_commit": "2026-08-21T12:01:45Z",
+            "last_commit": "2026-08-24T17:51:05Z",
             "owner": "facebook",
             "repo": "infer",
-            "stars": 15686
+            "stars": 15687
           }
         },
         {
@@ -414,7 +414,7 @@
             "last_commit": "2026-05-07T15:28:41Z",
             "owner": "BinaryAnalysisPlatform",
             "repo": "bap",
-            "stars": 2252
+            "stars": 2253
           }
         },
         {
@@ -766,7 +766,7 @@
                 "last_commit": "2026-04-15T10:13:06Z",
                 "owner": "mirage",
                 "repo": "irmin",
-                "stars": 1954
+                "stars": 1955
               }
             },
             {
@@ -982,7 +982,7 @@
             "last_commit": "2026-03-12T18:11:12Z",
             "owner": "akabe",
             "repo": "ocaml-jupyter",
-            "stars": 317
+            "stars": 318
           }
         },
         {
@@ -1114,7 +1114,7 @@
                 "last_commit": "2026-08-18T06:46:44Z",
                 "owner": "ocaml",
                 "repo": "merlin",
-                "stars": 1703
+                "stars": 1704
               }
             },
             {
@@ -1680,7 +1680,7 @@
             "archived": false,
             "id": 3055052,
             "language": "OCaml",
-            "last_commit": "2026-08-24T15:19:49Z",
+            "last_commit": "2026-08-25T05:39:27Z",
             "owner": "savonet",
             "repo": "liquidsoap",
             "stars": 1720
@@ -1740,10 +1740,10 @@
             "archived": false,
             "id": 960233,
             "language": "OCaml",
-            "last_commit": "2026-08-24T10:45:53Z",
+            "last_commit": "2026-08-25T05:37:58Z",
             "owner": "xapi-project",
             "repo": "xen-api",
-            "stars": 367
+            "stars": 368
           }
         },
         {
@@ -2235,7 +2235,7 @@
                 "archived": false,
                 "id": 72368050,
                 "language": "OCaml",
-                "last_commit": "2026-08-24T15:11:19Z",
+                "last_commit": "2026-08-25T05:10:47Z",
                 "owner": "ocaml",
                 "repo": "dune",
                 "stars": 1910
@@ -2465,7 +2465,7 @@
             "archived": false,
             "id": 72368050,
             "language": "OCaml",
-            "last_commit": "2026-08-24T15:11:19Z",
+            "last_commit": "2026-08-25T05:10:47Z",
             "owner": "ocaml",
             "repo": "dune",
             "stars": 1910
@@ -3607,7 +3607,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-08-24T15:23:59.668Z",
+    "last_updated": "2026-08-25T05:55:02.064Z",
     "original_repository": "ocaml-community/awesome-ocaml",
     "original_repository_id": 22212866,
     "original_repository_sha": "be4de2c236793ba4d6c6f841423279fc282d6d4e",

@@ -15,8 +15,9 @@
             "last_commit": "2026-08-24T16:04:17Z",
             "owner": "dmtrKovalenko",
             "repo": "odiff",
-            "stars": 3175
-          }
+            "stars": 3177
+          },
+          "first_seen": "2026-08-28T23:42:57.162Z"
         },
         {
           "node_type": "item",
@@ -31,7 +32,8 @@
             "owner": "backtracking",
             "repo": "ocamlgraph",
             "stars": 252
-          }
+          },
+          "first_seen": "2026-08-28T23:42:57.162Z"
         },
         {
           "node_type": "item",
@@ -46,7 +48,8 @@
             "owner": "mirage",
             "repo": "decompress",
             "stars": 119
-          }
+          },
+          "first_seen": "2026-08-28T23:42:57.162Z"
         },
         {
           "node_type": "item",
@@ -61,7 +64,8 @@
             "owner": "owainlewis",
             "repo": "ocaml-datastructures-algorithms",
             "stars": 57
-          }
+          },
+          "first_seen": "2026-08-28T23:42:57.162Z"
         },
         {
           "node_type": "item",
@@ -76,7 +80,8 @@
             "owner": "mirage",
             "repo": "ke",
             "stars": 52
-          }
+          },
+          "first_seen": "2026-08-28T23:42:57.162Z"
         },
         {
           "node_type": "item",
@@ -91,7 +96,8 @@
             "owner": "backtracking",
             "repo": "combine",
             "stars": 37
-          }
+          },
+          "first_seen": "2026-08-28T23:42:57.162Z"
         },
         {
           "node_type": "item",
@@ -106,7 +112,8 @@
             "owner": "komamitsu",
             "repo": "oraft",
             "stars": 33
-          }
+          },
+          "first_seen": "2026-08-28T23:42:57.162Z"
         },
         {
           "node_type": "item",
@@ -121,7 +128,8 @@
             "owner": "mirage",
             "repo": "duff",
             "stars": 21
-          }
+          },
+          "first_seen": "2026-08-28T23:42:57.162Z"
         }
       ],
       "title": "Algorithms and Data Structures"
@@ -142,7 +150,8 @@
             "owner": "janestreet",
             "repo": "core",
             "stars": 1319
-          }
+          },
+          "first_seen": "2026-08-28T23:42:57.162Z"
         },
         {
           "node_type": "item",
@@ -157,7 +166,8 @@
             "owner": "janestreet",
             "repo": "base",
             "stars": 1083
-          }
+          },
+          "first_seen": "2026-08-28T23:42:57.162Z"
         },
         {
           "node_type": "item",
@@ -172,7 +182,8 @@
             "owner": "ocaml-batteries-team",
             "repo": "batteries-included",
             "stars": 525
-          }
+          },
+          "first_seen": "2026-08-28T23:42:57.162Z"
         },
         {
           "node_type": "item",
@@ -187,7 +198,8 @@
             "owner": "c-cube",
             "repo": "ocaml-containers",
             "stars": 524
-          }
+          },
+          "first_seen": "2026-08-28T23:42:57.162Z"
         },
         {
           "node_type": "item",
@@ -202,7 +214,8 @@
             "owner": "dbuenzli",
             "repo": "cmdliner",
             "stars": 345
-          }
+          },
+          "first_seen": "2026-08-28T23:42:57.162Z"
         },
         {
           "node_type": "item",
@@ -217,7 +230,8 @@
             "owner": "mirage",
             "repo": "ocaml-rpc",
             "stars": 106
-          }
+          },
+          "first_seen": "2026-08-28T23:42:57.162Z"
         },
         {
           "node_type": "item",
@@ -232,7 +246,8 @@
             "owner": "ocaml-community",
             "repo": "easy-format",
             "stars": 44
-          }
+          },
+          "first_seen": "2026-08-28T23:42:57.162Z"
         },
         {
           "node_type": "item",
@@ -247,7 +262,8 @@
             "owner": "UnixJunkie",
             "repo": "minicli",
             "stars": 32
-          }
+          },
+          "first_seen": "2026-08-28T23:42:57.162Z"
         }
       ],
       "title": "Application Libraries"
@@ -268,7 +284,8 @@
             "owner": "janestreet",
             "repo": "core_bench",
             "stars": 57
-          }
+          },
+          "first_seen": "2026-08-28T23:42:57.162Z"
         },
         {
           "node_type": "item",
@@ -283,7 +300,8 @@
             "owner": "Chris00",
             "repo": "ocaml-benchmark",
             "stars": 34
-          }
+          },
+          "first_seen": "2026-08-28T23:42:57.162Z"
         }
       ],
       "title": "Benchmarking"
@@ -300,11 +318,12 @@
             "archived": false,
             "id": 25880891,
             "language": "Rust",
-            "last_commit": "2026-08-27T21:21:29Z",
+            "last_commit": "2026-08-28T23:25:50Z",
             "owner": "facebook",
             "repo": "flow",
             "stars": 22280
-          }
+          },
+          "first_seen": "2026-08-28T23:42:57.162Z"
         },
         {
           "node_type": "item",
@@ -318,8 +337,9 @@
             "last_commit": "2026-08-27T11:11:18Z",
             "owner": "facebook",
             "repo": "infer",
-            "stars": 15691
-          }
+            "stars": 15693
+          },
+          "first_seen": "2026-08-28T23:42:57.162Z"
         },
         {
           "node_type": "item",
@@ -334,7 +354,8 @@
             "owner": "microsoft",
             "repo": "SLAyer",
             "stars": 325
-          }
+          },
+          "first_seen": "2026-08-28T23:42:57.162Z"
         },
         {
           "node_type": "item",
@@ -349,7 +370,8 @@
             "owner": "formal-land",
             "repo": "rocq-of-ocaml",
             "stars": 274
-          }
+          },
+          "first_seen": "2026-08-28T23:42:57.162Z"
         },
         {
           "node_type": "item",
@@ -364,7 +386,8 @@
             "owner": "semgrep",
             "repo": "pfff",
             "stars": 183
-          }
+          },
+          "first_seen": "2026-08-28T23:42:57.162Z"
         },
         {
           "node_type": "item",
@@ -379,7 +402,8 @@
             "owner": "upenn-cis1xx",
             "repo": "camelot",
             "stars": 46
-          }
+          },
+          "first_seen": "2026-08-28T23:42:57.162Z"
         },
         {
           "node_type": "item",
@@ -394,7 +418,8 @@
             "owner": "Antique-team",
             "repo": "memcad",
             "stars": 27
-          }
+          },
+          "first_seen": "2026-08-28T23:42:57.162Z"
         }
       ],
       "title": "Code Analysis and Linters"
@@ -415,7 +440,8 @@
             "owner": "BinaryAnalysisPlatform",
             "repo": "bap",
             "stars": 2254
-          }
+          },
+          "first_seen": "2026-08-28T23:42:57.162Z"
         },
         {
           "node_type": "item",
@@ -430,7 +456,8 @@
             "owner": "airbus-seclab",
             "repo": "bincat",
             "stars": 1872
-          }
+          },
+          "first_seen": "2026-08-28T23:42:57.162Z"
         },
         {
           "node_type": "item",
@@ -445,7 +472,8 @@
             "owner": "fkie-cad",
             "repo": "cwe_checker",
             "stars": 1353
-          }
+          },
+          "first_seen": "2026-08-28T23:42:57.162Z"
         },
         {
           "node_type": "item",
@@ -459,8 +487,9 @@
             "last_commit": "2026-08-27T00:29:55Z",
             "owner": "OCamlPro",
             "repo": "owi",
-            "stars": 322
-          }
+            "stars": 323
+          },
+          "first_seen": "2026-08-28T23:42:57.162Z"
         },
         {
           "node_type": "item",
@@ -475,7 +504,8 @@
             "owner": "formalsec",
             "repo": "smtml",
             "stars": 80
-          }
+          },
+          "first_seen": "2026-08-28T23:42:57.162Z"
         }
       ],
       "title": "Program analysis"
@@ -501,7 +531,8 @@
                 "owner": "artagnon",
                 "repo": "rhine-ml",
                 "stars": 634
-              }
+              },
+              "first_seen": "2026-08-28T23:42:57.162Z"
             },
             {
               "node_type": "item",
@@ -516,7 +547,8 @@
                 "owner": "hirrolot",
                 "repo": "mazeppa",
                 "stars": 478
-              }
+              },
+              "first_seen": "2026-08-28T23:42:57.162Z"
             },
             {
               "node_type": "item",
@@ -531,7 +563,8 @@
                 "owner": "nrnrnr",
                 "repo": "qc--",
                 "stars": 168
-              }
+              },
+              "first_seen": "2026-08-28T23:42:57.162Z"
             },
             {
               "node_type": "item",
@@ -546,7 +579,8 @@
                 "owner": "benfaerber",
                 "repo": "liquid-ml",
                 "stars": 51
-              }
+              },
+              "first_seen": "2026-08-28T23:42:57.162Z"
             }
           ]
         },
@@ -567,8 +601,9 @@
                 "last_commit": "2024-09-12T21:27:32Z",
                 "owner": "inhabitedtype",
                 "repo": "angstrom",
-                "stars": 704
-              }
+                "stars": 705
+              },
+              "first_seen": "2026-08-28T23:42:57.162Z"
             },
             {
               "node_type": "item",
@@ -583,7 +618,8 @@
                 "owner": "ocaml-community",
                 "repo": "sedlex",
                 "stars": 267
-              }
+              },
+              "first_seen": "2026-08-28T23:42:57.162Z"
             },
             {
               "node_type": "item",
@@ -598,7 +634,8 @@
                 "owner": "pyrocat101",
                 "repo": "opal",
                 "stars": 155
-              }
+              },
+              "first_seen": "2026-08-28T23:42:57.162Z"
             },
             {
               "node_type": "group",
@@ -618,7 +655,8 @@
                     "owner": "smolkaj",
                     "repo": "nice-parser",
                     "stars": 128
-                  }
+                  },
+                  "first_seen": "2026-08-28T23:42:57.162Z"
                 },
                 {
                   "node_type": "item",
@@ -633,7 +671,8 @@
                     "owner": "Lelio-Brun",
                     "repo": "Obelisk",
                     "stars": 63
-                  }
+                  },
+                  "first_seen": "2026-08-28T23:42:57.162Z"
                 }
               ]
             }
@@ -663,7 +702,8 @@
                 "owner": "mmottl",
                 "repo": "sqlite3-ocaml",
                 "stars": 132
-              }
+              },
+              "first_seen": "2026-08-28T23:42:57.162Z"
             },
             {
               "node_type": "item",
@@ -678,7 +718,8 @@
                 "owner": "arenadotio",
                 "repo": "pgx",
                 "stars": 129
-              }
+              },
+              "first_seen": "2026-08-28T23:42:57.162Z"
             },
             {
               "node_type": "item",
@@ -693,7 +734,8 @@
                 "owner": "0xffea",
                 "repo": "ocaml-redis",
                 "stars": 85
-              }
+              },
+              "first_seen": "2026-08-28T23:42:57.162Z"
             },
             {
               "node_type": "item",
@@ -708,7 +750,8 @@
                 "owner": "ocaml-community",
                 "repo": "ocaml-mariadb",
                 "stars": 58
-              }
+              },
+              "first_seen": "2026-08-28T23:42:57.162Z"
             },
             {
               "node_type": "item",
@@ -723,7 +766,8 @@
                 "owner": "slegrand45",
                 "repo": "mysql_protocol",
                 "stars": 14
-              }
+              },
+              "first_seen": "2026-08-28T23:42:57.162Z"
             },
             {
               "node_type": "group",
@@ -743,7 +787,8 @@
                     "owner": "tizoc",
                     "repo": "ppx_pgsql",
                     "stars": 55
-                  }
+                  },
+                  "first_seen": "2026-08-28T23:42:57.162Z"
                 }
               ]
             }
@@ -767,7 +812,8 @@
                 "owner": "mirage",
                 "repo": "irmin",
                 "stars": 1957
-              }
+              },
+              "first_seen": "2026-08-28T23:42:57.162Z"
             },
             {
               "node_type": "item",
@@ -782,7 +828,8 @@
                 "owner": "RunOrg",
                 "repo": "RunOrg",
                 "stars": 12
-              }
+              },
+              "first_seen": "2026-08-28T23:42:57.162Z"
             },
             {
               "node_type": "item",
@@ -797,7 +844,8 @@
                 "owner": "UnixJunkie",
                 "repo": "dokeysto",
                 "stars": 10
-              }
+              },
+              "first_seen": "2026-08-28T23:42:57.162Z"
             }
           ]
         },
@@ -819,7 +867,8 @@
                 "owner": "paurkedal",
                 "repo": "ocaml-caqti",
                 "stars": 355
-              }
+              },
+              "first_seen": "2026-08-28T23:42:57.162Z"
             },
             {
               "node_type": "item",
@@ -834,7 +883,8 @@
                 "owner": "roddyyaga",
                 "repo": "ppx_rapper",
                 "stars": 154
-              }
+              },
+              "first_seen": "2026-08-28T23:42:57.162Z"
             },
             {
               "node_type": "item",
@@ -849,7 +899,8 @@
                 "owner": "andrenth",
                 "repo": "sequoia",
                 "stars": 131
-              }
+              },
+              "first_seen": "2026-08-28T23:42:57.162Z"
             },
             {
               "node_type": "item",
@@ -864,7 +915,8 @@
                 "owner": "mirage",
                 "repo": "orm",
                 "stars": 64
-              }
+              },
+              "first_seen": "2026-08-28T23:42:57.162Z"
             },
             {
               "node_type": "item",
@@ -879,7 +931,8 @@
                 "owner": "ocsigen",
                 "repo": "macaque",
                 "stars": 40
-              }
+              },
+              "first_seen": "2026-08-28T23:42:57.162Z"
             }
           ]
         }
@@ -902,7 +955,8 @@
             "owner": "ocaml-community",
             "repo": "ISO8601.ml",
             "stars": 30
-          }
+          },
+          "first_seen": "2026-08-28T23:42:57.162Z"
         },
         {
           "node_type": "item",
@@ -917,7 +971,8 @@
             "owner": "hhugo",
             "repo": "odate",
             "stars": 23
-          }
+          },
+          "first_seen": "2026-08-28T23:42:57.162Z"
         }
       ],
       "title": "Datetime"
@@ -938,7 +993,8 @@
             "owner": "ocaml-community",
             "repo": "utop",
             "stars": 926
-          }
+          },
+          "first_seen": "2026-08-28T23:42:57.162Z"
         },
         {
           "node_type": "item",
@@ -953,7 +1009,8 @@
             "owner": "ocaml-ppx",
             "repo": "ocamlformat",
             "stars": 730
-          }
+          },
+          "first_seen": "2026-08-28T23:42:57.162Z"
         },
         {
           "node_type": "item",
@@ -968,7 +1025,8 @@
             "owner": "ocaml-sf",
             "repo": "learn-ocaml",
             "stars": 333
-          }
+          },
+          "first_seen": "2026-08-28T23:42:57.162Z"
         },
         {
           "node_type": "item",
@@ -983,7 +1041,8 @@
             "owner": "akabe",
             "repo": "ocaml-jupyter",
             "stars": 318
-          }
+          },
+          "first_seen": "2026-08-28T23:42:57.162Z"
         },
         {
           "node_type": "item",
@@ -998,7 +1057,8 @@
             "owner": "ythecombinator",
             "repo": "generator-ocaml",
             "stars": 22
-          }
+          },
+          "first_seen": "2026-08-28T23:42:57.162Z"
         },
         {
           "node_type": "item",
@@ -1013,7 +1073,8 @@
             "owner": "samoht",
             "repo": "ghim",
             "stars": 20
-          }
+          },
+          "first_seen": "2026-08-28T23:42:57.162Z"
         },
         {
           "node_type": "item",
@@ -1028,7 +1089,8 @@
             "owner": "pfitaxel",
             "repo": "learn-ocaml.el",
             "stars": 8
-          }
+          },
+          "first_seen": "2026-08-28T23:42:57.162Z"
         },
         {
           "node_type": "item",
@@ -1043,7 +1105,8 @@
             "owner": "khalidbelk",
             "repo": "puml2xml",
             "stars": 6
-          }
+          },
+          "first_seen": "2026-08-28T23:42:57.162Z"
         },
         {
           "node_type": "group",
@@ -1063,7 +1126,8 @@
                 "owner": "yallop",
                 "repo": "ocaml-ctypes",
                 "stars": 410
-              }
+              },
+              "first_seen": "2026-08-28T23:42:57.162Z"
             },
             {
               "node_type": "item",
@@ -1078,7 +1142,8 @@
                 "owner": "johnwhitington",
                 "repo": "ocaml-main-program-in-c",
                 "stars": 18
-              }
+              },
+              "first_seen": "2026-08-28T23:42:57.162Z"
             },
             {
               "node_type": "item",
@@ -1093,7 +1158,8 @@
                 "owner": "thierry-martinez",
                 "repo": "pyml",
                 "stars": 0
-              }
+              },
+              "first_seen": "2026-08-28T23:42:57.162Z"
             }
           ]
         },
@@ -1115,7 +1181,8 @@
                 "owner": "ocaml",
                 "repo": "merlin",
                 "stars": 1703
-              }
+              },
+              "first_seen": "2026-08-28T23:42:57.162Z"
             },
             {
               "node_type": "item",
@@ -1126,11 +1193,12 @@
                 "archived": false,
                 "id": 227073289,
                 "language": "OCaml",
-                "last_commit": "2026-08-25T20:33:30Z",
+                "last_commit": "2026-08-28T16:33:34Z",
                 "owner": "ocaml",
                 "repo": "ocaml-lsp",
                 "stars": 909
-              }
+              },
+              "first_seen": "2026-08-28T23:42:57.162Z"
             },
             {
               "node_type": "item",
@@ -1145,7 +1213,8 @@
                 "owner": "ocaml",
                 "repo": "tuareg",
                 "stars": 396
-              }
+              },
+              "first_seen": "2026-08-28T23:42:57.162Z"
             },
             {
               "node_type": "item",
@@ -1160,7 +1229,8 @@
                 "owner": "hackwaly",
                 "repo": "ocamlearlybird",
                 "stars": 234
-              }
+              },
+              "first_seen": "2026-08-28T23:42:57.162Z"
             },
             {
               "node_type": "item",
@@ -1175,7 +1245,8 @@
                 "owner": "hackwaly",
                 "repo": "vscode-ocaml",
                 "stars": 173
-              }
+              },
+              "first_seen": "2026-08-28T23:42:57.162Z"
             },
             {
               "node_type": "item",
@@ -1190,7 +1261,8 @@
                 "owner": "Khady",
                 "repo": "merlin-eldoc",
                 "stars": 46
-              }
+              },
+              "first_seen": "2026-08-28T23:42:57.162Z"
             },
             {
               "node_type": "item",
@@ -1210,7 +1282,8 @@
                     "owner": "let-def",
                     "repo": "sublime-text-merlin",
                     "stars": 12
-                  }
+                  },
+                  "first_seen": "2026-08-28T23:42:57.162Z"
                 }
               ],
               "repo_info": {
@@ -1221,7 +1294,8 @@
                 "owner": "whitequark",
                 "repo": "sublime-better-ocaml",
                 "stars": 23
-              }
+              },
+              "first_seen": "2026-08-28T23:42:57.162Z"
             },
             {
               "node_type": "item",
@@ -1236,7 +1310,8 @@
                 "owner": "ProofGeneral",
                 "repo": "opam-switch-mode",
                 "stars": 9
-              }
+              },
+              "first_seen": "2026-08-28T23:42:57.162Z"
             },
             {
               "node_type": "group",
@@ -1256,7 +1331,8 @@
                     "owner": "reynir",
                     "repo": "ocp-index-top",
                     "stars": 20
-                  }
+                  },
+                  "first_seen": "2026-08-28T23:42:57.162Z"
                 }
               ]
             },
@@ -1278,7 +1354,8 @@
                     "owner": "let-def",
                     "repo": "ocp-indent-vim",
                     "stars": 29
-                  }
+                  },
+                  "first_seen": "2026-08-28T23:42:57.162Z"
                 }
               ]
             }
@@ -1302,7 +1379,8 @@
                 "owner": "aantron",
                 "repo": "bisect_ppx",
                 "stars": 316
-              }
+              },
+              "first_seen": "2026-08-28T23:42:57.162Z"
             }
           ]
         }
@@ -1325,7 +1403,8 @@
             "owner": "exercism",
             "repo": "ocaml",
             "stars": 104
-          }
+          },
+          "first_seen": "2026-08-28T23:42:57.162Z"
         },
         {
           "node_type": "item",
@@ -1340,7 +1419,8 @@
             "owner": "MassD",
             "repo": "99",
             "stars": 59
-          }
+          },
+          "first_seen": "2026-08-28T23:42:57.162Z"
         }
       ],
       "title": "Exercises and Short Examples"
@@ -1361,7 +1441,8 @@
             "owner": "johnwhitington",
             "repo": "camlpdf",
             "stars": 230
-          }
+          },
+          "first_seen": "2026-08-28T23:42:57.162Z"
         },
         {
           "node_type": "item",
@@ -1376,7 +1457,8 @@
             "owner": "Leonidas-from-XIV",
             "repo": "slacko",
             "stars": 87
-          }
+          },
+          "first_seen": "2026-08-28T23:42:57.162Z"
         }
       ],
       "title": "General"
@@ -1402,7 +1484,8 @@
                 "owner": "dbuenzli",
                 "repo": "vg",
                 "stars": 101
-              }
+              },
+              "first_seen": "2026-08-28T23:42:57.162Z"
             },
             {
               "node_type": "item",
@@ -1417,7 +1500,8 @@
                 "owner": "Chris00",
                 "repo": "ocaml-cairo",
                 "stars": 58
-              }
+              },
+              "first_seen": "2026-08-28T23:42:57.162Z"
             }
           ]
         },
@@ -1439,7 +1523,8 @@
                 "owner": "fccm",
                 "repo": "glMLite",
                 "stars": 21
-              }
+              },
+              "first_seen": "2026-08-28T23:42:57.162Z"
             }
           ]
         }
@@ -1462,7 +1547,8 @@
             "owner": "yoriyuki",
             "repo": "Camomile",
             "stars": 122
-          }
+          },
+          "first_seen": "2026-08-28T23:42:57.162Z"
         },
         {
           "node_type": "item",
@@ -1477,7 +1563,8 @@
             "owner": "whitequark",
             "repo": "ocaml-m17n",
             "stars": 51
-          }
+          },
+          "first_seen": "2026-08-28T23:42:57.162Z"
         },
         {
           "node_type": "item",
@@ -1492,7 +1579,8 @@
             "owner": "dbuenzli",
             "repo": "uutf",
             "stars": 36
-          }
+          },
+          "first_seen": "2026-08-28T23:42:57.162Z"
         },
         {
           "node_type": "item",
@@ -1507,7 +1595,8 @@
             "owner": "dbuenzli",
             "repo": "uunf",
             "stars": 25
-          }
+          },
+          "first_seen": "2026-08-28T23:42:57.162Z"
         },
         {
           "node_type": "item",
@@ -1522,7 +1611,8 @@
             "owner": "dbuenzli",
             "repo": "uuseg",
             "stars": 25
-          }
+          },
+          "first_seen": "2026-08-28T23:42:57.162Z"
         },
         {
           "node_type": "item",
@@ -1537,7 +1627,8 @@
             "owner": "dbuenzli",
             "repo": "uucp",
             "stars": 24
-          }
+          },
+          "first_seen": "2026-08-28T23:42:57.162Z"
         },
         {
           "node_type": "item",
@@ -1552,7 +1643,8 @@
             "owner": "dbuenzli",
             "repo": "uucd",
             "stars": 17
-          }
+          },
+          "first_seen": "2026-08-28T23:42:57.162Z"
         }
       ],
       "title": "Internationalization"
@@ -1573,7 +1665,8 @@
             "owner": "ocaml-community",
             "repo": "lambda-term",
             "stars": 231
-          }
+          },
+          "first_seen": "2026-08-28T23:42:57.162Z"
         },
         {
           "node_type": "item",
@@ -1588,7 +1681,8 @@
             "owner": "Kakadu",
             "repo": "lablqml",
             "stars": 166
-          }
+          },
+          "first_seen": "2026-08-28T23:42:57.162Z"
         },
         {
           "node_type": "item",
@@ -1603,7 +1697,8 @@
             "owner": "ocaml-community",
             "repo": "ocaml-linenoise",
             "stars": 56
-          }
+          },
+          "first_seen": "2026-08-28T23:42:57.162Z"
         },
         {
           "node_type": "item",
@@ -1618,7 +1713,8 @@
             "owner": "ocaml-community",
             "repo": "notty-community",
             "stars": 9
-          }
+          },
+          "first_seen": "2026-08-28T23:42:57.162Z"
         }
       ],
       "title": "User Interface"
@@ -1639,7 +1735,8 @@
             "owner": "onivim",
             "repo": "oni2",
             "stars": 7843
-          }
+          },
+          "first_seen": "2026-08-28T23:42:57.162Z"
         },
         {
           "node_type": "item",
@@ -1650,11 +1747,12 @@
             "archived": false,
             "id": 1377159,
             "language": "OCaml",
-            "last_commit": "2026-08-27T13:35:40Z",
+            "last_commit": "2026-08-28T16:46:51Z",
             "owner": "rocq-prover",
             "repo": "rocq",
-            "stars": 5556
-          }
+            "stars": 5558
+          },
+          "first_seen": "2026-08-28T23:42:57.162Z"
         },
         {
           "node_type": "item",
@@ -1669,7 +1767,8 @@
             "owner": "mirage",
             "repo": "mirage",
             "stars": 2980
-          }
+          },
+          "first_seen": "2026-08-28T23:42:57.162Z"
         },
         {
           "node_type": "item",
@@ -1680,11 +1779,12 @@
             "archived": false,
             "id": 3055052,
             "language": "OCaml",
-            "last_commit": "2026-08-26T19:04:46Z",
+            "last_commit": "2026-08-28T14:53:50Z",
             "owner": "savonet",
             "repo": "liquidsoap",
-            "stars": 1720
-          }
+            "stars": 1721
+          },
+          "first_seen": "2026-08-28T23:42:57.162Z"
         },
         {
           "node_type": "item",
@@ -1699,7 +1799,8 @@
             "owner": "janestreet",
             "repo": "base",
             "stars": 1083
-          }
+          },
+          "first_seen": "2026-08-28T23:42:57.162Z"
         },
         {
           "node_type": "item",
@@ -1714,7 +1815,8 @@
             "owner": "libguestfs",
             "repo": "libguestfs",
             "stars": 745
-          }
+          },
+          "first_seen": "2026-08-28T23:42:57.162Z"
         },
         {
           "node_type": "item",
@@ -1729,7 +1831,8 @@
             "owner": "cil-project",
             "repo": "cil",
             "stars": 403
-          }
+          },
+          "first_seen": "2026-08-28T23:42:57.162Z"
         },
         {
           "node_type": "item",
@@ -1740,11 +1843,12 @@
             "archived": false,
             "id": 960233,
             "language": "OCaml",
-            "last_commit": "2026-08-26T10:31:37Z",
+            "last_commit": "2026-08-28T10:40:12Z",
             "owner": "xapi-project",
             "repo": "xen-api",
             "stars": 368
-          }
+          },
+          "first_seen": "2026-08-28T23:42:57.162Z"
         },
         {
           "node_type": "item",
@@ -1759,7 +1863,8 @@
             "owner": "ygrek",
             "repo": "mldonkey",
             "stars": 345
-          }
+          },
+          "first_seen": "2026-08-28T23:42:57.162Z"
         },
         {
           "node_type": "item",
@@ -1774,7 +1879,8 @@
             "owner": "semgrep",
             "repo": "pfff",
             "stars": 183
-          }
+          },
+          "first_seen": "2026-08-28T23:42:57.162Z"
         }
       ],
       "title": "Large Source Code Examples"
@@ -1795,7 +1901,8 @@
             "owner": "UnixJunkie",
             "repo": "dolog",
             "stars": 38
-          }
+          },
+          "first_seen": "2026-08-28T23:42:57.162Z"
         },
         {
           "node_type": "item",
@@ -1810,7 +1917,8 @@
             "owner": "codinuum",
             "repo": "volt",
             "stars": 8
-          }
+          },
+          "first_seen": "2026-08-28T23:42:57.162Z"
         }
       ],
       "title": "Logging"
@@ -1831,7 +1939,8 @@
             "owner": "capnproto",
             "repo": "capnp-ocaml",
             "stars": 106
-          }
+          },
+          "first_seen": "2026-08-28T23:42:57.162Z"
         },
         {
           "node_type": "item",
@@ -1846,7 +1955,8 @@
             "owner": "IssuuArchive",
             "repo": "ocaml-zmq",
             "stars": 85
-          }
+          },
+          "first_seen": "2026-08-28T23:42:57.162Z"
         },
         {
           "node_type": "item",
@@ -1861,7 +1971,8 @@
             "owner": "didier-wenzek",
             "repo": "ocaml-kafka",
             "stars": 72
-          }
+          },
+          "first_seen": "2026-08-28T23:42:57.162Z"
         },
         {
           "node_type": "item",
@@ -1876,7 +1987,8 @@
             "owner": "andersfugmann",
             "repo": "amqp-client",
             "stars": 67
-          }
+          },
+          "first_seen": "2026-08-28T23:42:57.162Z"
         },
         {
           "node_type": "item",
@@ -1891,7 +2003,8 @@
             "owner": "rgrinberg",
             "repo": "onanomsg",
             "stars": 38
-          }
+          },
+          "first_seen": "2026-08-28T23:42:57.162Z"
         },
         {
           "node_type": "item",
@@ -1906,7 +2019,8 @@
             "owner": "xavierleroy",
             "repo": "ocamlmpi",
             "stars": 29
-          }
+          },
+          "first_seen": "2026-08-28T23:42:57.162Z"
         },
         {
           "node_type": "item",
@@ -1921,7 +2035,8 @@
             "owner": "j0sh",
             "repo": "ocaml-mqtt",
             "stars": 20
-          }
+          },
+          "first_seen": "2026-08-28T23:42:57.162Z"
         }
       ],
       "title": "Messaging"
@@ -1947,7 +2062,8 @@
                 "owner": "ocaml-ppx",
                 "repo": "ppx_deriving_yojson",
                 "stars": 169
-              }
+              },
+              "first_seen": "2026-08-28T23:42:57.162Z"
             },
             {
               "node_type": "item",
@@ -1962,7 +2078,8 @@
                 "owner": "ocaml-ppx",
                 "repo": "ppx_import",
                 "stars": 92
-              }
+              },
+              "first_seen": "2026-08-28T23:42:57.162Z"
             },
             {
               "node_type": "item",
@@ -1977,7 +2094,8 @@
                 "owner": "sheijk",
                 "repo": "ppx_string_interpolate",
                 "stars": 21
-              }
+              },
+              "first_seen": "2026-08-28T23:42:57.162Z"
             },
             {
               "node_type": "item",
@@ -1992,7 +2110,8 @@
                 "owner": "rizo",
                 "repo": "ppx_monad",
                 "stars": 7
-              }
+              },
+              "first_seen": "2026-08-28T23:42:57.162Z"
             }
           ]
         }
@@ -2015,7 +2134,8 @@
             "owner": "mirage",
             "repo": "prometheus",
             "stars": 53
-          }
+          },
+          "first_seen": "2026-08-28T23:42:57.162Z"
         }
       ],
       "title": "Metrics"
@@ -2041,7 +2161,8 @@
                 "owner": "dannywillems",
                 "repo": "ocaml-cordova-plugin-list",
                 "stars": 27
-              }
+              },
+              "first_seen": "2026-08-28T23:42:57.162Z"
             }
           ]
         }
@@ -2064,7 +2185,8 @@
             "owner": "mirage",
             "repo": "ocaml-dns",
             "stars": 120
-          }
+          },
+          "first_seen": "2026-08-28T23:42:57.162Z"
         },
         {
           "node_type": "item",
@@ -2079,7 +2201,8 @@
             "owner": "haesbaert",
             "repo": "charrua-unix",
             "stars": 11
-          }
+          },
+          "first_seen": "2026-08-28T23:42:57.162Z"
         },
         {
           "node_type": "item",
@@ -2094,7 +2217,8 @@
             "owner": "fluent",
             "repo": "fluent-logger-ocaml",
             "stars": 8
-          }
+          },
+          "first_seen": "2026-08-28T23:42:57.162Z"
         },
         {
           "node_type": "group",
@@ -2114,7 +2238,8 @@
                 "owner": "mirage",
                 "repo": "ocaml-cohttp",
                 "stars": 775
-              }
+              },
+              "first_seen": "2026-08-28T23:42:57.162Z"
             },
             {
               "node_type": "item",
@@ -2129,7 +2254,8 @@
                 "owner": "inhabitedtype",
                 "repo": "httpaf",
                 "stars": 536
-              }
+              },
+              "first_seen": "2026-08-28T23:42:57.162Z"
             },
             {
               "node_type": "item",
@@ -2144,7 +2270,8 @@
                 "owner": "anmonteiro",
                 "repo": "piaf",
                 "stars": 217
-              }
+              },
+              "first_seen": "2026-08-28T23:42:57.162Z"
             },
             {
               "node_type": "item",
@@ -2159,7 +2286,8 @@
                 "owner": "ygrek",
                 "repo": "ocurl",
                 "stars": 63
-              }
+              },
+              "first_seen": "2026-08-28T23:42:57.162Z"
             }
           ]
         }
@@ -2187,7 +2315,8 @@
                 "owner": "esy",
                 "repo": "esy",
                 "stars": 857
-              }
+              },
+              "first_seen": "2026-08-28T23:42:57.162Z"
             },
             {
               "node_type": "item",
@@ -2202,7 +2331,8 @@
                 "owner": "diskuv",
                 "repo": "dkml-installer-ocaml",
                 "stars": 64
-              }
+              },
+              "first_seen": "2026-08-28T23:42:57.162Z"
             },
             {
               "node_type": "item",
@@ -2217,7 +2347,8 @@
                 "owner": "sagotch",
                 "repo": "makorel",
                 "stars": 8
-              }
+              },
+              "first_seen": "2026-08-28T23:42:57.162Z"
             }
           ]
         },
@@ -2235,11 +2366,12 @@
                 "archived": false,
                 "id": 72368050,
                 "language": "OCaml",
-                "last_commit": "2026-08-27T21:06:15Z",
+                "last_commit": "2026-08-28T22:10:42Z",
                 "owner": "ocaml",
                 "repo": "dune",
                 "stars": 1911
-              }
+              },
+              "first_seen": "2026-08-28T23:42:57.162Z"
             },
             {
               "node_type": "item",
@@ -2254,7 +2386,8 @@
                 "owner": "mmottl",
                 "repo": "ocaml-makefile",
                 "stars": 80
-              }
+              },
+              "first_seen": "2026-08-28T23:42:57.162Z"
             },
             {
               "node_type": "item",
@@ -2269,7 +2402,8 @@
                 "owner": "dbuenzli",
                 "repo": "topkg",
                 "stars": 70
-              }
+              },
+              "first_seen": "2026-08-28T23:42:57.162Z"
             },
             {
               "node_type": "item",
@@ -2284,7 +2418,8 @@
                 "owner": "ocaml-obuild",
                 "repo": "obuild",
                 "stars": 56
-              }
+              },
+              "first_seen": "2026-08-28T23:42:57.162Z"
             },
             {
               "node_type": "item",
@@ -2299,7 +2434,8 @@
                 "owner": "jin",
                 "repo": "rules_ocaml",
                 "stars": 39
-              }
+              },
+              "first_seen": "2026-08-28T23:42:57.162Z"
             },
             {
               "node_type": "group",
@@ -2319,7 +2455,8 @@
                     "owner": "ocaml",
                     "repo": "oasis2opam",
                     "stars": 27
-                  }
+                  },
+                  "first_seen": "2026-08-28T23:42:57.162Z"
                 }
               ]
             }
@@ -2349,7 +2486,8 @@
                 "owner": "mathiasbourgoin",
                 "repo": "Sarek",
                 "stars": 147
-              }
+              },
+              "first_seen": "2026-08-28T23:42:57.162Z"
             },
             {
               "node_type": "item",
@@ -2364,7 +2502,8 @@
                 "owner": "UnixJunkie",
                 "repo": "parany",
                 "stars": 54
-              }
+              },
+              "first_seen": "2026-08-28T23:42:57.162Z"
             },
             {
               "node_type": "item",
@@ -2379,7 +2518,8 @@
                 "owner": "janestreet",
                 "repo": "rpc_parallel",
                 "stars": 50
-              }
+              },
+              "first_seen": "2026-08-28T23:42:57.162Z"
             },
             {
               "node_type": "item",
@@ -2394,7 +2534,8 @@
                 "owner": "MyLifeLabs",
                 "repo": "nproc",
                 "stars": 30
-              }
+              },
+              "first_seen": "2026-08-28T23:42:57.162Z"
             },
             {
               "node_type": "item",
@@ -2409,7 +2550,8 @@
                 "owner": "mlin",
                 "repo": "forkwork",
                 "stars": 17
-              }
+              },
+              "first_seen": "2026-08-28T23:42:57.162Z"
             }
           ]
         },
@@ -2431,7 +2573,8 @@
                 "owner": "ocaml-multicore",
                 "repo": "parallel-programming-in-multicore-ocaml",
                 "stars": 300
-              }
+              },
+              "first_seen": "2026-08-28T23:42:57.162Z"
             },
             {
               "node_type": "item",
@@ -2446,7 +2589,8 @@
                 "owner": "ocaml-multicore",
                 "repo": "awesome-multicore-ocaml",
                 "stars": 160
-              }
+              },
+              "first_seen": "2026-08-28T23:42:57.162Z"
             }
           ]
         }
@@ -2465,11 +2609,12 @@
             "archived": false,
             "id": 72368050,
             "language": "OCaml",
-            "last_commit": "2026-08-27T21:06:15Z",
+            "last_commit": "2026-08-28T22:10:42Z",
             "owner": "ocaml",
             "repo": "dune",
             "stars": 1911
-          }
+          },
+          "first_seen": "2026-08-28T23:42:57.162Z"
         },
         {
           "node_type": "item",
@@ -2484,7 +2629,8 @@
             "owner": "ocaml-ppx",
             "repo": "ppx_deriving",
             "stars": 522
-          }
+          },
+          "first_seen": "2026-08-28T23:42:57.162Z"
         },
         {
           "node_type": "item",
@@ -2499,7 +2645,8 @@
             "owner": "reasonml",
             "repo": "reason-native",
             "stars": 457
-          }
+          },
+          "first_seen": "2026-08-28T23:42:57.162Z"
         },
         {
           "node_type": "item",
@@ -2514,7 +2661,8 @@
             "owner": "ocamllibs",
             "repo": "refl",
             "stars": 52
-          }
+          },
+          "first_seen": "2026-08-28T23:42:57.162Z"
         },
         {
           "node_type": "item",
@@ -2529,7 +2677,8 @@
             "owner": "LexiFi",
             "repo": "lrt",
             "stars": 37
-          }
+          },
+          "first_seen": "2026-08-28T23:42:57.162Z"
         },
         {
           "node_type": "item",
@@ -2544,7 +2693,8 @@
             "owner": "krohrer",
             "repo": "caml-inspect",
             "stars": 33
-          }
+          },
+          "first_seen": "2026-08-28T23:42:57.162Z"
         },
         {
           "node_type": "item",
@@ -2559,7 +2709,8 @@
             "owner": "progman1",
             "repo": "genprintlib",
             "stars": 31
-          }
+          },
+          "first_seen": "2026-08-28T23:42:57.162Z"
         },
         {
           "node_type": "item",
@@ -2574,7 +2725,8 @@
             "owner": "mjambon",
             "repo": "dum",
             "stars": 30
-          }
+          },
+          "first_seen": "2026-08-28T23:42:57.162Z"
         },
         {
           "node_type": "item",
@@ -2589,7 +2741,8 @@
             "owner": "janestreet",
             "repo": "typerep",
             "stars": 27
-          }
+          },
+          "first_seen": "2026-08-28T23:42:57.162Z"
         },
         {
           "node_type": "item",
@@ -2604,7 +2757,8 @@
             "owner": "let-def",
             "repo": "cmon",
             "stars": 26
-          }
+          },
+          "first_seen": "2026-08-28T23:42:57.162Z"
         },
         {
           "node_type": "item",
@@ -2619,7 +2773,8 @@
             "owner": "pqwy",
             "repo": "tpf",
             "stars": 24
-          }
+          },
+          "first_seen": "2026-08-28T23:42:57.162Z"
         },
         {
           "node_type": "item",
@@ -2634,7 +2789,8 @@
             "owner": "tsubame-sp",
             "repo": "ocaml_at_p",
             "stars": 10
-          }
+          },
+          "first_seen": "2026-08-28T23:42:57.162Z"
         }
       ],
       "title": "Printers helpers"
@@ -2655,7 +2811,8 @@
             "owner": "tmattio",
             "repo": "spin",
             "stars": 299
-          }
+          },
+          "first_seen": "2026-08-28T23:42:57.162Z"
         },
         {
           "node_type": "item",
@@ -2670,7 +2827,8 @@
             "owner": "OCamlPro",
             "repo": "drom",
             "stars": 199
-          }
+          },
+          "first_seen": "2026-08-28T23:42:57.162Z"
         },
         {
           "node_type": "item",
@@ -2685,7 +2843,8 @@
             "owner": "Khady",
             "repo": "modern-ocaml",
             "stars": 97
-          }
+          },
+          "first_seen": "2026-08-28T23:42:57.162Z"
         }
       ],
       "title": "Project Starter Templates"
@@ -2706,7 +2865,8 @@
             "owner": "owlbarn",
             "repo": "owl",
             "stars": 1351
-          }
+          },
+          "first_seen": "2026-08-28T23:42:57.162Z"
         },
         {
           "node_type": "item",
@@ -2721,7 +2881,8 @@
             "owner": "LaurentMazare",
             "repo": "tensorflow-ocaml",
             "stars": 287
-          }
+          },
+          "first_seen": "2026-08-28T23:42:57.162Z"
         },
         {
           "node_type": "item",
@@ -2736,7 +2897,8 @@
             "owner": "biocaml",
             "repo": "biocaml",
             "stars": 123
-          }
+          },
+          "first_seen": "2026-08-28T23:42:57.162Z"
         },
         {
           "node_type": "item",
@@ -2751,7 +2913,8 @@
             "owner": "rleonid",
             "repo": "oml",
             "stars": 120
-          }
+          },
+          "first_seen": "2026-08-28T23:42:57.162Z"
         },
         {
           "node_type": "item",
@@ -2766,7 +2929,8 @@
             "owner": "akabe",
             "repo": "slap",
             "stars": 89
-          }
+          },
+          "first_seen": "2026-08-28T23:42:57.162Z"
         },
         {
           "node_type": "item",
@@ -2781,7 +2945,8 @@
             "owner": "pveber",
             "repo": "bistro",
             "stars": 49
-          }
+          },
+          "first_seen": "2026-08-28T23:42:57.162Z"
         },
         {
           "node_type": "item",
@@ -2796,7 +2961,8 @@
             "owner": "rleonid",
             "repo": "ocephes",
             "stars": 12
-          }
+          },
+          "first_seen": "2026-08-28T23:42:57.162Z"
         },
         {
           "node_type": "item",
@@ -2811,7 +2977,8 @@
             "owner": "cheshire",
             "repo": "onumerical",
             "stars": 8
-          }
+          },
+          "first_seen": "2026-08-28T23:42:57.162Z"
         },
         {
           "children": [
@@ -2828,7 +2995,8 @@
                 "owner": "ocaml",
                 "repo": "ocaml-re",
                 "stars": 260
-              }
+              },
+              "first_seen": "2026-08-28T23:42:57.162Z"
             },
             {
               "node_type": "item",
@@ -2843,7 +3011,8 @@
                 "owner": "Drup",
                 "repo": "tyre",
                 "stars": 182
-              }
+              },
+              "first_seen": "2026-08-28T23:42:57.162Z"
             },
             {
               "node_type": "item",
@@ -2858,7 +3027,8 @@
                 "owner": "mmottl",
                 "repo": "pcre-ocaml",
                 "stars": 36
-              }
+              },
+              "first_seen": "2026-08-28T23:42:57.162Z"
             },
             {
               "node_type": "item",
@@ -2873,7 +3043,8 @@
                 "owner": "rgrinberg",
                 "repo": "humane-re",
                 "stars": 26
-              }
+              },
+              "first_seen": "2026-08-28T23:42:57.162Z"
             }
           ],
           "description": null,
@@ -2895,7 +3066,8 @@
                 "owner": "mirleft",
                 "repo": "ocaml-tls",
                 "stars": 321
-              }
+              },
+              "first_seen": "2026-08-28T23:42:57.162Z"
             },
             {
               "node_type": "item",
@@ -2910,7 +3082,8 @@
                 "owner": "mirleft",
                 "repo": "ocaml-nocrypto",
                 "stars": 112
-              }
+              },
+              "first_seen": "2026-08-28T23:42:57.162Z"
             },
             {
               "node_type": "item",
@@ -2925,7 +3098,8 @@
                 "owner": "xavierleroy",
                 "repo": "cryptokit",
                 "stars": 109
-              }
+              },
+              "first_seen": "2026-08-28T23:42:57.162Z"
             },
             {
               "node_type": "item",
@@ -2940,7 +3114,8 @@
                 "owner": "mirage",
                 "repo": "digestif",
                 "stars": 95
-              }
+              },
+              "first_seen": "2026-08-28T23:42:57.162Z"
             },
             {
               "node_type": "item",
@@ -2955,7 +3130,8 @@
                 "owner": "marcoonroad",
                 "repo": "nocoiner",
                 "stars": 11
-              }
+              },
+              "first_seen": "2026-08-28T23:42:57.162Z"
             }
           ],
           "description": "Note: The differences between and cryptographic libraries are described in the following blog post: OCaml-TLS: building the nocrypto library core.",
@@ -2977,7 +3153,8 @@
                 "owner": "ocaml-community",
                 "repo": "yojson",
                 "stars": 366
-              }
+              },
+              "first_seen": "2026-08-28T23:42:57.162Z"
             },
             {
               "node_type": "item",
@@ -2992,7 +3169,8 @@
                 "owner": "ahrefs",
                 "repo": "atd",
                 "stars": 352
-              }
+              },
+              "first_seen": "2026-08-28T23:42:57.162Z"
             },
             {
               "node_type": "item",
@@ -3006,8 +3184,9 @@
                 "last_commit": "2026-07-10T16:45:42Z",
                 "owner": "janestreet",
                 "repo": "sexplib",
-                "stars": 185
-              }
+                "stars": 190
+              },
+              "first_seen": "2026-08-28T23:42:57.162Z"
             },
             {
               "node_type": "item",
@@ -3022,7 +3201,8 @@
                 "owner": "ocaml-community",
                 "repo": "biniou",
                 "stars": 43
-              }
+              },
+              "first_seen": "2026-08-28T23:42:57.162Z"
             },
             {
               "node_type": "item",
@@ -3037,7 +3217,8 @@
                 "owner": "ygrek",
                 "repo": "ocaml-cbor",
                 "stars": 25
-              }
+              },
+              "first_seen": "2026-08-28T23:42:57.162Z"
             },
             {
               "node_type": "item",
@@ -3052,7 +3233,8 @@
                 "owner": "rgrinberg",
                 "repo": "bencode",
                 "stars": 24
-              }
+              },
+              "first_seen": "2026-08-28T23:42:57.162Z"
             }
           ],
           "description": null,
@@ -3074,7 +3256,8 @@
                 "owner": "mirage",
                 "repo": "mirage",
                 "stars": 2980
-              }
+              },
+              "first_seen": "2026-08-28T23:42:57.162Z"
             },
             {
               "node_type": "item",
@@ -3089,7 +3272,8 @@
                 "owner": "mirage",
                 "repo": "ocaml-git",
                 "stars": 369
-              }
+              },
+              "first_seen": "2026-08-28T23:42:57.162Z"
             },
             {
               "node_type": "item",
@@ -3104,7 +3288,8 @@
                 "owner": "mirage",
                 "repo": "ocaml-vchan",
                 "stars": 45
-              }
+              },
+              "first_seen": "2026-08-28T23:42:57.162Z"
             },
             {
               "node_type": "item",
@@ -3119,7 +3304,8 @@
                 "owner": "mirage",
                 "repo": "ocaml-fat",
                 "stars": 25
-              }
+              },
+              "first_seen": "2026-08-28T23:42:57.162Z"
             },
             {
               "node_type": "group",
@@ -3139,7 +3325,8 @@
                     "owner": "stevenvar",
                     "repo": "OMicroB",
                     "stars": 154
-                  }
+                  },
+                  "first_seen": "2026-08-28T23:42:57.162Z"
                 },
                 {
                   "node_type": "item",
@@ -3154,7 +3341,8 @@
                     "owner": "sadiqj",
                     "repo": "ocaml-esp32",
                     "stars": 19
-                  }
+                  },
+                  "first_seen": "2026-08-28T23:42:57.162Z"
                 }
               ]
             }
@@ -3178,7 +3366,8 @@
                 "owner": "mirage",
                 "repo": "alcotest",
                 "stars": 514
-              }
+              },
+              "first_seen": "2026-08-28T23:42:57.162Z"
             },
             {
               "node_type": "item",
@@ -3193,7 +3382,8 @@
                 "owner": "c-cube",
                 "repo": "qcheck",
                 "stars": 406
-              }
+              },
+              "first_seen": "2026-08-28T23:42:57.162Z"
             },
             {
               "node_type": "item",
@@ -3208,7 +3398,8 @@
                 "owner": "janestreet",
                 "repo": "ppx_expect",
                 "stars": 194
-              }
+              },
+              "first_seen": "2026-08-28T23:42:57.162Z"
             },
             {
               "node_type": "item",
@@ -3223,7 +3414,8 @@
                 "owner": "vincent-hugot",
                 "repo": "qtest",
                 "stars": 67
-              }
+              },
+              "first_seen": "2026-08-28T23:42:57.162Z"
             },
             {
               "node_type": "item",
@@ -3238,7 +3430,8 @@
                 "owner": "hcarty",
                 "repo": "ocaml-testsimple",
                 "stars": 13
-              }
+              },
+              "first_seen": "2026-08-28T23:42:57.162Z"
             }
           ],
           "description": null,
@@ -3260,7 +3453,8 @@
                 "owner": "marcoonroad",
                 "repo": "ocaml-cuid",
                 "stars": 18
-              }
+              },
+              "first_seen": "2026-08-28T23:42:57.162Z"
             },
             {
               "node_type": "item",
@@ -3275,7 +3469,8 @@
                 "owner": "Axot017",
                 "repo": "validate",
                 "stars": 18
-              }
+              },
+              "first_seen": "2026-08-28T23:42:57.162Z"
             },
             {
               "node_type": "item",
@@ -3290,7 +3485,8 @@
                 "owner": "sqids",
                 "repo": "sqids-ocaml",
                 "stars": 13
-              }
+              },
+              "first_seen": "2026-08-28T23:42:57.162Z"
             }
           ],
           "description": null,
@@ -3317,7 +3513,8 @@
                     "owner": "rgrinberg",
                     "repo": "opium",
                     "stars": 784
-                  }
+                  },
+                  "first_seen": "2026-08-28T23:42:57.162Z"
                 },
                 {
                   "node_type": "item",
@@ -3331,8 +3528,9 @@
                     "last_commit": "2026-07-10T16:45:37Z",
                     "owner": "janestreet",
                     "repo": "incr_dom",
-                    "stars": 401
-                  }
+                    "stars": 402
+                  },
+                  "first_seen": "2026-08-28T23:42:57.162Z"
                 },
                 {
                   "node_type": "item",
@@ -3347,7 +3545,8 @@
                     "owner": "inhabitedtype",
                     "repo": "ocaml-webmachine",
                     "stars": 223
-                  }
+                  },
+                  "first_seen": "2026-08-28T23:42:57.162Z"
                 },
                 {
                   "node_type": "item",
@@ -3362,7 +3561,8 @@
                     "owner": "LexiFi",
                     "repo": "ocaml-vdom",
                     "stars": 210
-                  }
+                  },
+                  "first_seen": "2026-08-28T23:42:57.162Z"
                 }
               ]
             },
@@ -3384,7 +3584,8 @@
                     "owner": "aantron",
                     "repo": "lambdasoup",
                     "stars": 409
-                  }
+                  },
+                  "first_seen": "2026-08-28T23:42:57.162Z"
                 },
                 {
                   "node_type": "item",
@@ -3398,8 +3599,9 @@
                     "last_commit": "2026-07-15T16:29:43Z",
                     "owner": "LexiFi",
                     "repo": "gen_js_api",
-                    "stars": 183
-                  }
+                    "stars": 182
+                  },
+                  "first_seen": "2026-08-28T23:42:57.162Z"
                 },
                 {
                   "node_type": "item",
@@ -3414,7 +3616,8 @@
                     "owner": "aantron",
                     "repo": "markup.ml",
                     "stars": 149
-                  }
+                  },
+                  "first_seen": "2026-08-28T23:42:57.162Z"
                 },
                 {
                   "node_type": "item",
@@ -3429,7 +3632,8 @@
                     "owner": "anuragsoni",
                     "repo": "routes",
                     "stars": 149
-                  }
+                  },
+                  "first_seen": "2026-08-28T23:42:57.162Z"
                 },
                 {
                   "node_type": "item",
@@ -3443,8 +3647,9 @@
                     "last_commit": "2026-07-24T05:34:46Z",
                     "owner": "tategakibunko",
                     "repo": "jingoo",
-                    "stars": 142
-                  }
+                    "stars": 143
+                  },
+                  "first_seen": "2026-08-28T23:42:57.162Z"
                 },
                 {
                   "node_type": "item",
@@ -3459,7 +3664,8 @@
                     "owner": "mirage",
                     "repo": "ocaml-cow",
                     "stars": 112
-                  }
+                  },
+                  "first_seen": "2026-08-28T23:42:57.162Z"
                 },
                 {
                   "node_type": "item",
@@ -3474,7 +3680,8 @@
                     "owner": "mirage",
                     "repo": "ocaml-uri",
                     "stars": 99
-                  }
+                  },
+                  "first_seen": "2026-08-28T23:42:57.162Z"
                 },
                 {
                   "node_type": "item",
@@ -3489,7 +3696,8 @@
                     "owner": "rgrinberg",
                     "repo": "ocaml-mustache",
                     "stars": 87
-                  }
+                  },
+                  "first_seen": "2026-08-28T23:42:57.162Z"
                 },
                 {
                   "node_type": "item",
@@ -3504,7 +3712,8 @@
                     "owner": "inhabitedtype",
                     "repo": "ocaml-dispatch",
                     "stars": 45
-                  }
+                  },
+                  "first_seen": "2026-08-28T23:42:57.162Z"
                 },
                 {
                   "node_type": "item",
@@ -3519,7 +3728,8 @@
                     "owner": "klakplok",
                     "repo": "goji",
                     "stars": 44
-                  }
+                  },
+                  "first_seen": "2026-08-28T23:42:57.162Z"
                 },
                 {
                   "node_type": "item",
@@ -3534,7 +3744,8 @@
                     "owner": "Cumulus",
                     "repo": "Syndic",
                     "stars": 38
-                  }
+                  },
+                  "first_seen": "2026-08-28T23:42:57.162Z"
                 },
                 {
                   "node_type": "item",
@@ -3549,7 +3760,8 @@
                     "owner": "barko",
                     "repo": "atdjs",
                     "stars": 9
-                  }
+                  },
+                  "first_seen": "2026-08-28T23:42:57.162Z"
                 },
                 {
                   "node_type": "group",
@@ -3569,7 +3781,8 @@
                         "owner": "AngryLawyer",
                         "repo": "commonjs_of_ocaml",
                         "stars": 12
-                      }
+                      },
+                      "first_seen": "2026-08-28T23:42:57.162Z"
                     }
                   ]
                 }
@@ -3593,7 +3806,8 @@
                     "owner": "Cumulus",
                     "repo": "Cumulus",
                     "stars": 53
-                  }
+                  },
+                  "first_seen": "2026-08-28T23:42:57.162Z"
                 }
               ]
             }
@@ -3607,7 +3821,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-08-28T00:02:38.432Z",
+    "last_updated": "2026-08-28T23:42:57.162Z",
     "original_repository_info": {
       "archived": false,
       "id": 22212866,

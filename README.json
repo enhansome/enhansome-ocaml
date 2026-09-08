@@ -19,7 +19,7 @@
             "open_issues": 15,
             "owner": "dmtrKovalenko",
             "repo": "odiff",
-            "stars": 3184,
+            "stars": 3185,
             "topics": [
               "diff",
               "hacktoberfest",
@@ -272,7 +272,7 @@
             "open_issues": 91,
             "owner": "ocaml-batteries-team",
             "repo": "batteries-included",
-            "stars": 525,
+            "stars": 524,
             "topics": []
           },
           "first_seen": "2026-08-28T23:42:57.162Z"
@@ -293,7 +293,7 @@
             "open_issues": 21,
             "owner": "c-cube",
             "repo": "ocaml-containers",
-            "stars": 524,
+            "stars": 523,
             "topics": [
               "data-structure",
               "lightweight",
@@ -364,7 +364,7 @@
             "open_issues": 10,
             "owner": "ocaml-community",
             "repo": "easy-format",
-            "stars": 44,
+            "stars": 43,
             "topics": []
           },
           "first_seen": "2026-08-28T23:42:57.162Z"
@@ -462,11 +462,11 @@
             "id": 25880891,
             "language": "Rust",
             "license": "MIT",
-            "last_commit": "2026-09-07T13:51:12Z",
+            "last_commit": "2026-09-08T17:23:26Z",
             "open_issues": 524,
             "owner": "facebook",
             "repo": "flow",
-            "stars": 22287,
+            "stars": 22285,
             "topics": []
           },
           "first_seen": "2026-08-28T23:42:57.162Z"
@@ -484,7 +484,7 @@
             "language": "OCaml",
             "license": "MIT",
             "last_commit": "2026-09-03T13:29:36Z",
-            "open_issues": 204,
+            "open_issues": 203,
             "owner": "facebook",
             "repo": "infer",
             "stars": 15705,
@@ -705,7 +705,7 @@
             "open_issues": 29,
             "owner": "fkie-cad",
             "repo": "cwe_checker",
-            "stars": 1353,
+            "stars": 1355,
             "topics": [
               "binary-analysis",
               "cwe",
@@ -821,7 +821,7 @@
                 "open_issues": 2,
                 "owner": "artagnon",
                 "repo": "rhine-ml",
-                "stars": 634,
+                "stars": 633,
                 "topics": [
                   "compiler",
                   "llvm",
@@ -1239,7 +1239,7 @@
                 "open_issues": 147,
                 "owner": "mirage",
                 "repo": "irmin",
-                "stars": 1958,
+                "stars": 1957,
                 "topics": [
                   "database",
                   "git",
@@ -1504,7 +1504,7 @@
             "open_issues": 120,
             "owner": "ocaml-community",
             "repo": "utop",
-            "stars": 927,
+            "stars": 926,
             "topics": []
           },
           "first_seen": "2026-08-28T23:42:57.162Z"
@@ -1521,8 +1521,8 @@
             "id": 106263946,
             "language": "OCaml",
             "license": "MIT",
-            "last_commit": "2026-09-01T10:55:16Z",
-            "open_issues": 138,
+            "last_commit": "2026-09-08T12:39:21Z",
+            "open_issues": 135,
             "owner": "ocaml-ppx",
             "repo": "ocamlformat",
             "stars": 730,
@@ -1707,7 +1707,7 @@
                 "open_issues": 106,
                 "owner": "yallop",
                 "repo": "ocaml-ctypes",
-                "stars": 411,
+                "stars": 410,
                 "topics": []
               },
               "first_seen": "2026-08-28T23:42:57.162Z"
@@ -1773,8 +1773,8 @@
                 "id": 8048400,
                 "language": "OCaml",
                 "license": "MIT",
-                "last_commit": "2026-08-18T06:46:44Z",
-                "open_issues": 271,
+                "last_commit": "2026-09-08T13:41:47Z",
+                "open_issues": 269,
                 "owner": "ocaml",
                 "repo": "merlin",
                 "stars": 1705,
@@ -1799,7 +1799,7 @@
                 "id": 227073289,
                 "language": "OCaml",
                 "license": "NOASSERTION",
-                "last_commit": "2026-09-06T22:46:12Z",
+                "last_commit": "2026-09-07T21:55:26Z",
                 "open_issues": 128,
                 "owner": "ocaml",
                 "repo": "ocaml-lsp",
@@ -1824,7 +1824,7 @@
                 "open_issues": 41,
                 "owner": "ocaml",
                 "repo": "tuareg",
-                "stars": 396,
+                "stars": 395,
                 "topics": []
               },
               "first_seen": "2026-08-28T23:42:57.162Z"
@@ -2397,7 +2397,7 @@
             "open_issues": 3,
             "owner": "dbuenzli",
             "repo": "uucp",
-            "stars": 24,
+            "stars": 23,
             "topics": []
           },
           "first_seen": "2026-08-28T23:42:57.162Z"
@@ -2574,11 +2574,11 @@
             "id": 1377159,
             "language": "OCaml",
             "license": "LGPL-2.1",
-            "last_commit": "2026-09-07T14:01:04Z",
-            "open_issues": 2553,
+            "last_commit": "2026-09-08T17:15:32Z",
+            "open_issues": 2528,
             "owner": "rocq-prover",
             "repo": "rocq",
-            "stars": 5567,
+            "stars": 5566,
             "topics": [
               "coq",
               "dependent-types",
@@ -2629,11 +2629,11 @@
             "id": 3055052,
             "language": "OCaml",
             "license": "GPL-2.0",
-            "last_commit": "2026-09-07T14:29:52Z",
+            "last_commit": "2026-09-08T17:01:47Z",
             "open_issues": 274,
             "owner": "savonet",
             "repo": "liquidsoap",
-            "stars": 1727,
+            "stars": 1728,
             "topics": [
               "liquidsoap",
               "streaming",
@@ -2679,7 +2679,7 @@
             "open_issues": 55,
             "owner": "libguestfs",
             "repo": "libguestfs",
-            "stars": 745,
+            "stars": 746,
             "topics": []
           },
           "first_seen": "2026-08-28T23:42:57.162Z"
@@ -2700,7 +2700,7 @@
             "open_issues": 32,
             "owner": "cil-project",
             "repo": "cil",
-            "stars": 404,
+            "stars": 403,
             "topics": []
           },
           "first_seen": "2026-08-28T23:42:57.162Z"
@@ -2717,7 +2717,7 @@
             "id": 960233,
             "language": "OCaml",
             "license": "NOASSERTION",
-            "last_commit": "2026-09-07T08:26:16Z",
+            "last_commit": "2026-09-08T09:47:23Z",
             "open_issues": 101,
             "owner": "xapi-project",
             "repo": "xen-api",
@@ -2742,7 +2742,7 @@
             "open_issues": 58,
             "owner": "ygrek",
             "repo": "mldonkey",
-            "stars": 344,
+            "stars": 345,
             "topics": [
               "mldonkey",
               "ocaml-program",
@@ -2794,7 +2794,7 @@
             "open_issues": 3,
             "owner": "UnixJunkie",
             "repo": "dolog",
-            "stars": 38,
+            "stars": 37,
             "topics": [
               "logger",
               "logging",
@@ -3020,7 +3020,7 @@
                 "open_issues": 34,
                 "owner": "ocaml-ppx",
                 "repo": "ppx_deriving_yojson",
-                "stars": 169,
+                "stars": 168,
                 "topics": [
                   "deriving",
                   "json"
@@ -3254,11 +3254,11 @@
                 "id": 322217,
                 "language": "OCaml",
                 "license": "NOASSERTION",
-                "last_commit": "2026-08-20T17:15:32Z",
-                "open_issues": 106,
+                "last_commit": "2026-09-08T14:57:57Z",
+                "open_issues": 105,
                 "owner": "mirage",
                 "repo": "ocaml-cohttp",
-                "stars": 777,
+                "stars": 776,
                 "topics": [
                   "http",
                   "http-client",
@@ -3445,8 +3445,8 @@
                 "id": 72368050,
                 "language": "OCaml",
                 "license": "MIT",
-                "last_commit": "2026-09-07T17:03:18Z",
-                "open_issues": 1031,
+                "last_commit": "2026-09-08T16:31:17Z",
+                "open_issues": 1032,
                 "owner": "ocaml",
                 "repo": "dune",
                 "stars": 1914,
@@ -3476,7 +3476,7 @@
                 "open_issues": 0,
                 "owner": "mmottl",
                 "repo": "ocaml-makefile",
-                "stars": 80,
+                "stars": 79,
                 "topics": [
                   "makefile",
                   "ocaml"
@@ -3496,11 +3496,11 @@
                 "id": 18809626,
                 "language": "OCaml",
                 "license": "ISC",
-                "last_commit": "2026-08-13T16:24:40Z",
+                "last_commit": "2026-09-08T08:25:30Z",
                 "open_issues": 0,
                 "owner": "dbuenzli",
                 "repo": "topkg",
-                "stars": 70,
+                "stars": 69,
                 "topics": []
               },
               "first_seen": "2026-08-28T23:42:57.162Z"
@@ -3521,7 +3521,7 @@
                 "open_issues": 36,
                 "owner": "ocaml-obuild",
                 "repo": "obuild",
-                "stars": 56,
+                "stars": 55,
                 "topics": []
               },
               "first_seen": "2026-08-28T23:42:57.162Z"
@@ -3573,7 +3573,7 @@
                     "open_issues": 7,
                     "owner": "ocaml",
                     "repo": "oasis2opam",
-                    "stars": 27,
+                    "stars": 26,
                     "topics": []
                   },
                   "first_seen": "2026-08-28T23:42:57.162Z"
@@ -3781,8 +3781,8 @@
             "id": 72368050,
             "language": "OCaml",
             "license": "MIT",
-            "last_commit": "2026-09-07T17:03:18Z",
-            "open_issues": 1031,
+            "last_commit": "2026-09-08T16:31:17Z",
+            "open_issues": 1032,
             "owner": "ocaml",
             "repo": "dune",
             "stars": 1914,
@@ -3812,7 +3812,7 @@
             "open_issues": 39,
             "owner": "ocaml-ppx",
             "repo": "ppx_deriving",
-            "stars": 522,
+            "stars": 521,
             "topics": [
               "deriving"
             ]
@@ -4129,7 +4129,7 @@
             "open_issues": 45,
             "owner": "owlbarn",
             "repo": "owl",
-            "stars": 1351,
+            "stars": 1350,
             "topics": [
               "algorithmic-differentation",
               "autograd",
@@ -4377,7 +4377,7 @@
                 "open_issues": 1,
                 "owner": "mmottl",
                 "repo": "pcre-ocaml",
-                "stars": 36,
+                "stars": 35,
                 "topics": [
                   "ocaml",
                   "pattern-matching",
@@ -4403,7 +4403,7 @@
                 "open_issues": 1,
                 "owner": "rgrinberg",
                 "repo": "humane-re",
-                "stars": 26,
+                "stars": 25,
                 "topics": []
               },
               "first_seen": "2026-08-28T23:42:57.162Z"
@@ -4431,7 +4431,7 @@
                 "open_issues": 6,
                 "owner": "mirleft",
                 "repo": "ocaml-tls",
-                "stars": 321,
+                "stars": 320,
                 "topics": [
                   "mirageos",
                   "ocaml",
@@ -4457,7 +4457,7 @@
                 "open_issues": 43,
                 "owner": "mirleft",
                 "repo": "ocaml-nocrypto",
-                "stars": 112,
+                "stars": 111,
                 "topics": []
               },
               "first_seen": "2026-08-28T23:42:57.162Z"
@@ -4566,7 +4566,7 @@
                 "open_issues": 23,
                 "owner": "ocaml-community",
                 "repo": "yojson",
-                "stars": 368,
+                "stars": 367,
                 "topics": [
                   "json",
                   "ocaml",
@@ -4613,7 +4613,7 @@
                 "open_issues": 3,
                 "owner": "janestreet",
                 "repo": "sexplib",
-                "stars": 195,
+                "stars": 196,
                 "topics": []
               },
               "first_seen": "2026-08-28T23:42:57.162Z"
@@ -4855,7 +4855,7 @@
                 "open_issues": 63,
                 "owner": "mirage",
                 "repo": "alcotest",
-                "stars": 514,
+                "stars": 513,
                 "topics": [
                   "ocaml",
                   "unit-testing"
@@ -4876,10 +4876,10 @@
                 "language": "OCaml",
                 "license": "BSD-2-Clause",
                 "last_commit": "2026-08-30T20:29:29Z",
-                "open_issues": 49,
+                "open_issues": 50,
                 "owner": "c-cube",
                 "repo": "qcheck",
-                "stars": 407,
+                "stars": 406,
                 "topics": [
                   "alcotest",
                   "monadic-interface",
@@ -5075,7 +5075,7 @@
                     "open_issues": 33,
                     "owner": "rgrinberg",
                     "repo": "opium",
-                    "stars": 783,
+                    "stars": 782,
                     "topics": []
                   },
                   "first_seen": "2026-08-28T23:42:57.162Z"
@@ -5393,7 +5393,7 @@
                     "open_issues": 2,
                     "owner": "klakplok",
                     "repo": "goji",
-                    "stars": 44,
+                    "stars": 43,
                     "topics": []
                   },
                   "first_seen": "2026-08-28T23:42:57.162Z"
@@ -5508,7 +5508,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-09-07T18:53:00.020Z",
+    "last_updated": "2026-09-08T18:07:41.898Z",
     "original_repository_info": {
       "archived": false,
       "description": "A curated collection of awesome OCaml tools, frameworks, libraries and articles.",
@@ -5520,7 +5520,7 @@
       "open_issues": 5,
       "owner": "ocaml-community",
       "repo": "awesome-ocaml",
-      "stars": 3112,
+      "stars": 3111,
       "topics": [
         "awesome",
         "ocaml",

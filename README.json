@@ -462,11 +462,11 @@
             "id": 25880891,
             "language": "Rust",
             "license": "MIT",
-            "last_commit": "2026-10-02T18:36:00Z",
+            "last_commit": "2026-10-03T03:25:05Z",
             "open_issues": 517,
             "owner": "facebook",
             "repo": "flow",
-            "stars": 22296,
+            "stars": 22297,
             "topics": []
           },
           "first_seen": "2026-08-28T23:42:57.162Z"
@@ -484,7 +484,7 @@
             "language": "OCaml",
             "license": "MIT",
             "last_commit": "2026-10-02T17:56:37Z",
-            "open_issues": 225,
+            "open_issues": 271,
             "owner": "facebook",
             "repo": "infer",
             "stars": 15714,
@@ -1341,7 +1341,7 @@
             {
               "node_type": "item",
               "title": "Caqti setence preparation, ppx_rapper",
-              "description": null,
+              "description": "roddyyaga/ppx_rapper",
               "children": [],
               "repo_info": {
                 "archived": false,
@@ -1437,7 +1437,7 @@
         {
           "node_type": "item",
           "title": "ISO8601",
-          "description": null,
+          "description": "ocaml-community/ISO8601.ml",
           "children": [],
           "repo_info": {
             "archived": false,
@@ -1464,7 +1464,7 @@
         {
           "node_type": "item",
           "title": "odate",
-          "description": null,
+          "description": "hhugo/odate",
           "children": [],
           "repo_info": {
             "archived": false,
@@ -1911,7 +1911,7 @@
                 {
                   "node_type": "item",
                   "title": "Sublime text package",
-                  "description": null,
+                  "description": "let-def/sublime-text-merlin",
                   "children": [],
                   "repo_info": {
                     "archived": false,
@@ -2014,7 +2014,7 @@
                 {
                   "node_type": "item",
                   "title": "Vim plugin",
-                  "description": ".",
+                  "description": "let-def/ocp-indent-vim",
                   "children": [],
                   "repo_info": {
                     "archived": false,
@@ -2044,7 +2044,7 @@
             {
               "node_type": "item",
               "title": "Bisect_ppx",
-              "description": null,
+              "description": "aantron/bisect_ppx",
               "children": [],
               "repo_info": {
                 "archived": false,
@@ -2604,7 +2604,7 @@
             "open_issues": 62,
             "owner": "mirage",
             "repo": "mirage",
-            "stars": 2998,
+            "stars": 3000,
             "topics": [
               "kvm",
               "linux",
@@ -3449,7 +3449,7 @@
                 "open_issues": 1026,
                 "owner": "ocaml",
                 "repo": "dune",
-                "stars": 1920,
+                "stars": 1921,
                 "topics": [
                   "build",
                   "dune",
@@ -3719,7 +3719,7 @@
             {
               "node_type": "item",
               "title": "Parallel programming in multicore OCaml",
-              "description": null,
+              "description": "ocaml-multicore/parallel-programming-in-multicore-ocaml",
               "children": [],
               "repo_info": {
                 "archived": false,
@@ -3785,7 +3785,7 @@
             "open_issues": 1026,
             "owner": "ocaml",
             "repo": "dune",
-            "stars": 1920,
+            "stars": 1921,
             "topics": [
               "build",
               "dune",
@@ -3822,7 +3822,7 @@
         {
           "node_type": "item",
           "title": "Reason's native Console.log",
-          "description": null,
+          "description": "reasonml/reason-native",
           "children": [],
           "repo_info": {
             "archived": false,
@@ -3885,7 +3885,7 @@
         {
           "node_type": "item",
           "title": "Inspect",
-          "description": null,
+          "description": "krohrer/caml-inspect",
           "children": [],
           "repo_info": {
             "archived": false,
@@ -3906,7 +3906,7 @@
         {
           "node_type": "item",
           "title": "Genprint",
-          "description": null,
+          "description": "progman1/genprintlib",
           "children": [],
           "repo_info": {
             "archived": false,
@@ -3927,7 +3927,7 @@
         {
           "node_type": "item",
           "title": "Dum",
-          "description": null,
+          "description": "mjambon/dum",
           "children": [],
           "repo_info": {
             "archived": false,
@@ -4011,7 +4011,7 @@
         {
           "node_type": "item",
           "title": "OCaml@p",
-          "description": null,
+          "description": "tsubame-sp/ocaml_at_p",
           "children": [],
           "repo_info": {
             "archived": false,
@@ -4322,7 +4322,7 @@
                 "id": 3107468,
                 "language": "OCaml",
                 "license": "NOASSERTION",
-                "last_commit": "2026-10-02T18:10:50Z",
+                "last_commit": "2026-10-02T21:24:17Z",
                 "open_issues": 31,
                 "owner": "ocaml",
                 "repo": "ocaml-re",
@@ -4704,7 +4704,7 @@
                 "open_issues": 62,
                 "owner": "mirage",
                 "repo": "mirage",
-                "stars": 2998,
+                "stars": 3000,
                 "topics": [
                   "kvm",
                   "linux",
@@ -5508,7 +5508,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-10-02T19:33:01.534Z",
+    "last_updated": "2026-10-03T05:01:04.293Z",
     "original_repository_info": {
       "archived": false,
       "description": "A curated collection of awesome OCaml tools, frameworks, libraries and articles.",

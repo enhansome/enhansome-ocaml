@@ -19,7 +19,7 @@
             "open_issues": 16,
             "owner": "dmtrKovalenko",
             "repo": "odiff",
-            "stars": 3265,
+            "stars": 3270,
             "topics": [
               "diff",
               "hacktoberfest",
@@ -230,7 +230,7 @@
             "open_issues": 6,
             "owner": "janestreet",
             "repo": "core",
-            "stars": 1333,
+            "stars": 1334,
             "topics": []
           },
           "first_seen": "2026-08-28T23:42:57.162Z"
@@ -319,7 +319,7 @@
             "language": "OCaml",
             "license": "ISC",
             "last_commit": "2026-06-09T06:06:37Z",
-            "open_issues": 14,
+            "open_issues": 15,
             "owner": "dbuenzli",
             "repo": "cmdliner",
             "stars": 345,
@@ -462,11 +462,11 @@
             "id": 25880891,
             "language": "Rust",
             "license": "MIT",
-            "last_commit": "2026-10-16T16:55:55Z",
+            "last_commit": "2026-10-17T14:27:49Z",
             "open_issues": 512,
             "owner": "facebook",
             "repo": "flow",
-            "stars": 22296,
+            "stars": 22295,
             "topics": []
           },
           "first_seen": "2026-08-28T23:42:57.162Z"
@@ -484,10 +484,10 @@
             "language": "OCaml",
             "license": "MIT",
             "last_commit": "2026-10-16T13:55:24Z",
-            "open_issues": 265,
+            "open_issues": 266,
             "owner": "facebook",
             "repo": "infer",
-            "stars": 15724,
+            "stars": 15725,
             "topics": [
               "c",
               "code-quality",
@@ -638,7 +638,7 @@
             "open_issues": 42,
             "owner": "BinaryAnalysisPlatform",
             "repo": "bap",
-            "stars": 2262,
+            "stars": 2263,
             "topics": [
               "arm",
               "bap",
@@ -705,7 +705,7 @@
             "open_issues": 32,
             "owner": "fkie-cad",
             "repo": "cwe_checker",
-            "stars": 1362,
+            "stars": 1361,
             "topics": [
               "binary-analysis",
               "cwe",
@@ -1525,7 +1525,7 @@
             "open_issues": 136,
             "owner": "ocaml-ppx",
             "repo": "ocamlformat",
-            "stars": 733,
+            "stars": 732,
             "topics": [
               "ocaml"
             ]
@@ -1777,7 +1777,7 @@
                 "open_issues": 257,
                 "owner": "ocaml",
                 "repo": "merlin",
-                "stars": 1710,
+                "stars": 1707,
                 "topics": [
                   "atom",
                   "emacs",
@@ -1803,7 +1803,7 @@
                 "open_issues": 133,
                 "owner": "ocaml",
                 "repo": "ocaml-lsp",
-                "stars": 912,
+                "stars": 907,
                 "topics": []
               },
               "first_seen": "2026-08-28T23:42:57.162Z"
@@ -2137,7 +2137,7 @@
             "id": 11424490,
             "language": "OCaml",
             "license": "NOASSERTION",
-            "last_commit": "2026-09-10T15:45:08Z",
+            "last_commit": "2026-10-17T15:27:01Z",
             "open_issues": 10,
             "owner": "johnwhitington",
             "repo": "camlpdf",
@@ -2574,8 +2574,8 @@
             "id": 1377159,
             "language": "OCaml",
             "license": "LGPL-2.1",
-            "last_commit": "2026-10-16T14:21:48Z",
-            "open_issues": 2511,
+            "last_commit": "2026-10-17T12:27:28Z",
+            "open_issues": 2509,
             "owner": "rocq-prover",
             "repo": "rocq",
             "stars": 5606,
@@ -3445,8 +3445,8 @@
                 "id": 72368050,
                 "language": "OCaml",
                 "license": "MIT",
-                "last_commit": "2026-10-16T11:31:34Z",
-                "open_issues": 1038,
+                "last_commit": "2026-10-17T11:15:36Z",
+                "open_issues": 1043,
                 "owner": "ocaml",
                 "repo": "dune",
                 "stars": 1926,
@@ -3605,7 +3605,7 @@
                 "id": 16730829,
                 "language": "OCaml",
                 "license": "NOASSERTION",
-                "last_commit": "2026-10-16T15:36:53Z",
+                "last_commit": "2026-10-17T16:59:16Z",
                 "open_issues": 26,
                 "owner": "mathiasbourgoin",
                 "repo": "Sarek",
@@ -3781,8 +3781,8 @@
             "id": 72368050,
             "language": "OCaml",
             "license": "MIT",
-            "last_commit": "2026-10-16T11:31:34Z",
-            "open_issues": 1038,
+            "last_commit": "2026-10-17T11:15:36Z",
+            "open_issues": 1043,
             "owner": "ocaml",
             "repo": "dune",
             "stars": 1926,
@@ -4125,7 +4125,7 @@
             "id": 61579222,
             "language": "OCaml",
             "license": "MIT",
-            "last_commit": "2026-10-16T18:12:58Z",
+            "last_commit": "2026-10-17T12:16:04Z",
             "open_issues": 45,
             "owner": "owlbarn",
             "repo": "owl",
@@ -4326,7 +4326,7 @@
                 "open_issues": 33,
                 "owner": "ocaml",
                 "repo": "ocaml-re",
-                "stars": 261,
+                "stars": 259,
                 "topics": [
                   "dfa",
                   "ocaml",
@@ -5508,7 +5508,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-10-16T18:25:31.440Z",
+    "last_updated": "2026-10-17T17:33:10.639Z",
     "original_repository_info": {
       "archived": false,
       "description": "A curated collection of awesome OCaml tools, frameworks, libraries and articles.",
@@ -5520,7 +5520,7 @@
       "open_issues": 4,
       "owner": "ocaml-community",
       "repo": "awesome-ocaml",
-      "stars": 3125,
+      "stars": 3126,
       "topics": [
         "awesome",
         "ocaml",

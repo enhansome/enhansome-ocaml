@@ -19,7 +19,7 @@
             "open_issues": 16,
             "owner": "dmtrKovalenko",
             "repo": "odiff",
-            "stars": 3274,
+            "stars": 3278,
             "topics": [
               "diff",
               "hacktoberfest",
@@ -462,11 +462,11 @@
             "id": 25880891,
             "language": "Rust",
             "license": "MIT",
-            "last_commit": "2026-10-19T18:45:04Z",
-            "open_issues": 512,
+            "last_commit": "2026-10-20T18:00:54Z",
+            "open_issues": 513,
             "owner": "facebook",
             "repo": "flow",
-            "stars": 22299,
+            "stars": 22301,
             "topics": []
           },
           "first_seen": "2026-08-28T23:42:57.162Z"
@@ -483,11 +483,11 @@
             "id": 29857799,
             "language": "OCaml",
             "license": "MIT",
-            "last_commit": "2026-10-19T11:03:54Z",
-            "open_issues": 267,
+            "last_commit": "2026-10-20T10:23:15Z",
+            "open_issues": 266,
             "owner": "facebook",
             "repo": "infer",
-            "stars": 15729,
+            "stars": 15731,
             "topics": [
               "c",
               "code-quality",
@@ -679,7 +679,7 @@
             "open_issues": 18,
             "owner": "airbus-seclab",
             "repo": "bincat",
-            "stars": 1880,
+            "stars": 1879,
             "topics": [
               "disassembly",
               "ida-plugin",
@@ -1239,7 +1239,7 @@
                 "open_issues": 147,
                 "owner": "mirage",
                 "repo": "irmin",
-                "stars": 1962,
+                "stars": 1963,
                 "topics": [
                   "database",
                   "git",
@@ -1525,7 +1525,7 @@
             "open_issues": 136,
             "owner": "ocaml-ppx",
             "repo": "ocamlformat",
-            "stars": 732,
+            "stars": 733,
             "topics": [
               "ocaml"
             ]
@@ -1773,8 +1773,8 @@
                 "id": 8048400,
                 "language": "OCaml",
                 "license": "MIT",
-                "last_commit": "2026-10-19T07:42:48Z",
-                "open_issues": 258,
+                "last_commit": "2026-10-20T14:23:33Z",
+                "open_issues": 260,
                 "owner": "ocaml",
                 "repo": "merlin",
                 "stars": 1707,
@@ -2575,10 +2575,10 @@
             "language": "OCaml",
             "license": "LGPL-2.1",
             "last_commit": "2026-10-19T14:16:25Z",
-            "open_issues": 2507,
+            "open_issues": 2514,
             "owner": "rocq-prover",
             "repo": "rocq",
-            "stars": 5607,
+            "stars": 5610,
             "topics": [
               "coq",
               "dependent-types",
@@ -2700,7 +2700,7 @@
             "open_issues": 32,
             "owner": "cil-project",
             "repo": "cil",
-            "stars": 403,
+            "stars": 404,
             "topics": []
           },
           "first_seen": "2026-08-28T23:42:57.162Z"
@@ -2717,8 +2717,8 @@
             "id": 960233,
             "language": "OCaml",
             "license": "NOASSERTION",
-            "last_commit": "2026-10-19T08:44:30Z",
-            "open_issues": 107,
+            "last_commit": "2026-10-20T14:20:23Z",
+            "open_issues": 109,
             "owner": "xapi-project",
             "repo": "xen-api",
             "stars": 367,
@@ -3445,11 +3445,11 @@
                 "id": 72368050,
                 "language": "OCaml",
                 "license": "MIT",
-                "last_commit": "2026-10-19T20:03:31Z",
+                "last_commit": "2026-10-19T20:22:02Z",
                 "open_issues": 1038,
                 "owner": "ocaml",
                 "repo": "dune",
-                "stars": 1929,
+                "stars": 1930,
                 "topics": [
                   "build",
                   "dune",
@@ -3609,7 +3609,7 @@
                 "open_issues": 26,
                 "owner": "mathiasbourgoin",
                 "repo": "Sarek",
-                "stars": 149,
+                "stars": 150,
                 "topics": [
                   "cuda",
                   "gpgpu",
@@ -3781,11 +3781,11 @@
             "id": 72368050,
             "language": "OCaml",
             "license": "MIT",
-            "last_commit": "2026-10-19T20:03:31Z",
+            "last_commit": "2026-10-19T20:22:02Z",
             "open_issues": 1038,
             "owner": "ocaml",
             "repo": "dune",
-            "stars": 1929,
+            "stars": 1930,
             "topics": [
               "build",
               "dune",
@@ -4804,7 +4804,7 @@
                     "open_issues": 8,
                     "owner": "stevenvar",
                     "repo": "OMicroB",
-                    "stars": 155,
+                    "stars": 156,
                     "topics": []
                   },
                   "first_seen": "2026-08-28T23:42:57.162Z"
@@ -5508,7 +5508,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-10-19T20:14:15.937Z",
+    "last_updated": "2026-10-20T18:45:43.846Z",
     "original_repository_info": {
       "archived": false,
       "description": "A curated collection of awesome OCaml tools, frameworks, libraries and articles.",
@@ -5520,7 +5520,7 @@
       "open_issues": 4,
       "owner": "ocaml-community",
       "repo": "awesome-ocaml",
-      "stars": 3128,
+      "stars": 3126,
       "topics": [
         "awesome",
         "ocaml",

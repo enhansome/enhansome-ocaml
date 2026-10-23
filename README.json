@@ -19,7 +19,7 @@
             "open_issues": 18,
             "owner": "dmtrKovalenko",
             "repo": "odiff",
-            "stars": 3280,
+            "stars": 3283,
             "topics": [
               "diff",
               "hacktoberfest",
@@ -230,7 +230,7 @@
             "open_issues": 6,
             "owner": "janestreet",
             "repo": "core",
-            "stars": 1337,
+            "stars": 1336,
             "topics": []
           },
           "first_seen": "2026-08-28T23:42:57.162Z"
@@ -322,7 +322,7 @@
             "open_issues": 11,
             "owner": "dbuenzli",
             "repo": "cmdliner",
-            "stars": 345,
+            "stars": 346,
             "topics": []
           },
           "first_seen": "2026-08-28T23:42:57.162Z"
@@ -462,7 +462,7 @@
             "id": 25880891,
             "language": "Rust",
             "license": "MIT",
-            "last_commit": "2026-10-22T16:04:12Z",
+            "last_commit": "2026-10-23T18:39:58Z",
             "open_issues": 511,
             "owner": "facebook",
             "repo": "flow",
@@ -483,11 +483,11 @@
             "id": 29857799,
             "language": "OCaml",
             "license": "MIT",
-            "last_commit": "2026-10-22T10:45:00Z",
-            "open_issues": 261,
+            "last_commit": "2026-10-23T10:07:58Z",
+            "open_issues": 263,
             "owner": "facebook",
             "repo": "infer",
-            "stars": 15730,
+            "stars": 15729,
             "topics": [
               "c",
               "code-quality",
@@ -1504,7 +1504,7 @@
             "open_issues": 119,
             "owner": "ocaml-community",
             "repo": "utop",
-            "stars": 932,
+            "stars": 933,
             "topics": []
           },
           "first_seen": "2026-08-28T23:42:57.162Z"
@@ -1803,7 +1803,7 @@
                 "open_issues": 134,
                 "owner": "ocaml",
                 "repo": "ocaml-lsp",
-                "stars": 909,
+                "stars": 910,
                 "topics": []
               },
               "first_seen": "2026-08-28T23:42:57.162Z"
@@ -1824,7 +1824,7 @@
                 "open_issues": 41,
                 "owner": "ocaml",
                 "repo": "tuareg",
-                "stars": 395,
+                "stars": 396,
                 "topics": []
               },
               "first_seen": "2026-08-28T23:42:57.162Z"
@@ -2574,11 +2574,11 @@
             "id": 1377159,
             "language": "OCaml",
             "license": "LGPL-2.1",
-            "last_commit": "2026-10-22T12:42:14Z",
-            "open_issues": 2514,
+            "last_commit": "2026-10-23T10:10:52Z",
+            "open_issues": 2506,
             "owner": "rocq-prover",
             "repo": "rocq",
-            "stars": 5612,
+            "stars": 5624,
             "topics": [
               "coq",
               "dependent-types",
@@ -2717,8 +2717,8 @@
             "id": 960233,
             "language": "OCaml",
             "license": "NOASSERTION",
-            "last_commit": "2026-10-22T15:53:43Z",
-            "open_issues": 110,
+            "last_commit": "2026-10-23T11:18:00Z",
+            "open_issues": 109,
             "owner": "xapi-project",
             "repo": "xen-api",
             "stars": 367,
@@ -3445,11 +3445,11 @@
                 "id": 72368050,
                 "language": "OCaml",
                 "license": "MIT",
-                "last_commit": "2026-10-22T17:25:39Z",
-                "open_issues": 1042,
+                "last_commit": "2026-10-23T17:03:39Z",
+                "open_issues": 1047,
                 "owner": "ocaml",
                 "repo": "dune",
-                "stars": 1932,
+                "stars": 1933,
                 "topics": [
                   "build",
                   "dune",
@@ -3606,7 +3606,7 @@
                 "language": "OCaml",
                 "license": "NOASSERTION",
                 "last_commit": "2026-10-18T15:16:43Z",
-                "open_issues": 27,
+                "open_issues": 26,
                 "owner": "mathiasbourgoin",
                 "repo": "Sarek",
                 "stars": 150,
@@ -3781,11 +3781,11 @@
             "id": 72368050,
             "language": "OCaml",
             "license": "MIT",
-            "last_commit": "2026-10-22T17:25:39Z",
-            "open_issues": 1042,
+            "last_commit": "2026-10-23T17:03:39Z",
+            "open_issues": 1047,
             "owner": "ocaml",
             "repo": "dune",
-            "stars": 1932,
+            "stars": 1933,
             "topics": [
               "build",
               "dune",
@@ -4588,8 +4588,8 @@
                 "id": 8681682,
                 "language": "OCaml",
                 "license": "NOASSERTION",
-                "last_commit": "2026-08-05T05:53:10Z",
-                "open_issues": 90,
+                "last_commit": "2026-10-23T18:28:47Z",
+                "open_issues": 89,
                 "owner": "ahrefs",
                 "repo": "atd",
                 "stars": 354,
@@ -4852,7 +4852,7 @@
                 "language": "OCaml",
                 "license": "ISC",
                 "last_commit": "2026-07-20T08:15:33Z",
-                "open_issues": 65,
+                "open_issues": 67,
                 "owner": "mirage",
                 "repo": "alcotest",
                 "stars": 514,
@@ -5139,7 +5139,7 @@
                     "id": 74473513,
                     "language": "OCaml",
                     "license": "MIT",
-                    "last_commit": "2025-02-06T16:30:42Z",
+                    "last_commit": "2026-10-23T12:15:39Z",
                     "open_issues": 5,
                     "owner": "LexiFi",
                     "repo": "ocaml-vdom",
@@ -5205,6 +5205,33 @@
                 },
                 {
                   "node_type": "item",
+                  "title": "routes",
+                  "description": "Typed routes for OCaml/ReasonML web applications.",
+                  "children": [],
+                  "repo_info": {
+                    "archived": false,
+                    "description": "typed bidirectional router for OCaml/ReasonML web applications",
+                    "homepage": "https://anuragsoni.github.io/routes/",
+                    "id": 178964795,
+                    "language": "OCaml",
+                    "license": "BSD-3-Clause",
+                    "last_commit": "2026-06-20T18:16:19Z",
+                    "open_issues": 0,
+                    "owner": "anuragsoni",
+                    "repo": "routes",
+                    "stars": 150,
+                    "topics": [
+                      "bidirectional",
+                      "http-router",
+                      "http-routing",
+                      "ocaml",
+                      "router"
+                    ]
+                  },
+                  "first_seen": "2026-08-28T23:42:57.162Z"
+                },
+                {
+                  "node_type": "item",
                   "title": "Markup.ml",
                   "description": "Error-recovering streaming HTML5 and XML parsers, serializers.",
                   "children": [],
@@ -5226,33 +5253,6 @@
                       "ocaml",
                       "streaming",
                       "xml"
-                    ]
-                  },
-                  "first_seen": "2026-08-28T23:42:57.162Z"
-                },
-                {
-                  "node_type": "item",
-                  "title": "routes",
-                  "description": "Typed routes for OCaml/ReasonML web applications.",
-                  "children": [],
-                  "repo_info": {
-                    "archived": false,
-                    "description": "typed bidirectional router for OCaml/ReasonML web applications",
-                    "homepage": "https://anuragsoni.github.io/routes/",
-                    "id": 178964795,
-                    "language": "OCaml",
-                    "license": "BSD-3-Clause",
-                    "last_commit": "2026-06-20T18:16:19Z",
-                    "open_issues": 0,
-                    "owner": "anuragsoni",
-                    "repo": "routes",
-                    "stars": 149,
-                    "topics": [
-                      "bidirectional",
-                      "http-router",
-                      "http-routing",
-                      "ocaml",
-                      "router"
                     ]
                   },
                   "first_seen": "2026-08-28T23:42:57.162Z"
@@ -5508,7 +5508,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-10-22T18:52:30.503Z",
+    "last_updated": "2026-10-23T18:44:54.829Z",
     "original_repository_info": {
       "archived": false,
       "description": "A curated collection of awesome OCaml tools, frameworks, libraries and articles.",
@@ -5516,7 +5516,7 @@
       "id": 22212866,
       "language": null,
       "license": null,
-      "last_commit": "2026-06-15T10:36:54Z",
+      "last_commit": "2026-10-23T13:51:53Z",
       "open_issues": 4,
       "owner": "ocaml-community",
       "repo": "awesome-ocaml",
@@ -5528,7 +5528,7 @@
         "resources"
       ]
     },
-    "original_repository_sha": "be4de2c236793ba4d6c6f841423279fc282d6d4e",
+    "original_repository_sha": "7754349626747fb04ee1a495925668b34b24de18",
     "enhanced_repository": "enhansome/enhansome-ocaml",
     "enhanced_repository_description": null,
     "title": "Awesome OCaml with stars"
